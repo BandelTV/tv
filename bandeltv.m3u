@@ -8586,6 +8586,102 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="SPORTS", Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
+=====Sport TV=====
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/CBBFPSg/Sport-TV-HD.jpg" group-title="SPORT TV", Sport TV + HD 
+http://dns.acaidopara.net:8080/5087405929/7405929508/51993
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/CBBFPSg/Sport-TV-HD.jpg" group-title="SPORT TV", Sport TV +
+http://dns.acaidopara.net:8080/5087405929/7405929508/10795
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/CBBFPSg/Sport-TV-HD.jpg" group-title="SPORT TV", Sport TV 1 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1514
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/CBBFPSg/Sport-TV-HD.jpg" group-title="SPORT TV", Sport TV 1 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1515
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/CBBFPSg/Sport-TV-HD.jpg" group-title="SPORT TV", Sport TV 1
+http://dns.acaidopara.net:8080/5087405929/7405929508/1516
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/L6QbPns/Sport-TV-2-HD.jpg" group-title="SPORT TV", Sport TV 2 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1517
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/L6QbPns/Sport-TV-2-HD.jpg" group-title="SPORT TV", Sport TV 2 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1518
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/L6QbPns/Sport-TV-2-HD.jpg" group-title="SPORT TV", Sport TV 2
+http://dns.acaidopara.net:8080/5087405929/7405929508/1519
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/4t4jSxk/Sport-TV-3-HD.jpg" group-title="SPORT TV", Sport TV 3 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1520
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/4t4jSxk/Sport-TV-3-HD.jpg" group-title="SPORT TV", Sport TV 3 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1521
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/4t4jSxk/Sport-TV-3-HD.jpg" group-title="SPORT TV", Sport TV 3
+http://dns.acaidopara.net:8080/5087405929/7405929508/1522
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/kJQyK3q/Sport-TV-4-HD.jpg" group-title="SPORT TV", Sport TV 4 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1523
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/kJQyK3q/Sport-TV-4-HD.jpg" group-title="SPORT TV", Sport TV 4 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1524
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/kJQyK3q/Sport-TV-4-HD.jpg" group-title="SPORT TV", Sport TV 4
+http://dns.acaidopara.net:8080/5087405929/7405929508/1525
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zNZBqbj/Sport-TV-5-HD.jpg" group-title="SPORT TV", Sport TV 5 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1526
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zNZBqbj/Sport-TV-5-HD.jpg" group-title="SPORT TV", Sport TV 5 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1527
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zNZBqbj/Sport-TV-5-HD.jpg" group-title="SPORT TV", Sport TV 5
+http://dns.acaidopara.net:8080/5087405929/7405929508/1528
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/n0X3Jwx/Sport-TV-6-HD.jpg" group-title="SPORT TV", Sport TV 6 HD 
+http://dns.acaidopara.net:8080/5087405929/7405929508/68314
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/n0X3Jwx/Sport-TV-6-HD.jpg" group-title="SPORT TV", Sport TV 6 
+http://dns.acaidopara.net:8080/5087405929/7405929508/68315
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Y21Qp5r/NBA.jpg" group-title="SPORT TV", NBA 
+http://dns.acaidopara.net:8080/5087405929/7405929508/45258
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nRgqkDr/Benfica-TV-HD.jpg" group-title="SPORT TV", Benfica TV HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1529
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nRgqkDr/Benfica-TV-HD.jpg" group-title="SPORT TV", Benfica TV HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1530
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nRgqkDr/Benfica-TV-HD.jpg" group-title="SPORT TV", Benfica TV
+http://dns.acaidopara.net:8080/5087405929/7405929508/1531
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hY04HdK/Sporting-TV.jpg" group-title="SPORT TV", Sporting TV
+http://dns.acaidopara.net:8080/5087405929/7405929508/1533
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 1 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2377
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 1 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2375
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 1
+http://dns.acaidopara.net:8080/5087405929/7405929508/2373
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 2 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2385
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 2 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2382
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 2
+http://dns.acaidopara.net:8080/5087405929/7405929508/2381
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 3 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2391
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 3 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2390
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 3
+http://dns.acaidopara.net:8080/5087405929/7405929508/2387
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 4 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2398
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 4 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2396
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 4
+http://dns.acaidopara.net:8080/5087405929/7405929508/2395
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 5 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2405
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 5 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2402
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 5
+http://dns.acaidopara.net:8080/5087405929/7405929508/2401
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 6 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2411
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 6 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2409
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 6
+http://dns.acaidopara.net:8080/5087405929/7405929508/2407
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jHfRZKD/canal-11.jpg" group-title="SPORT TV", Canal 11 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2623
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/1Q3GxWQ/A-Bola-TV.jpg" group-title="SPORT TV", A Bola TV
+http://dns.acaidopara.net:8080/5087405929/7405929508/1535
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/dBDxTRS/Eurosport-1.jpg" group-title="SPORT TV", Eurosport 1
+http://dns.acaidopara.net:8080/5087405929/7405929508/1536
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Z1qnmmF/Eurosport-2.jpg" group-title="SPORT TV", Eurosport 2
+http://dns.acaidopara.net:8080/5087405929/7405929508/1537
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/VDBZwNy/Fight-Network.jpg" group-title="SPORT TV", Fight Network
+http://dns.acaidopara.net:8080/5087405929/7405929508/1538
 
 ###### sports 2 #######
 
