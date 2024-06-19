@@ -6,6 +6,9 @@ Bandel TV
 
 =====EURO2024====
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/115px-UEFA_Euro_2024_Logo.svg.png" group-title="EURO2024", Sport TV + HD 
+http://dns.acaidopara.net:8080/5087405929/7405929508/51993
+
 #EXTINF:-1 tvg-id="beINSports1.qa" group-title="EURO2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/115px-UEFA_Euro_2024_Logo.svg.png", beIN Sports 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://iptvkita.my.id:25461/direct/hometv/1826
