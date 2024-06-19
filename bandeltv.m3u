@@ -1763,6 +1763,16 @@ https://raw.githubusercontent.com/Arrasyid22/sportlive/main/4kskyf1.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/4k-logo-37F35FB07C-seeklogo.com.png" group-title="LIVE Sport", SKY SPORT MAIN EVENT
 https://raw.githubusercontent.com/Arrasyid22/sportlive/main/4kskymainevent.m3u8
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="LIVE Sport"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",BeIN Sports 1 ID
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="LIVE Sport"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",BeIN Sports 3 ID
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 ====EPL=====
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNc6yql7lsdhulOWtSekpObJGvVOp8PxsTCA&usqp=CAU"
