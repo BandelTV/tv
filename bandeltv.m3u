@@ -1295,7 +1295,32 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/4k-logo-37F35FB07C-seeklogo.com.png" group-title="LIVE Sport", SKY SPORT F1
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/4kskyf1.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/4k-logo-37F35FB07C-seeklogo.com.png" group-title="LIVE Sport", SKY SPORT MAIN EVENT
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/4kskymainevent.m3u8
 
+====EPL=====
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNc6yql7lsdhulOWtSekpObJGvVOp8PxsTCA&usqp=CAU"
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNc6yql7lsdhulOWtSekpObJGvVOp8PxsTCA&usqp=CAU" group-title="EPL", LIGA INGGRIS 1
+https://jihulab.com/iptv2571913/inal-iptv/premier-league/-/raw/main/Rligainggris1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNc6yql7lsdhulOWtSekpObJGvVOp8PxsTCA&usqp=CAU" group-title="EPL", LIGA INGGRIS 2
+https://jihulab.com/iptv2571913/inal-iptv/premier-league/-/raw/main/Rligainggris2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNc6yql7lsdhulOWtSekpObJGvVOp8PxsTCA&usqp=CAU" group-title="EPL", LIGA INGGRIS 3
+https://jihulab.com/iptv2571913/inal-iptv/premier-league/-/raw/main/Rligainggris3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNc6yql7lsdhulOWtSekpObJGvVOp8PxsTCA&usqp=CAU" group-title="EPL", LIGA INGGRIS 4
+https://jihulab.com/iptv2571913/inal-iptv/premier-league/-/raw/main/Rligainggris4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNc6yql7lsdhulOWtSekpObJGvVOp8PxsTCA&usqp=CAU" group-title="EPL", LIGA INGGRIS 5
+https://jihulab.com/iptv2571913/inal-iptv/premier-league/-/raw/main/Rligainggris5.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNc6yql7lsdhulOWtSekpObJGvVOp8PxsTCA&usqp=CAU" group-title="EPL", LIGA INGGRIS 6
+https://jihulab.com/iptv2571913/inal-iptv/premier-league/-/raw/main/Rligainggris6.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNc6yql7lsdhulOWtSekpObJGvVOp8PxsTCA&usqp=CAU" group-title="EPL", LIGA INGGRIS 7
+https://jihulab.com/iptv2571913/inal-iptv/premier-league/-/raw/main/Rligainggris7.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNc6yql7lsdhulOWtSekpObJGvVOp8PxsTCA&usqp=CAU" group-title="EPL", LIGA INGGRIS 8
+https://jihulab.com/iptv2571913/inal-iptv/premier-league/-/raw/main/Rligainggris8.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNc6yql7lsdhulOWtSekpObJGvVOp8PxsTCA&usqp=CAU" group-title="EPL", LIGA INGGRIS 9
+https://jihulab.com/iptv2571913/inal-iptv/premier-league/-/raw/main/Rligainggris9.m3u8
 ======Bein=====
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BEIN SPORTS",beIN 1
 http://iptvtree.net:8080/F14995/a84c0963/100
