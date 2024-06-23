@@ -1947,45 +1947,10 @@ https://melon-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 #EXTVLCOPT:http-referrer=https://www.cubmu.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://raw.githubusercontent.com/Mbehhh/dan/main/hbo.png" group-title="Movies", HBO HD
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://raw.githubusercontent.com/Mbehhh/dan/main/hbohits.png" group-title="Movies", HBO Hits
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://raw.githubusercontent.com/Mbehhh/dan/main/cinemax.png" group-title="Movies", Cinemax
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://i.ibb.co/V2Zx2yG/hbofamily.png" group-title="Movies", HBO Family
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://i.ibb.co/7JvDWxq/signature.png" group-title="Movies", HBO Signature
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm7IL.png" group-title="Movies" tvg-id="AXN" tvg-name="AXN",AXN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-https://liveaneviadev.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-
-
-#EXTINF:0 tvg-name="HBO ?Hits" tvg-logo="https://raw.githubusercontent.com/Mbehhh/dan/main/hits.png" group-title="Movies", HBO Hits (Max) 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true 
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 ==== VISION + =====
 
