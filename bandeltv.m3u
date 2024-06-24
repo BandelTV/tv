@@ -6711,31 +6711,31 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 http://210.210.155.35/x6bnqe/s/s50/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Dens_Food_Channel_Trial-
 
 
-#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://hometv.pw/logo/lifestyle/hgtv.png" group-title="LIFESTYLE",HGTV (L*)
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="LIFESTYLE",HGTV (L*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://hometv.pw/logo/lifestyle/tlc.png" group-title="LIFESTYLE",TLC (L*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
 
 
-#EXTINF:-1 tvg-name="AFN" tvg-logo="https://hometv.pw/logo/lifestyle/afn.png" group-title="LIFESTYLE",AFN (F*)
+#EXTINF:-1 tvg-name="AFN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="LIFESTYLE",AFN (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/afn.m3u8
 
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="" group-title="LIFESTYLE",The Food Network (L*)
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="LIFESTYLE",The Food Network (L*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="LIFETIME" tvg-logo="https://hometv.pw/logo/lifestyle/lifetime.png" group-title="LIFESTYLE",LIFETIME (V+)
+#EXTINF:-1 tvg-name="LIFETIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="LIFESTYLE",LIFETIME (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIFESTYLE",BBC Lifestyle
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="LIFESTYLE",BBC Lifestyle
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71120
 
-EXTINF:-1 tvg-name="TV5 MONDE Style" tvg-logo="https://hometv.pw/logo/lifestyle/tv5_monde_style.png" group-title="LIFESTYLE",TV5 MONDE Style
+EXTINF:-1 tvg-name="TV5 MONDE Style" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="LIFESTYLE",TV5 MONDE Style
 
-#EXTINF:-1 tvg-name="FASHION TV" tvg-logo="https://hometv.pw/logo/lifestyle/fashiontv.png" group-title="LIFESTYLE",FASHION TV
+#EXTINF:-1 tvg-name="FASHION TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="LIFESTYLE",FASHION TV
 http://myteve.online:8080/F12232/f23d27c1/298530
-#EXTINF:-1 tvg-name="Fashion TV Midnight" tvg-logo="https://hometv.pw/logo/lifestyle/ftv_midnight.png" group-title="LIFESTYLE",Fashion TV Midnight
+#EXTINF:-1 tvg-name="Fashion TV Midnight" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="LIFESTYLE",Fashion TV Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_vidio_id_1533_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 
 
@@ -6745,11 +6745,12 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_vid
 ######################### interNational ID tv #################################
 
 
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="INTERNational ID TV" tvg-id="392" tvg-name="392", KBS World HD
+#EXTINF:-1 tvg-logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="INTERNational ID TV" tvg-id="392" tvg-name="392", KBS World HD
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="INTERNational ID TV" tvg-id="392" tvg-name="392", KBS World HD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BWVqlXp.png" group-title="INTERNational ID TV",Dubai TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="INTERNational ID TV",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 
 
@@ -6758,35 +6759,19 @@ https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m
 ########################## KNOWLEDGE2 ##########################
 
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="knowledge2",Discovery Channel
+#EXTINF:0 tvg-logo="#EXTINF:-1 tvg-logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="knowledge2",Discovery Channel
 https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryHD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="knowledge2", LOVE NATURE 4K*
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NTRFMvw/TECHSTORM.png" group-title="knowledge2", TechStorm (Max)
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TH5rfJM/SMITHSONIANCHANNEL.png" group-title="knowledge2", Smithsonian
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="NASATVPublic.us" url-tvg="" tvg-country="US" tvg-language="English" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="knowledge2",NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="knowledge2",NASA TV Media
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="knowledge2",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-
-
-#EXTINF:-1 tvg-id="LinguaChannel.id" tvg-logo="https://i.imgur.com/gIxAihq.png" group-title="knowledge2",Lingua Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="knowledge2",Digione
@@ -6795,39 +6780,13 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4
 #EXTINF:-1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="knowledge2",Digione
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.davinci.tv/wp-content/uploads/2023/02/Da_Vinci_Primary_Logo_RGB_Red_AW.png" group-title="knowledge2",Da Vinci
-http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/02.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-PHI1MHxGuDDxWhSSYZuYXUNXVdTtRRgFg&usqp=CAU" group-title="knowledge2",Russia Today Documentary English
-https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-PHI1MHxGuDDxWhSSYZuYXUNXVdTtRRgFg&usqp=CAU" group-title="knowledge2",Russia Today Documentary English
-https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be2db0a25728/1d04ef38955743af9ac051beba87b578.png" group-title="knowledge2",Dunia Lain  
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="knowledge2",DMAX TV
-http://edge.linknetott.swiftserve.com/channelgroup4/cg428production/ch347/02.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="knowledge2",DMAX TV
-https://s6.hopslan.com/dmaxb/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://www.livehdtv.net/uploads/kanal/28163ERT%20World.jpg" group-title="knowledge2",ERT World
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Wired 2 Fish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="knowledge2",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Wired 2 Fish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="knowledge2",Love Nature
 http://edge.linknetott.swiftserve.com/channelgroup3/cg350production/ch368/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Wired 2 Fish" tvg-logo="https://media.wired2fish.com/uploads/2021/09/logo-wired2fish-inversed.png" group-title="knowledge2",Wired 2 Fish
+#EXTINF:-1 tvg-id="" tvg-name="Wired 2 Fish" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="knowledge2",Wired 2 Fish
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="XPLORE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="knowledge2",XPLORE
@@ -6836,33 +6795,13 @@ https://xplore-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="insight.au" tvg-name="Insight" tvg-logo="https://business.insight.tv/wp-content/uploads/2021/01/Insight-TV-Logo-small-150x150.png" group-title="knowledge2", INSIGHT
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="introuble.au" tvg-name="Introuble" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/introble.jpg" group-title="knowledge2", INTROUBLE
-https://introuble-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="inwild.au" tvg-name="Inwild" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png" group-title="knowledge2", INWILD
-https://inwild-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="inwonder.au" tvg-name="Inwonder" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWONDER.png" group-title="knowledge2", INWONDER
-https://inwonder-samsungindia.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="inwonder.au" tvg-name="Inwonder" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAixj-Cg_3Ad8xIAuW9jN5ztcFrssfJasgQ&usqp=CAU" group-title="knowledge2",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-1 tvg-id="hgtvasia.us" tvg-name="HGTV asia" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="knowledge2",HGTV
-http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
-
-#EXTINF:-1 tvg-id="hgtvasia.us" tvg-name="HGTV asia" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="knowledge2",HGTV
 https://kusnadipepenk.github.io/ntn/hgtv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Smithsonian" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="knowledge2",Smithsonian
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="knowledge2",TechStorm
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
-
-#EXTINF:-1 tvg-id="Smithsonian" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png group-title="knowledge2",Smithsonian
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium603/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0AD-p4XtRJvvI8dUL2eMkVIqf4oFybVp0A&usqp=CAU" group-title="knowledge2",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
@@ -6871,164 +6810,40 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mJPjPhP/image-6.png" group-title="knowledge2",NASA TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="knowledge2",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="knowledge2",Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUa5hM5YCa6hfCQUT-l-J6lWiI6JWHpXrTxg&usqp=CAU" group-title="knowledge2",Law and Crime Network
-http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_205.png" group-title="knowledge2",CGTN Documentary
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
-
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/logo-ci.jpg" group-title="knowledge2",Crime + Investigation
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_461.png" group-title="knowledge2",BBC Earth
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
-
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_461.png" group-title="knowledge2",Sony BBC Earth
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="knowledge2",Discovery Channel
-http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
-
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="knowledge2",Discovery Channel
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="knowledge2",Discovery Channel
 https://kusnadipepenk.github.io/ntn/disc.m3u8
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="knowledge2",Discovery Channel
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="knowledge2",Discovery Channel
 https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryHD.m3u8
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="knowledge2",Discovery Turbo
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="knowledge2",Discovery Turbo
 https://kusnadipepenk.github.io/ntn/disturbo.m3u8
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="knowledge2",Discovery Asia
-http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/02.m3u8
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="knowledge2",Discovery Science
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="knowledge2",Discovery Science
 https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryScience.m3u8
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="knowledge2",National ID Geographic
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
-
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="knowledge2",National ID Geographic (*)
-http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
-
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="knowledge2",National ID Geographic Abu Dhabi
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="knowledge2",National ID Geographic Wil
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="knowledge2",National ID Geographic Wild (*)
-http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREO9IBFHrUrcw-d6ay59hzoCuZtZ2iGaIivw&usqp=CAU" group-title="knowledge2",Arirang Korea
-http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PG15QKA.png" tvg-name="Real Stories" group-title="knowledge2",Real Stories
-https://realstories-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N00seOn.png" tvg-name="Pluto TV Animals" group-title="knowledge2",Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png" group-title="knowledge2", Bisnet Adventure 4K
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="knowledge2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC Earth
-https://av-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="knowledge2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_205.png",CGTN Documentary
-https://av-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
- 
-#EXTINF:-1 group-title="knowledge2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_205.png",CGTN DOCUMENTARY
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch405)/index.m3u8
-  
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="knowledge2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/logo-ci.jpg",Crime + Investigation
-https://av-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="knowledge2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",History
-https://av-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
- 
-#EXTINF:-1 group-title="knowledge2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",HISTORY
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch131)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/discovery%20channel.png?raw=true" group-title="knowledge2",Discovery Channel
-http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
- 
-#EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/discovery%20channel.png?raw=true" group-title="knowledge2",DISCOVERY CHANNEL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/Firs%20warriors.jpg?raw=true" group-title="knowledge2",FIRST WARRIORS
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch999)/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/first%20lifestile.jpg?raw=true" group-title="knowledge2",FIRST LIFESTYLE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3)/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/animal%20planet.png?raw=true" group-title="knowledge2",ANIMAL PLANET
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/lovenature.jpg?raw=true" group-title="knowledge2",LOVENATURE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/crime%20i.jpg?raw=true" group-title="knowledge2",CRIMEINVESTIGATION
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch349)/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/global%20trekker.jpg?raw=true" group-title="knowledge2",GLOBAL TREKKER
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch366)/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/lifetime.png?raw=true" group-title="knowledge2",LIFETIME
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/hgtv.png?raw=true" group-title="knowledge2",HGTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/tlc.png?raw=true" group-title="knowledge2",TLC
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="knowledge2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_460.png",Outdoor
-https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
-
-#EXTINF:-1 group-title="knowledge2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png",Discovery Channel (HD)
+#EXTINF:-1 group-title="knowledge2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg",Discovery Channel (HD)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="knowledge2",Discovery Channel
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="knowledge2",Discovery Channel
 https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryHD.m3u8
 
-#EXTINF:-1 group-title="knowledge2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png",Discovery Asia (HD)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryasia.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/097b4bac30f2eb60f13cfe548b188067.png" group-title="knowledge2",Discovery Science*
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="knowledge2",Discovery Science*
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/discien.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="knowledge2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png",Love Nature
-https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="knowledge2", Love Nature (HD)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/lovenature.m3u8
@@ -7036,84 +6851,15 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/lovenature.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="knowledge2", Love Nature 4K*
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 group-title="knowledge2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_203.png",Animal Planet (HD)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="knowledge2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC Earth Asia
-https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="knowledge2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_205.png",CGTN Documentary
-https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #EXTINF:-1 group-title="knowledge2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_205.png",CGTN Documentary (HD)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cgtndocumentary.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="knowledge2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/logo-ci.jpg",Crime + Investigation Asia
-https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
-#EXTINF:-1 group-title="knowledge2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/logo-ci.jpg",Crime + Investigation Asia (HD)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/crimeinvestigation.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="knowledge2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",History Asia
-https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-
-#EXTINF:-1 group-title="knowledge2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5aa694a3fce9da81b67fd2f39f7e6bb0.png",History 2
-http://187.95.95.247/h2/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NTRFMvw/TECHSTORM.png" group-title="knowledge2", TechStorm (HD)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/techstorm.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NTRFMvw/TECHSTORM.png" group-title="knowledge2", TechStorm (Max)
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatDEwE7Vp4456PaLZAjISSwxhTKYQxRkd8w&usqp=CAU" group-title="knowledge2",Global Trekker
-https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
-
-#EXTINF:-1 tvg-id="551.astro" tvg-logo="https://i.imgur.com/GMUQNaP.png" group-title="knowledge2",Global Trekker (HD)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/globaltrekker.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/079947b821323ccbffaab6acfb053eae.png" group-title="knowledge2",Dmax (HD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="knowledge2",Dmax (HD)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/079947b821323ccbffaab6acfb053eae.png" group-title="knowledge2",Dmax
-https://s6.hopslan.com/dmaxb/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TH5rfJM/SMITHSONIANCHANNEL.png" group-title="knowledge2", Smithsonian
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3e7d43bedbb508318fbef3d99aa56732.png" group-title="knowledge2",Da Vinci 
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/davinci.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="knowledge2" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501324_tvchannels_v1.jpg", Dens Learning & Knowledge
-http://210.210.155.35/x6bnqe/s/s36/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Dens_Learning_n_Knowledge
-https://op-group1-swiftservesd-1.dens.tv/s/s36/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Dens_Learning_n_Knowledge
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="knowledge2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_112.png",Besmart
-https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
-
-#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="knowledge2", Bisnet Adventure 4K
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 ====KIDS===
 
 #EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s512/logo%20Bandel%20Tv.jpeg" group-title="KIDS", ABC KIDS
@@ -7541,7 +7287,7 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 ###### sports #####
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="SPORTS", MU TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="SPORTS", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 
@@ -7567,102 +7313,12 @@ https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8|Referer=ht
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-1-ca.png" group-title="SPORTS",TSN 1
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21006
-
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://i.ibb.co/4W7z5m9/tsn-4-ca.png" group-title="SPORTS",TSN 4
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21003
-
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://i.ibb.co/Bq2cfRc/tsn-5-ca.png" group-title="SPORTS",TSN 5
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21002
-
-
-#EXTINF:-1  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_1.png" group-title="SPORTS",Arena 1 Sport
-https://kusnadipepenk.github.io/ntn/arns1.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_2.png" group-title="SPORTS",Arena 2 Sport
-https://kusnadipepenk.github.io/ntn/arns2.m3u8
-
-#EXTINF:-1  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/Arena-Sport-3-1.png" group-title="SPORTS",Arena 3 Sport
-https://kusnadipepenk.github.io/ntn/arns3.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png" group-title="SPORTS",Arena 4 Sport
-https://kusnadipepenk.github.io/ntn/arns4.m3u8
-
-
-
-#EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsFootball_201708//sky%20sports%20football_thumb.jpg" group-title="SPORTS",Sky Sport Football
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-##https://webudit.cdnhks.lol/lb/premium35/index.m3u8|referrer=https://streamservicehd.click/
-https://kusnadipepenk.github.io/ntn/skyfut.m3u8
-
-#EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png" group-title="SPORTS",Sky Sport Arena
-https://kusnadipepenk.github.io/ntn/skyare.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="SPORTS",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORTS",Sony Sports 1 
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SPORTS",Sony Sports 2 
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SPORTS",Sony Sports 3 
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SPORTS",Sony Sports 5 
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="SPORTS",True Sports
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="SPORTS", Unifi (UFC live) 
-https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="SPORTS",True Tennis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/golf-sport-logo-free-vector.jpg" group-title="SPORTS",True Golf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/ 
-https://youdooball.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",True Premiere 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS",True Premiere 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="SPORTS",True Premiere 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier4.png" group-title="SPORTS",True Premiere 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/sportstv.png" group-title="SPORTS",Sports TV 
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png" group-title="SPORTS",MAVTV
-https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d4db4f95e42d5ab722ad92" group-title="SPORTS",Ski TV
-https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/extreme_sports_nl.png" group-title="SPORTS", Extreme Sports 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de-w_960_h_960.jpg", FIGHT SPORTS
-http://anevia114.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="SPORTS", Fight
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="SPORTS", Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
