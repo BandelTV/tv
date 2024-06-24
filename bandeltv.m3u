@@ -9209,6 +9209,23 @@ http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s512/logo%20Bandel%20Tv.jpeg" group-title="RADIO",Magic UK
 http://91.224.190.66:4263/bysid/26624
 
+<============================== Brunei ======================================>
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="Brunei" tvg-id="Sukmaindera" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="Brunei" tvg-id="Aneka" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="Brunei" tvg-id="GoLive" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
+
 
 ########################## MALAYSIA ##########################
 
