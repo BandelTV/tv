@@ -3131,11 +3131,6 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-028/stream.mpd
 #EXTINF:0 tvg-name="Sharjah Sports TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ML2I98j1sBZvegug8EJfuB6Z5cnMY3g0BA&usqp=CAU" group-title="SPORT PREMIUM",Sharjah Sports TV
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/starselect.png" group-title="SPORT PREMIUM",SONY STAR SELECT 1 FHD
-http://195.26.87.217/live?channelId=299&deviceMac=00:1A:79:33:E9:41
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/starselect.png" group-title="SPORT PREMIUM",SONY STAR SELECT 2 FHD
-http://195.26.87.217/live?channelId=300&deviceMac=00:1A:79:33:E9:41
-
 #EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="US: MLB Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqhNFJ9LlUA17pO9GY_agobmllceCjUJSeQ&usqp=CAU" group-title="SPORT PREMIUM",MLB Network
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3611,13 +3606,9 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/DASH/m
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
 
 
-#EXTINF:0 tvg-id="WWENetwork.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn_L8ekr2sbNisnKWfkRV4MEci9OS4A8N4jA&usqp=CAU" group-title="SPORT PREMIUM",WWE Network 2
+#EXTINF:0 tvg-id="WWENetwork.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn_L8ekr2sbNisnKWfkRV4MEci9OS4A8N4jA&usqp=CAU" group-title="SPORT PREMIUM",WWE Network
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTINF:-1 tvg-id="" tvg-name="V Sports 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_8ZF5UZwP2HR7Tu_Fz3_9sMCP0JeOL2Ani6iFSwIOlLcov-xAIaVZ10G7_DAvH0eTmg9z_N-RPYRSZ7SUHNQGdNDVXuCSKsQP6as3qLB_a6lY8HJKP9rNFFyi4UrL0bpdNwU64lXe4LA_OMoUMsVBmgORZuSqR63v-N6V5bPT2xXiFcgfQghQ9SBI/s720/VSpo" group-title="SPORT PREMIUM",V Sports 1 
-https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
+
 
 #EXTINF:1 tvg-id="pubgls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg7NPulGk2VknAOkdpJPLJCDMtf4TqFLXISg&usqp=CAU" group-title="SPORT PREMIUM", PUBG LIVE STREAMING
 https://ythls.armelin.one/channel/UClqApwcX816CSFLyPPQQB0g.m3u8
@@ -3748,13 +3739,7 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/528
 
 #EXTINF:0 tvg-name="mutv" tvg-logo="https://assets.manutd.com/AssetPicker/images/0/0/7/70/476872/MUTV-LightBG1515755997863.png" group-title="SPORT PREMIUM",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-*** Movies",HBO  ****
 
-#EXTINF:0 tvg-name="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="SPORT PREMIUM",STADIUM SPORT
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-*** Movies",HBO  ****
-
-*** Movies",HBO  ****
 
 #EXTINF:0 tvg-name="USA" tvg-logo="https://futurefive.co.nz/uploads/story/2014/12/05/Red-bull-tv.webp" group-title="SPORT PREMIUM",RedBullTV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
@@ -3764,7 +3749,7 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-036/stream.mpd
 
 #EXTINF:0 tvg-name="USA" tvg-logo="https://thebusinessofesports.com/wp-content/uploads/2021/10/Logo_ESR.png" group-title="SPORT PREMIUM",ESR 24x7 eSports Network
 https://eyeonesports.com/ES2RA-628g.m3u8
-*** Movies",HBO  ****
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvSgA8t-SC3CfDgf9Fk0S8cNJ2JqPYZ345_A&usqp=CAU" group-title="SPORT PREMIUM",PTV SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
