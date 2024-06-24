@@ -2688,23 +2688,18 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="nasional", MOJI TV
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/NcPfpppNKd/hmtv_lite/117
-*** Movies",HBO  ****
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn9HNzducaYbdiUNqjbtA-Bf2mUDvKnutbsQ&usqp=CAU" group-title="nasional", MOJI TV v*
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://etslive-2-vidio-com.akamaized.net/live/17252/master.m3u8?auth=Q2ZJVFo5akNEK1FrT0graHJBZkprcitiR2ZRWStZbE9sQVU4TDFUNlVrNEgxS00vTDVJekdCNlpaN0E5NU5yNVJ0bjFWUkhEUjFoQ3hlNCthSCtVZVQ5NHE2ekVxWUFkOFhheitYdi85L01MSkhBS3FDWC9vazZwMkdUMDUzSW5odFd5by9WK3FlZW9jVGc0TGVkZkFlTVgvQ1ZhdURtNkZ3TkxHaHh5dlJPSFJvMThhNmNTTStYTTZ2bnJSdnlBTXRYVXNwejZpVWwwVE1kcExpQWQvMjlUY2VrNTBmMXdqb256RDZFQzRscFBiTlM5a25KbTlmc1JHaVJPS0szWU9qT2dUV1RreGxLbXFqa21XelRXTmlaSDdpbTBxRC9rQnBvWlFkMFQrZ0szUmdkeTZ6TE0rZGRxakZrbmRDOFJFaFl3c0NrOWViUGc3akJDTXVGNU02OWZlU0VwMHY3ZHlUdVBSZ1ZLV1F1TEsrSWVjVDVxKzIwYzFpWHExblRhUjJiM201VER0eWo1ejRjcWZKQzJTU1NPNmpOWTNkY041KzBDcXFjU25zTVRUNEkvOTFMVEFIQkk4d09NeWN1Um5LTHRtblhJbVZ3RFM3QzNZM25PU0FsTVIxMGEvVnVyRi9pUDZqVlNjMTdyZFlOaS9HQW1qcHlRdlZQQldTNm9wejhHVlVIN2pOT2VRRThxT1ZZeTR4YU1tUE5HWk55YmZENGNQTzV4ZVlmaUZ1a2s0ZDhJZUZFTGg5VzRtbTZwYnYzb3F4UXRnT3BqeklsTkI4dlM0Q2J4dWtTVnJjM2FjUlJwVFE3RWlpaTVtRGFEQjc0VHEvZHZVbE5BQmVkM2o1Q1p0byt6MHA1eEVaMWNmR25KZ21HL0FaZ1l6T1ZodUg4am1oeVdoWXlSeTZiZzNQUGZQdU9yYmphZmd3NktZUVJmaU0wNVk1K2NSM3V4WDNQN1NtaGgrSGlaTmlrcTNQdURYK1V6Y2tOZEV5d0pCZS9mMExqVHJxMXoycFNDWEUySmhLQXpCcW5wVkdyYWtvSHNNNFdVNDA4eTdkMmx0VVVYOWZsNUIyZz0=&trace_id=36c004411f5bd91d2d967d1a4d9b0aff/4504401783185433009
+
 
 #EXTINF: -1 tvg-name="Trans 7" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_trans7.png" group-title="nasional", Trans 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-#EXTINF:0 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="nasional" tvg-id="SCTV.id", SCTV 
+#EXTINF:0 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="nasional" tvg-id="SCTV.id",SCTV 2
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+
 ==== Religi ======
 
 EXTINF:0 tvg-id="TVMu.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDifUmWgeW4gyKBramxKL6VYJcSnONgynAuA&usqp=CAU" group-title="Religi",TVMU
