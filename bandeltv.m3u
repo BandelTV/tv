@@ -4486,8 +4486,6 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
-#EXTINF:-1 tvg-id="axnhd" group-title="Entertainment" tvg-logo="https://i.imgur.com/OnJMiz5.pn", K+
-http://210.210.155.35/session/b4a5258e-1737-11ed-962f-a348a1c5800f/uq2663/h/h08/01.m3u8?fluxustv.m3u8=
 
 
 ==========PENGETAHUAN==========
@@ -6313,31 +6311,31 @@ http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s512/logo%20Bandel%20Tv.jpeg" group-title="CHINA",CCTV+1
 
 
-#EXTINF:0 tvg-country="CN;VN" tvg-logo="http://tduc.tk/logo/antv.png" group-title="CHINA",ANTV HD,è¶Šå—ANTVHD
+#EXTINF:0 tvg-country="CN;VN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="CHINA",ANTV HD,è¶Šå—ANTVHD
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="CHINA",Angel TV Chinese (720p)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="CN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s512/logo%20Bandel%20Tv.jpeg" group-title="CHINA",Blue ç¾Žå‰§ (360p) [Not 24/7]
 http://210.210.155.35/dr9445/h/h16/02.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="CHINA",CGTN
+#EXTINF:0 tvg-country="CN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="CHINA",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="CHINA",CGTN
+#EXTINF:0 tvg-country="CN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="CHINA",CGTN
 http://live.cgtn.com/500/prog_index.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="CHINA",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="CN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/509_300.png" group-title="CHINA",CGTN 1,CGTN EspaÃ±ol
+#EXTINF:0 tvg-country="CN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="CHINA",CGTN 1,CGTN EspaÃ±ol
 https://livees.cgtn.com/1000e/prog_index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/NR3DhDu.png" group-title="CHINA",CGTN Arabic
+#EXTINF:0 tvg-country="CN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="CHINA",CGTN Arabic
 http://livear.cgtn.com/1000a/prog_index.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="CN" tvg-logo="https://ui.cgtn.com/static/resource/images/icon_new/live/live_AR.png" group-title="CHINA",CGTN Arabic
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="CHINA",CGTN Documentary
+#EXTINF:0 tvg-country="CN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="CHINA",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="CHINA",CGTN Documentary
+#EXTINF:0 tvg-country="CN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="CHINA",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/e8HG0D7.png" group-title="CHINA",CGTN EspaÃ±ol
+#EXTINF:0 tvg-country="CN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="CHINA",CGTN EspaÃ±ol
 http://livees.cgtn.com/500e/prog_index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/g2qz3Fh.png" group-title="CHINA",CGTN FranÃ§ais
+#EXTINF:0 tvg-country="CN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="CHINA",CGTN FranÃ§ais
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="CN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s512/logo%20Bandel%20Tv.jpeg" group-title="CHINA",CGTN Ð ÑƒÑÑÐºÐ¸Ð¹ (576p)
 http://liveru.cgtn.com/1000r/prog_index.m3u8?checkedby:iptvcat.net
