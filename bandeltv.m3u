@@ -3693,55 +3693,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
-#EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="https://i.postimg.cc/QtJtqpZp/20231118-221613.png",Arena Sport Premier League
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
-#EXTINF:-1 tvg-name="ASTRO ARENA" tvg-logo="https://i.ibb.co/tYYLtDK/Arena.jpg" group-title="SPORT PREMIUM",ASTRO ARENA 1
-http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1703
-#http://50.7.234.10:8278/Arena/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ASTRO ARENA" tvg-logo="https://i.ibb.co/tYYLtDK/Arena.jpg" group-title="SPORT PREMIUM",ASTRO ARENA 2
-http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1696
-#http://50.7.234.10:8278/Arena2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ASTRO ARENA" tvg-logo="https://i.ibb.co/tYYLtDK/Arena.jpg" group-title="SPORT PREMIUM",ASTRO ARENA 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2604/
-#https://kontol-kecil.cikgusuraya.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/2604/default.mpd
-
-#EXTINF:-1 tvg-name="ASTRO ARENA" tvg-logo="https://i.ibb.co/tYYLtDK/Arena.jpg" group-title="SPORT PREMIUM",ASTRO ARENA 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=I_Love_OnlyFans
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5057/
-#https://kontol-kecil.cikgusuraya.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default.mpd
-
-#EXTINF:-1 tvg-name="ASTRO ARENA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-title="SPORT PREMIUM",ASTRO ARENA BOLA 1
-#http://50.7.234.10:8278/Bolaarena1/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-
-#EXTINF:-1 tvg-name="ASTRO ARENA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqrw-entRphP30p9075HC27y7dxq2FfgcmmWiFZzu5D3F96v8x_n3jDvfs&s=10" group-title="SPORT PREMIUM",ASTRO ARENA BOLA 2
-#http://50.7.234.10:8278/Bolaarena2/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORT PREMIUM",RMC SPORTS 1
-#http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/12026
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORT PREMIUM",RMC SPORTS 2
-#http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/12027
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORT PREMIUM",RMC SPORTS 3
-#http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/12028
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORT PREMIUM",RMC SPORTS 4
-##http://103.127.209.247:8080/live/nvc247@tv_luar/Wdk8VzyYTG/3751.ts
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORT PREMIUM",RMC SPORTS 5
-##http://103.127.209.247:8080/live/nvc247@tv_luar/Wdk8VzyYTG/3752.ts
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORT PREMIUM",RMC SPORTS 6
-##http://103.127.209.247:8080/live/nvc247@tv_luar/Wdk8VzyYTG/3753.ts
-
-#EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="daznlaliga.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9r-scyW7m8n9nODmjP3D8bYZTKTy1hckyFg&usqp=CAU",DAZN LaLiga 
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-043/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/daznlogo.png" group-title="SPORT PREMIUM",DAZN COMBAT
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
@@ -3749,53 +3701,6 @@ https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-043/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
 
-#EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="daznlaliga.es" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=148423237656_image-header_pUs_1680278133000&quality=70",UNBEATEN
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-044/stream.mpd
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SQovTJ_m04vTbM-cAsAbGzhoUiWVm146vA&usqp=CAU" group-title="SPORT PREMIUM",CANAL+ LIGUE 1
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-046/stream.mpd
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175980613953_image-header_pRow_1687943626000&quality=70" group-title="SPORT PREMIUM",DAZN ELEVEN 1
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=186828357933_image-header_pRow_1688559877000&quality=70" group-title="SPORT PREMIUM",DAZN ELEVEN 2
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=176341573859_image-header_pRow_1687892335000&quality=70" group-title="SPORT PREMIUM",DAZN ELEVEN 3
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=176344133619_image-header_pRow_1687892336000&quality=70" group-title="SPORT PREMIUM",DAZN ELEVEN 4
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=176344133852_image-header_pRow_1687878826000" group-title="SPORT PREMIUM",DAZN ELEVEN 5
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=192659525513_image-header_pRow_1694392453000&quality=70" group-title="SPORT PREMIUM",DAZN ELEVEN 6
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd
 
 #EXTINF:0 tvg-name="ssc1" tvg-logo="https://yt3.googleusercontent.com/7KCyLUN6LidKfNfN6KozO_ZwaF-g21xPFLO0BDaUYsWWeY2QVhKB_qJhHw4jvwUQkg-6GXw1qg=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT PREMIUM",SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3865,75 +3770,6 @@ https://eyeonesports.com/ES2RA-628g.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/16633
 
-#EXTINF:0 tvg-name="pptv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIqDqoFuHff6L9D2c7s6yzDXvsbad9seFQag&usqp=CAU" group-title="SPORT PREMIUM",PPTV 36
-#https://cors-proxy.pulsesoftware.com/https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0022/DASH/V0022.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/110/110-LOGO-m.png" group-title="SPORT PREMIUM",Premier Sports 1 
-http://202.21.104.6:88/sps-prime/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/847/847-LOGO-m.png" group-title="SPORT PREMIUM",Premier Sports 2 
-http://202.21.104.6:88/sps-play/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/848/848-LOGO-m.png" group-title="SPORT PREMIUM",Premier Sports 3 
-http://202.21.104.6:88/sps-world/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/849/849-LOGO-m.png" group-title="SPORT PREMIUM",Premier Sports 4 
-http://202.21.104.6:88/sps-action/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="SPORT PREMIUM",Premier Sports 5 
-http://202.21.104.6:88/sps-plus/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/beIN-SPORTS.png" group-title="SPORT PREMIUM",SPORT PREMIUM Unif
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e5c88c1ad411ce4aa1fcd3e63fa9448:fb4e6d3c2a444c3711477438bcc0b5fc
-#https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVIq%2FzwD5xYAe8dI3PltEQ%2BUrcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV55456338%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HApSqPXByY2Jiqol1r-YBD2xKi0I18d_brt25vZn5XmZMYHD_o4oNc9pVVsvSSF45raWoDCvEdBQlSpLxUUcliIEQ2sHX0c7Y73l75YwyKgSnXJBmfrcL4Jdm_ew1JlX8Y2dMr9agstnRF2QK3if0MLZxoKcA70sKS4Vgs0zjq3W5qpicJNZknN0Gcjcl5AZ5G_s7JLSH6P8A5SBkJHcwHXisoUc1PEP4csdkpzUfwVvnv_QAAAA&tenantId=6001 
-
-#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-05/bein-sports2.png" group-title="SPORT PREMIUM",SPORT PREMIUM 2 Unif
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c983e5a03b0f8adde686ef20497e2b4:f7b1d6556850b472f4f683519f4e41f7
-#https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227971/3221227971.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVv%2FaciHRqnNnDuZfWMEk6l0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV59922231%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWPQU-EMBSE_02PDX2LUA49rdnExKDJolcztI9KttC1ZTfx3wuKc3wz38vMkmD56dEMKEB1rQlDX6raNWh6TfqAinRflVZk_mqjIWERwjj7NroNez8fP1QhC0mkpCLRbe9OAX5Ptrep52QO_9iZ0320bFwe5B1ZwvvEHssYZ_ka8P2Wwh4R3O3VVFU_VE1RriItlu3aIV9WR3wiH-N0RWL3HP0vsC4JmcUV9gLPLSY28y2EP-4lubXND5_xMYT0AAAA&tenantId=6001
-
-#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/beIN-SPORTS3.png" group-title="SPORT PREMIUM",SPORT PREMIUM 3 Unif
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0d2418cc6a29a3516d1854ab2973f25f:4979b73603b430465aa4e7bbdefbc4cc
-#https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&tenantId=6001
-
-#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-01/beinsports4.png" group-title="SPORT PREMIUM",SPORT PREMIUM 4 Unif
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=94663e64ef81e90a9deeb0f1993ce11c:9d6f78876677b543cd4e18c846aa2481
-#https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
-
-#EXTINF:-1 tvg-chno="202" tvg-id="FoxSportsArgentina.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/1447103524_Fox_Sports_Argentina_2023-copia.png.977f2acd0eaa731580e02c585096a9d9.png" group-title="SPORT PREMIUM", FOX Sports AS
-http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
-#EXTINF:-1 tvg-chno="202" tvg-id="FoxSportsArgentina.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/1447103524_Fox_Sports_Argentina_2023-copia.png.977f2acd0eaa731580e02c585096a9d9.png" group-title="SPORT PREMIUM", FOX Sports
-#https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
-#EXTINF:-1 tvg-chno="203" tvg-id="FoxSports2HDSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/1862574058_Fox_Sports_2_Argentina_2023-copia.png.f44c1ecb12612709887e97dd3e3400a8.png" group-title="SPORT PREMIUM", FOX Sports 2
-#https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
-#EXTINF:-1 tvg-chno="204" tvg-id="FoxSports3Argentina.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/Fox_Sports_3_Argentina_2023.png.baa9fb8a642232d4d6733c958a64ce8a.png" group-title="SPORT PREMIUM", FOX Sports 3
-#https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
-
-#EXTINF:0 tvg-id="sprtpleu" group-title="SPORT PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sport%2B_logo_%282002-2011%29.svg/1280px-Sport%2B_logo_%282002-2011%29.svg.png",SPORT PLUS
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/8be2ca3f-2c38-424b-b3ae-5f69b3f27eee/0.m3u8
-
-#EXTINF:0 tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuAcs80nU4q8F8gi5KS1-5EqMdU3sDWnsZ-w&usqp=CAU" group-title="SPORT PREMIUM",1 AL KASS ONE
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtyuwqa/master.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLM9ER-ZWN2hRIx1C7ImIJhXG5mpVSEwtL6kGMaCP06eJFjzcVtoNHeHky&s=10" group-title="SPORT PREMIUM",MEWATCH LIVE 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
