@@ -1697,6 +1697,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
 
 ==== LIVE Sport =====
+#EXTINF:0 group-title="LIVE Sport " tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg",IDN VS PHI
+https://cors-proxy-s47hjsqcra-uc.a.run.app/https://pull.niues.live/live/stream-256080_lsd.m3u8
+
 #EXTINF:0 group-title="LIVE Sport " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfCprFYqdjhGF7oOPX6LXOWuIAtYlOzPAFQ&usqp=CAU", SPOTV2  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
