@@ -7371,6 +7371,41 @@ https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s512/logo%20Bandel%20Tv.jpeg" group-title="MUSIC",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
+=====Supersport====
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Supersport",SuperSport Action
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14963&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Supersport",SuperSport Blitz
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14962&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Supersport",SuperSport Cricket
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14961&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Supersport",SuperSport Football
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14960&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Supersport",SuperSport Golf
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14959&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Supersport",SuperSport Motorsport 
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14957&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Supersport",SuperSport LaLiga
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14956&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Supersport",SuperSport Premier League
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Supersport",SuperSport Grandstand 
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14954&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Supersport",SuperSport Rugby 
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14953&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Supersport",SuperSport PSL
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18532&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Supersport",SuperSport Tennis
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18533&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Supersport",SuperSport MaXimo
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18534&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Supersport",SuperSport Variety 1
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18684&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Supersport",SuperSport Variety 2
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18685&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Supersport",SuperSport Variety 3
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18916&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Supersport",SuperSport Variety 4
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18917&extension=ts
 
 ###### sports #####
 
