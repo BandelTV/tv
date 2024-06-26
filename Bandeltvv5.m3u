@@ -6466,6 +6466,46 @@ http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 
 
 ########### CINA #################
+
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20201210005312/en/845821/2/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201210110237.jpg" group-title="CHINA",CCTV+
+
+
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CHINA",CCTV 1 
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/70
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv2.jpg" group-title="CHINA",CCTV 2 
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/71
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv3.jpg" group-title="CHINA",CCTV 3
+ 
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv4.jpg" group-title="CHINA",CCTV 4 
+
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="CHINA",CCTV 5 
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/72
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="CHINA",CCTV 5+
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/73
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv6.jpg" group-title="CHINA",CCTV 6 
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/74
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv7.jpg" group-title="CHINA",CCTV 7
+
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv8.jpg" group-title="CHINA",CCTV 8
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/75
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv9.jpg" group-title="CHINA",CCTV 9 
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/76
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv10.jpg" group-title="CHINA",CCTV 10 
+
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv11.jpg" group-title="CHINA",CCTV 11 
+
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv12.jpg" group-title="CHINA",CCTV 12 
+
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv13.jpg" group-title="CHINA",CCTV 13
+
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv14.jpg" group-title="CHINA",CCTV 14 
+
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv15.jpg" group-title="CHINA",CCTV 15 
+
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv16.jpg" group-title="CHINA",CCTV 16
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/77
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg" group-title="CHINA",CCTV 17 
+
 #EXTINF:0 tvg-country="UN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s512/logo%20Bandel%20Tv.jpeg" group-title="CHINA",CCTV+1
 
 
