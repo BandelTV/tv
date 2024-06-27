@@ -8134,6 +8134,16 @@ http://iptvtree.net:8080/AmirBilali/76448035/165776
 ###### INDIA ########
 
 
+#EXTINF:-1 group-title="INDIA" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="SunTV" tvg-logo="https://seeklogo.com/images/S/sun-tv-logo-33F737A981-seeklogo.com.png",Sun TV
+http://iptv12k.com:35461/80236053010/645789/991
+
+
+#EXTINF:-1 group-title="INDIA" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="SunMusic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",Sun Music
+http://iptv12k.com:35461/80236053010/645789/990
+
+#EXTINF:-1  group-title="INDIA" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="Adithya" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",Adithya
+http://iptv12k.com:35461/80236053010/645789/659
+
 
 ###### TVRI #######
 #EXTINF:-1 group-title="TVRI" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Kalimantan Timur (720p)
