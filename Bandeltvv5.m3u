@@ -3212,6 +3212,27 @@ https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
+====HBO BRAZIL====
+#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="HBO BRAZIL", HBO HD
+http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610785
+#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="HBO BRAZIL", HBO 2 HD
+http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610753
+#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="HBO BRAZIL", HBO Family HD
+http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610756
+#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="HBO BRAZIL", HBO Mundi HD
+http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610765
+#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="HBO BRAZIL", HBO Pop HD
+http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610769
+#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="HBO BRAZIL", HBO Signature HD
+http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610772
+#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="HBO BRAZIL", HBO Xtreme HD
+http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610776
+#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="HBO BRAZIL", HBO+ HD
+http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610780
+#EXTINF:-1  tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="HBO BRAZIL", Star Channel HD
+http://jmrk.xyz:3050/erobles14@comcast.net/gRZsyLbR5U/610936
+
+
 =====HBO tailan====
 #EXTINF:-1 tvg-id="HBO.th" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_110_80" group-title="HBO TH", HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
