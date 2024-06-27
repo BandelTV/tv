@@ -1922,10 +1922,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/53
 
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTRO SPORT",Astro Arena_(3)
-http://iptvtree.net:8080/F14995/a84c0963/157485
-#EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTRO SPORT",Arena 2_(3)
-http://iptvtree.net:8080/live/F14995/a84c0963/287793.ts
 #EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTRO SPORT",Astro Cricket_(3)
 http://iptvtree.net:8080/F14995/a84c0963/157565
 #EXTINF:-1   tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTRO SPORT",Astro SuperSport_(3)
