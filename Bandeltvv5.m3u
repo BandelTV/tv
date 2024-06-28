@@ -7716,29 +7716,33 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 
 ########################## LIFESTYLE ##########################
 
-#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://bit.ly/logobandeltv" group-title="LIFESTYLE",HGTV
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" group-title="LIFESTYLE",HGTV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="LIFESTYLE",TLC
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
 
 
+#EXTINF:-1 tvg-name="FASHION TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" group-title="LIFESTYLE",FASHION TV (L*))
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/fashiontv.m3u8
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="LIFESTYLE",The Food Network (L*)
+
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" group-title="LIFESTYLE",The Food Network (L*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
 
 
-#EXTINF:-1 tvg-name="Fashion TV Midnight" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg" group-title="LIFESTYLE",Fashion TV Midnight
+#EXTINF:-1 tvg-name="Fashion TV Midnight" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" group-title="LIFESTYLE",Fashion TV Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_vidio_id_1533_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidVofg5NS7aTYOena9aCpFbYM51OK6-3-6NmNJSN4ienHLHjVSGqP9Ikxgw56vPd5sMCs3qFESCjGU8ubeSIMFU1JsLNWAIox-EG3J-8F57ZTGOvMXdDokjo8Y43IRZM5LnjGhIgtUyNk9_VoooOJ5k8FGpKrjPxqWv_uzT38Cg2hRSiuQykihHo79_IQ/s320/WhatsApp%20Image%202024-06-24%20at%2020.35.03.jpeg" group-title="LIFESTYLE",TLC 2
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" group-title="LIFESTYLE",TLC 2
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="LIFETIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidVofg5NS7aTYOena9aCpFbYM51OK6-3-6NmNJSN4ienHLHjVSGqP9Ikxgw56vPd5sMCs3qFESCjGU8ubeSIMFU1JsLNWAIox-EG3J-8F57ZTGOvMXdDokjo8Y43IRZM5LnjGhIgtUyNk9_VoooOJ5k8FGpKrjPxqWv_uzT38Cg2hRSiuQykihHo79_IQ/s320/WhatsApp%20Image%202024-06-24%20at%2020.35.03.jpeg" group-title="LIFESTYLE",LIFETIME 2
+#EXTINF:-1 tvg-name="LIFETIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" group-title="LIFESTYLE",LIFETIME 2
 https://melon-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidVofg5NS7aTYOena9aCpFbYM51OK6-3-6NmNJSN4ienHLHjVSGqP9Ikxgw56vPd5sMCs3qFESCjGU8ubeSIMFU1JsLNWAIox-EG3J-8F57ZTGOvMXdDokjo8Y43IRZM5LnjGhIgtUyNk9_VoooOJ5k8FGpKrjPxqWv_uzT38Cg2hRSiuQykihHo79_IQ/s320/WhatsApp%20Image%202024-06-24%20at%2020.35.03.jpeg" group-title="LIFESTYLE",HGTV 2
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" group-title="LIFESTYLE",HGTV 2
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 
 ########################## KNOWLEDGE2 ##########################
