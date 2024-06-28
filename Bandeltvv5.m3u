@@ -18,9 +18,6 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/72
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://iptvkita.my.id:25461/direct/hometv/1826
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/115px-UEFA_Euro_2024_Logo.svg.png" group-title="EURO2024", Sport tv1
-http://dns.acaidopara.net:8080/5087405929/7405929508/1516
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/115px-UEFA_Euro_2024_Logo.svg.png" group-title="EURO2024", CA TSN 1 (E)
 http://cord-cutter.net:8080/live/j3McKd/673709/57292.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/115px-UEFA_Euro_2024_Logo.svg.png" group-title="EURO2024", CA TSN 4 HD
