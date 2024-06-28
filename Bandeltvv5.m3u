@@ -12,7 +12,7 @@ https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1B
 ====EURO2024====
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/115px-UEFA_Euro_2024_Logo.svg.png" group-title="EURO2024",CCTV 5 
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/72
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/77
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/115px-UEFA_Euro_2024_Logo.svg.png" group-title="EURO2024", Sony sport2 HD
 http://ikitv.online/x/sonyten.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/115px-UEFA_Euro_2024_Logo.svg.png" group-title="EURO2024", Sport TV + HD 
@@ -44,7 +44,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRpl
 https://d1u68oyra9spme.cloudfront.net/master_2.m3u8
 ====Olimpiade===
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" group-title="Olimpiade",CCTV 16
-
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/77
 ====COPA AMERICA====
 
 #EXTINF:-1 group-title="COPA AMERICA" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png",INDOSIAR
