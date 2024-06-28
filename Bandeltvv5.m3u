@@ -2822,66 +2822,66 @@ https://melon-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 https://melon-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 ==== News ====
 
-#EXTINF:0 tvg-id="MNCNews.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu4ma6bGVKueVkE9SCsqAlz6npGnqUQ52xUg&usqp=CAU" group-title="News",MNC News
+#EXTINF:0 tvg-id="MNCNews.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu4ma6bGVKueVkE9SCsqAlz6npGnqUQ52xUg&usqp=CAU" group-title="NEWS",MNC News
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
-#EXTINF:0 tvg-id="IDXChannel.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_Bursa_Efek_Indonesia_Final.png" group-title="News",IDX
+#EXTINF:0 tvg-id="IDXChannel.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_Bursa_Efek_Indonesia_Final.png" group-title="NEWS",IDX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
-#EXTINF:0 tvg-id="SEAToday.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRZP5ghMgt-UGwwfoNDXlempWiakqivLbx4w&usqp=CAU" group-title="News",SEA TODAY
+#EXTINF:0 tvg-id="SEAToday.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRZP5ghMgt-UGwwfoNDXlempWiakqivLbx4w&usqp=CAU" group-title="NEWS",SEA TODAY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
-#EXTINF:0 tvg-id="ChannelNewsAsia.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXvlkhc2h6HFlNOxsoDuQmmsgG4ehjmhUaQ&usqp=CAU" group-title="News",Channel News Asia
+#EXTINF:0 tvg-id="ChannelNewsAsia.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXvlkhc2h6HFlNOxsoDuQmmsgG4ehjmhUaQ&usqp=CAU" group-title="NEWS",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 
-#EXTINF:0 tvg-id="BBCWorldNews.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCSxcuOexDcslbIKsmVSCAwpWivoChYQTjCw&usqp=CAU" group-title="News",BBC World
+#EXTINF:0 tvg-id="BBCWorldNews.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCSxcuOexDcslbIKsmVSCAwpWivoChYQTjCw&usqp=CAU" group-title="NEWS",BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 
-#EXTINF:0 tvg-id="CNN.Id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" group-title="News",CNN Indonesia
+#EXTINF:0 tvg-id="CNN.Id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" group-title="NEWS",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="CNBC.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4d3hmYdLqWPnLXSyZB6WRA4IFF_0MhfKmzQ&usqp=CAU" group-title="News",CNBC Asia
+#EXTINF:0 tvg-id="CNBC.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4d3hmYdLqWPnLXSyZB6WRA4IFF_0MhfKmzQ&usqp=CAU" group-title="NEWS",CNBC Asia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="CGTN.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3HcIol00ihlEkPhbwytwbODs4k1uA0mHTFg&usqp=CAU" group-title="News",CGTN
+#EXTINF:0 tvg-id="CGTN.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3HcIol00ihlEkPhbwytwbODs4k1uA0mHTFg&usqp=CAU" group-title="NEWS",CGTN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
-#EXTINF:0 tvg-id="Bloomberg.Id" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP0ZSrWzl4rM/v6/250x140.png" group-title="News",Bloomberg
+#EXTINF:0 tvg-id="Bloomberg.Id" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP0ZSrWzl4rM/v6/250x140.png" group-title="NEWS",Bloomberg
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
-#EXTINF:0 tvg-id="FoxNewsChannel.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUN3rnsS0XxQcIvFJgjo8clRHVc4-cSy2Zmg&usqp=CAU" group-title="News",FOX News
+#EXTINF:0 tvg-id="FoxNewsChannel.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUN3rnsS0XxQcIvFJgjo8clRHVc4-cSy2Zmg&usqp=CAU" group-title="NEWS",FOX News
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
 
-#EXTINF:0 tvg-id="bernamatv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNnJeLUakfqIichKGsMS5n_XWpinYtvBO_uQ&usqp=CAU" group-title="News",BERNAMA TV
+#EXTINF:0 tvg-id="bernamatv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNnJeLUakfqIichKGsMS5n_XWpinYtvBO_uQ&usqp=CAU" group-title="NEWS",BERNAMA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
 #https://cdnnew.qreatifku.my.id/Bernama.mpd
-#EXTINF:-1 group-title="News"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",BERITA RTM
+#EXTINF:-1 group-title="NEWS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",BERITA RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd?id=6
-#EXTINF:0 tvg-id="BeritaSatu.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh0I8VWXDOA-_aXwj9f0WvBx495INT_p5VPw&usqp=CAU" group-title="News",Berita Satu
+#EXTINF:0 tvg-id="BeritaSatu.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh0I8VWXDOA-_aXwj9f0WvBx495INT_p5VPw&usqp=CAU" group-title="NEWS",Berita Satu
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2889,53 +2889,53 @@ https://melon-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:0 tvg-id="KompasTV.Id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kompastv.png" group-title="News",Kompas TV
+#EXTINF:0 tvg-id="KompasTV.Id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kompastv.png" group-title="NEWS",Kompas TV
 https://melon-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:0 tvg-id="KompasTV.Id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kompastv.png" group-title="News",Kompas TV
+#EXTINF:0 tvg-id="KompasTV.Id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kompastv.png" group-title="NEWS",Kompas TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:0 tvg-id="TVOne.Id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvone.png" group-title="News",TVONE
+#EXTINF:0 tvg-id="TVOne.Id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvone.png" group-title="NEWS",TVONE
 https://melon-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
-#EXTINF:0 tvg-id="TVOne.d" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvone.png" group-title="News",TV ONE
+#EXTINF:0 tvg-id="TVOne.d" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvone.png" group-title="NEWS",TV ONE
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 http://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:0 tvg-id="MetroTV.Id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_metrotv.png" group-title="News",Metro TV
+#EXTINF:0 tvg-id="MetroTV.Id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_metrotv.png" group-title="NEWS",Metro TV
 https://melon-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
-#EXTINF:0 tvg-id="MetroTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_metrotv.png" group-title="News",Metro TV  
+#EXTINF:0 tvg-id="MetroTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_metrotv.png" group-title="NEWS",Metro TV  
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 http://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
-#EXTINF:0 tvg-id="iNews.Id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_inews.png" group-title="News",iNewsTV
+#EXTINF:0 tvg-id="iNews.Id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_inews.png" group-title="NEWS",iNewsTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:0 tvg-id="nasaid" tvg-logo="https://media2.spaceref.com/wp-content/uploads/2022/07/25152010/nasa-logo-web-rgb.png" group-title="News",NASA TV
+#EXTINF:0 tvg-id="nasaid" tvg-logo="https://media2.spaceref.com/wp-content/uploads/2022/07/25152010/nasa-logo-web-rgb.png" group-title="NEWS",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
-#EXTINF:0 tvg-id="TVRI.Id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvri.png" group-title="News",TVRI
+#EXTINF:0 tvg-id="TVRI.Id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvri.png" group-title="NEWS",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:0 tvg-id="TVRI.Id" tvg-logo="https://manufacturing-supply-chain.com/wp-content/uploads/2015/11/russia-today.png" group-title="News",RT RUSSIA TODAY
+#EXTINF:0 tvg-id="TVRI.Id" tvg-logo="https://manufacturing-supply-chain.com/wp-content/uploads/2015/11/russia-today.png" group-title="NEWS",RT RUSSIA TODAY
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1sWDpIR3lH3s4Tb0xAcb00rhpMvpYrhORhw&usqp=CAU" group-title="News",Al Jazeera
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1sWDpIR3lH3s4Tb0xAcb00rhpMvpYrhORhw&usqp=CAU" group-title="NEWS",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 *** Movies",HBO  ****
 
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1sWDpIR3lH3s4Tb0xAcb00rhpMvpYrhORhw&usqp=CAU" group-title="News",Al Jazeera Arabic
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1sWDpIR3lH3s4Tb0xAcb00rhpMvpYrhORhw&usqp=CAU" group-title="NEWS",Al Jazeera Arabic
 https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
 *** Movies",HBO  ****
 
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWIk7EEM4RmE6pgvVd4DgdiDIGETMQZTsb3w&usqp=CAU" group-title="News",PALESTINE TV
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWIk7EEM4RmE6pgvVd4DgdiDIGETMQZTsb3w&usqp=CAU" group-title="NEWS",PALESTINE TV
 https://pbc.furrera.ps/palestinelivehd/tracks-v2a1/mono.m3u8
 
 ======Nasional=====
@@ -4214,7 +4214,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
 
 ======= Liga INDO =====
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s512/logo%20Bandel%20Tv.jpeg" group-title="LIGA INDO",Sportstar 3 SD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s512/logo%20Bandel%20Tv.jpeg" group-title="LIVE Sport",Sportstar 3 SD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
