@@ -11,6 +11,20 @@ https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqL
 
 ======Nasional=====
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:0 tvg-id="MetroTV.Id" tvg-logo="http://3.bp.blogspot.com/-VElb5FGZ_9M/T3nTI7e0d-I/AAAAAAAAAQE/6-rMojkWzYQ/s1600/New_MetroTV_Logo_2010.png" group-title="nasional",Metro TV
+https://melon-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
+#EXTINF:0 tvg-id="KompasTV.Id" tvg-logo="https://4.bp.blogspot.com/-b6SFy2eD3ag/W-7TbguhADI/AAAAAAAAKQU/-EfHT6hSZucmuh8GXBjXUd8MGXp4h2oUQCLcBGAs/s1600/Kompas%2BTV.png" group-title="nasional",Kompas TV
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:0 tvg-id="TVOne.Id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvone.png" group-title="NEWS",TVONE
+https://melon-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 #EXTINF:0 tvg-id="Net.Id" tvg-logo="https://i.ytimg.com/vi/xWk1sG5ZGX4/maxresdefault.jpg" group-title="nasional",Net TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
