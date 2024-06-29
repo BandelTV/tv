@@ -82,7 +82,7 @@ https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 *** Movies",HBO  ****
 
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" group-title="nasional",MOJI TV
+#EXTINF:0 tvg-logo="https://logowik.com/content/uploads/images/moji9857.logowik.com.webp" group-title="nasional",MOJI TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 
