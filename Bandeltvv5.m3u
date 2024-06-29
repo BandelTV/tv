@@ -5547,6 +5547,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 
 =====FIFA=======
+#EXTINF:-1 tvg-id="" tvg-name="FIFA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png?download=true" group-title="FIFA",TES
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FIFA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png?download=true" group-title="FIFA",Server 1A
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
