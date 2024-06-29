@@ -100,6 +100,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTINF:0 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="nasional" tvg-id="SCTV.id",SCTV 2
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+
 ====EURO2024====
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/115px-UEFA_Euro_2024_Logo.svg.png" group-title="EURO2024",CCTV 5 
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/72
@@ -134,8 +135,16 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/77
 #EXTINF:-1 group-title="COPA AMERICA" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png",INDOSIAR
 http://xtv.ooo:8080/owais1/12345/350972
 
-
-
+====MOTOGP====
+#EXTINF:0 tvg-name="ssc2" tvg-logo="https://www.logolynx.com/images/logolynx/72/72cf97b10916cac1d0862e6104023c72.png" group-title="MOTOGP",SSC 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+#EXTINF:-1  tvg-logo="https://www.logolynx.com/images/logolynx/72/72cf97b10916cac1d0862e6104023c72.png" group-title="MOTOGP",TNT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 ======BEIN====
 
