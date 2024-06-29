@@ -11,7 +11,7 @@ https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqL
 
 ======Nasional=====
 
-#EXTINF:0 tvg-id="Net.Id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png" group-title="nasional",Net.
+#EXTINF:0 tvg-id="Net.Id" tvg-logo="https://i.ytimg.com/vi/xWk1sG5ZGX4/maxresdefault.jpg" group-title="nasional",Net TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -82,7 +82,7 @@ https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 *** Movies",HBO  ****
 
-#EXTINF:0 tvg-logo="https://logowik.com/content/uploads/images/moji9857.logowik.com.webp" group-title="nasional",MOJI TV
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="nasional",MOJI TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 
