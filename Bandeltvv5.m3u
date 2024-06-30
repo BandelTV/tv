@@ -3118,7 +3118,7 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 group-title="VISION+" tvg-id="BabyTV.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg",Baby TV
+#EXTINF:-1 group-title="KIDS" tvg-id="BabyTV.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg",Baby TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
