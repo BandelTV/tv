@@ -15,6 +15,11 @@ https://www.youtube.com/api/manifest/hls_variant/expire/1719956597/ei/FSCEZuXGCe
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg", group-title="Info Bandel TV",LIVE
 https://vb90xltcvg-secure.nsnd.live/7H1QGB_t0lLPSFwjiaTxMw/64573a3b703b381725018134cd694426/1720015298/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUEKc0HYdJCrse6Jwa1BNwYb1GZgpI0m9lbaVWoTFDT37_p9tnrvqXipQSbIo5bOzD-G94o8or2XPPlxMVRL0Qgm8pxrZw6hagINO540ouv3e42diNJHtGskA0KODT_sXDAt7BUUHvrfFKn1QnJ2ZWYw6btW3s9YWZ_meotyQkwCn4IAaKEF6gI3X4Wc/s320/logo%20Bandel%20Tv.jpeg", group-title="Info Bandel TV",LIVE
+https://obevcimanyd179569584.thapcam.link/guvK0w-FnX3E5tshP20wQw/Fv2lucGIbhPi2caWYvF5Lg/1720015298760/live/may1FHD/chunklist.m3u8
+https://pull.niues.live/live/stream-9912009_lhd_1719995975693_2809336842_1596.ts?ps=11&app=live&stream=stream-9912009_lhd&vhost=pull.niues.live
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1719996977-0-0-98c8f560220fa2a550f2fd14ebc072eb
+
 ======Nasional=====
 #EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/9/95/CNN_Indonesia_Vertical.png/revision/latest?cb=20140912015719" group-title="nasional",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
