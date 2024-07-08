@@ -1578,6 +1578,14 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
 
 ==== LIVE Sport =====
+#EXT-X-VERSION:6 
+#EXT-X-INDEPENDENT-SEGMENTS 
+#EXT-X-I-FRAMES-ONLY 
+#EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0". 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-hMAOQUV0v_k/VKEkb9lnd3I/AAAAAAAAADg/TCnjj1MSoOo/s1600/indosiar1.png", group-title="LIVE Sport",MOJI
+http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/4.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-hMAOQUV0v_k/VKEkb9lnd3I/AAAAAAAAADg/TCnjj1MSoOo/s1600/indosiar1.png", group-title="LIVE Sport",LIVE
 http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/228.ts
 
