@@ -333,7 +333,7 @@ https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 #EXTINF:-1 tvg-id="IndoiarIDFbHD" tvg-logo="https://4.bp.blogspot.com/-7lDm4I3IP1M/W-7QLgK53RI/AAAAAAAAKQE/Qbd5wlu2J6oRwnMgfzwH90MURdXd5YB7QCLcBGAs/s1600/Indosiar.png" group-title="nasional",INDOSIAR 
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-*** Movies",HBO  ****
+
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="nasional",MOJI TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
@@ -3116,8 +3116,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 #https://play.gachor99.my.id:443/NcPfpppNKd/hmtv_lite/5
 
-#EXTINF:-1 tvg-id="hbohd" group-title="HBO GROUP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_%28Metallic%29.png/revision/latest/scale-to-width-down/250?cb=20190715122142" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-3600.m3u8",HBO 2
-http://s4.nihontv.net:21585/hbo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/movie/hbofamily.png" group-title="HBO GROUP",HBO Family 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
