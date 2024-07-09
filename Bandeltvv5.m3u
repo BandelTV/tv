@@ -1901,6 +1901,18 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #EXTINF:-1 group-title="LIVE Sport"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",BeIN Sports 3 ID
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
+#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-icon-live-streaming-vector-png-image_4643886.png" group-title="LIVE Sport",ID:Indosiar 
+http://filex.tv:8080/paramjeetsingh/002818/302264 
+#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-icon-live-streaming-vector-png-image_4643886.png" group-title="LIVE Sport",ID:INews 
+http://filex.tv:8080/paramjeetsingh/002818/302265
+#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-icon-live-streaming-vector-png-image_4643886.png" group-title="LIVE Sport",ID:MNC TV 
+http://filex.tv:8080/paramjeetsingh/002818/302278 
+#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-icon-live-streaming-vector-png-image_4643886.png" group-title="LIVE Sport",ID:Moji 
+http://filex.tv:8080/paramjeetsingh/002818/302279
+#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-icon-live-streaming-vector-png-image_4643886.png" group-title="LIVE Sport",ID:RCTI 
+http://filex.tv:8080/paramjeetsingh/002818/302297
+#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-icon-live-streaming-vector-png-image_4643886.png" group-title="LIVE Sport",ID:SCTV 
+http://filex.tv:8080/paramjeetsingh/002818/302301
 
 ======astro sport===
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRk_fRaupZP0lvLnLW0-kJo5wbvhZO8C14UPZ6_3uFPo_bFk91l0FmCe9nUPqRVF7g2Zr4sOmQSFma2VExk-dTWCkHOvN6lNOhUgB-gU1nwqwXbliUNq6DOZGx-r4xuse8Yc1Cdm_3xEBsm__6XNJprWlNQCNakPM0_bQMwhrvmGB-XGMTTX7nJXA_Fpk/s320/logo%20bandeltv%20v2cut.png" group-title="ASTRO SPORT",MY: ASTRO SUPERSPORTS 1 HD
