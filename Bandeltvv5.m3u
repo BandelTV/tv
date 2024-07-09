@@ -347,7 +347,29 @@ https://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="nasional" tvg-id="SCTV.id",SCTV 2
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-
+=======
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="nasional",Indosiar B1
+http://filex.tv:8080/paramjeetsingh/002818/302264
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="nasional",Indosiar B2
+http://xtv.ooo:8080/owais1/12345/350972
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="nasional",Indosiar B3
+http://xtv.ooo:8080/MansoorWapda/258741/350972
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="nasional",Indosiar B4
+http://iptvtree.net:8080/e891d265/89d742c3/162138
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="nasional",Indosiar B5
+http://iptvtree.net:8080/F14995/a84c0963/162138
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="nasional",Indosiar B6
+http://iptvtree.net:8080/AmirBilali/76448035/162138
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="nasional",Indosiar B7
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="nasional",Indosiar B8
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="nasional",Indosiar B9
+http://extraott.com/live/7921751389/6097373662/45098.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="nasional",Indosiar B10
+https://s.id/indosiar_play_shareext-xs
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="nasional",Indosiar B11
+https://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8|user-agent=Mozilla/5.0
 =====TV 4K====
 #EXTINF:-1 group-title="TV 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRk_fRaupZP0lvLnLW0-kJo5wbvhZO8C14UPZ6_3uFPo_bFk91l0FmCe9nUPqRVF7g2Zr4sOmQSFma2VExk-dTWCkHOvN6lNOhUgB-gU1nwqwXbliUNq6DOZGx-r4xuse8Yc1Cdm_3xEBsm__6XNJprWlNQCNakPM0_bQMwhrvmGB-XGMTTX7nJXA_Fpk/s320/logo%20bandeltv%20v2cut.png",5SPORT (UHD/4K)
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/592564
