@@ -8499,170 +8499,171 @@ https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat
 https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
-=====Malaysia 3====
-#EXTINF:-1 tvg-id="8TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/e17423b3478a962cdb92c6c20a15f178.jpg" group-title="Malaysia", 8TV
+
+=====Malaysia Premium====
+#EXTINF:-1 tvg-id="8TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/e17423b3478a962cdb92c6c20a15f178.jpg" group-title="MALAYSIA", 8TV
 http://iptvtree.net:8080/AmirBilali/76448035/171968
 
-#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/724b0efaef7a6f098800a18489d4d7a6.svg" group-title="Malaysia", Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/724b0efaef7a6f098800a18489d4d7a6.svg" group-title="MALAYSIA", Animal Planet
 http://iptvtree.net:8080/AmirBilali/76448035/301290
 
-#EXTINF:-1 tvg-id="Astro AOD 354" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/bc43d98ee1b43a6639c118d61bbbd5a8.png" group-title="Malaysia", Astro AOD 354
+#EXTINF:-1 tvg-id="Astro AOD 354" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/bc43d98ee1b43a6639c118d61bbbd5a8.png" group-title="MALAYSIA", Astro AOD 354
 http://iptvtree.net:8080/AmirBilali/76448035/247413
 
-#EXTINF:-1 tvg-id="Astro AOD 355" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/b54c18cbba7b6fa1be95df31eb544825.png" group-title="Malaysia", Astro AOD 355
+#EXTINF:-1 tvg-id="Astro AOD 355" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/b54c18cbba7b6fa1be95df31eb544825.png" group-title="MALAYSIA", Astro AOD 355
 http://iptvtree.net:8080/AmirBilali/76448035/247414
 
-#EXTINF:-1 tvg-id="Astro Arena" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="Malaysia", Astro Arena
+#EXTINF:-1 tvg-id="Astro Arena" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="MALAYSIA", Astro Arena
 http://iptvtree.net:8080/AmirBilali/76448035/157485
 
-#EXTINF:-1 tvg-id="Astro Arena 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg" group-title="Malaysia", Astro Arena 2
+#EXTINF:-1 tvg-id="Astro Arena 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg" group-title="MALAYSIA", Astro Arena 2
 http://iptvtree.net:8080/AmirBilali/76448035/287793
 
-#EXTINF:-1 tvg-id="Astro Aura" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/8a7da6b01b1d3530bd1b1d4d4bcc8a4e.png" group-title="Malaysia", Astro Aura
+#EXTINF:-1 tvg-id="Astro Aura" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/8a7da6b01b1d3530bd1b1d4d4bcc8a4e.png" group-title="MALAYSIA", Astro Aura
 http://iptvtree.net:8080/AmirBilali/76448035/171986
 
-#EXTINF:-1 tvg-id="Astro Awani" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png" group-title="Malaysia", Astro Awani
+#EXTINF:-1 tvg-id="Astro Awani" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png" group-title="MALAYSIA", Astro Awani
 http://iptvtree.net:8080/AmirBilali/76448035/157478
 
-#EXTINF:-1 tvg-id="Astro Ceria" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a52767c0cbab7a73d4554f002abe4b31.png" group-title="Malaysia", Astro Ceria
+#EXTINF:-1 tvg-id="Astro Ceria" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a52767c0cbab7a73d4554f002abe4b31.png" group-title="MALAYSIA", Astro Ceria
 http://iptvtree.net:8080/AmirBilali/76448035/157481
 
-#EXTINF:-1 tvg-id="Astro Citra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/a7cbb090c3d95828339e5b2ca15d5b92.png" group-title="Malaysia", Astro Citra
+#EXTINF:-1 tvg-id="Astro Citra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/a7cbb090c3d95828339e5b2ca15d5b92.png" group-title="MALAYSIA", Astro Citra
 http://iptvtree.net:8080/AmirBilali/76448035/157569
 
-#EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="Malaysia", Astro Cricket
+#EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="MALAYSIA", Astro Cricket
 http://iptvtree.net:8080/AmirBilali/76448035/157565
 
-#EXTINF:-1 tvg-id="Astro Oasis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" group-title="Malaysia", Astro Oasis
+#EXTINF:-1 tvg-id="Astro Oasis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" group-title="MALAYSIA", Astro Oasis
 http://iptvtree.net:8080/AmirBilali/76448035/157489
 
-#EXTINF:-1 tvg-id="Astro Prima" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="Malaysia", Astro Prima
+#EXTINF:-1 tvg-id="Astro Prima" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="MALAYSIA", Astro Prima
 http://iptvtree.net:8080/AmirBilali/76448035/157467
 
-#EXTINF:-1 tvg-id="Astro Rania" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/d01eb638b6f5a8c629f379e314e1b39f.png" group-title="Malaysia", Astro Rania
+#EXTINF:-1 tvg-id="Astro Rania" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/d01eb638b6f5a8c629f379e314e1b39f.png" group-title="MALAYSIA", Astro Rania
 http://iptvtree.net:8080/AmirBilali/76448035/171984
 
-#EXTINF:-1 tvg-id="Astro SuperSport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Malaysia", Astro SuperSport
+#EXTINF:-1 tvg-id="Astro SuperSport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="MALAYSIA", Astro SuperSport
 http://iptvtree.net:8080/AmirBilali/76448035/146068
 
-#EXTINF:-1 tvg-id="Astro SuperSport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Malaysia", Astro SuperSport 2
+#EXTINF:-1 tvg-id="Astro SuperSport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="MALAYSIA", Astro SuperSport 2
 http://iptvtree.net:8080/AmirBilali/76448035/157556
 
-#EXTINF:-1 tvg-id="Astro SuperSport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Malaysia", Astro SuperSport 3
+#EXTINF:-1 tvg-id="Astro SuperSport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="MALAYSIA", Astro SuperSport 3
 http://iptvtree.net:8080/AmirBilali/76448035/157557
 
-#EXTINF:-1 tvg-id="Astro SuperSport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Malaysia", Astro SuperSport 4
+#EXTINF:-1 tvg-id="Astro SuperSport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="MALAYSIA", Astro SuperSport 4
 http://iptvtree.net:8080/AmirBilali/76448035/157558
 
-#EXTINF:-1 tvg-id="Astro Tutor TV SK" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/8084ecdb172bcb035b001609cad149ba.png" group-title="Malaysia", Astro Tutor TV SK
+#EXTINF:-1 tvg-id="Astro Tutor TV SK" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/8084ecdb172bcb035b001609cad149ba.png" group-title="MALAYSIA", Astro Tutor TV SK
 http://iptvtree.net:8080/AmirBilali/76448035/247433
 
-#EXTINF:-1 tvg-id="Astro Vaanavil" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/bb06ccbe93af0e4d72aad4c77c5cb4c6.png" group-title="Malaysia", Astro Vaanavil
+#EXTINF:-1 tvg-id="Astro Vaanavil" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/bb06ccbe93af0e4d72aad4c77c5cb4c6.png" group-title="MALAYSIA", Astro Vaanavil
 http://iptvtree.net:8080/AmirBilali/76448035/201163
 
-#EXTINF:-1 tvg-id="Astro Warna" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a299dfa8e82be635478b91adb6e042ac.png" group-title="Malaysia", Astro Warna
+#EXTINF:-1 tvg-id="Astro Warna" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a299dfa8e82be635478b91adb6e042ac.png" group-title="MALAYSIA", Astro Warna
 http://iptvtree.net:8080/AmirBilali/76448035/157492
 
-#EXTINF:-1 tvg-id="AXN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/2d7d739d57aa860159c36df8c746c779.png" group-title="Malaysia", AXN
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/2d7d739d57aa860159c36df8c746c779.png" group-title="MALAYSIA", AXN
 http://iptvtree.net:8080/AmirBilali/76448035/157542
 
-#EXTINF:-1 tvg-id="BBC Earth" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/c23b25dd57cbcc578a72dda7e35fdf08.png" group-title="Malaysia", BBC Earth
+#EXTINF:-1 tvg-id="BBC Earth" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/c23b25dd57cbcc578a72dda7e35fdf08.png" group-title="MALAYSIA", BBC Earth
 http://iptvtree.net:8080/AmirBilali/76448035/171979
 
-#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/de4c06dbe77d67ebc9a62021eb9857f5.png" group-title="Malaysia", BBC Lifestyle
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/de4c06dbe77d67ebc9a62021eb9857f5.png" group-title="MALAYSIA", BBC Lifestyle
 http://iptvtree.net:8080/AmirBilali/76448035/171976
 
-#EXTINF:-1 tvg-id="beIN Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="Malaysia", beIN Sports
+#EXTINF:-1 tvg-id="beIN Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="MALAYSIA", beIN Sports
 http://iptvtree.net:8080/AmirBilali/76448035/157561
 
-#EXTINF:-1 tvg-id="Bernama TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/5e74e05594b34f529cc9a9d9fbabaf80.png" group-title="Malaysia", Bernama TV
+#EXTINF:-1 tvg-id="Bernama TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/5e74e05594b34f529cc9a9d9fbabaf80.png" group-title="MALAYSIA", Bernama TV
 http://iptvtree.net:8080/AmirBilali/76448035/264517
 
-#EXTINF:-1 tvg-id="Celestial Classic Movies (CCM)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/feda2de53c7fd947f29ff4740860c233.png" group-title="Malaysia", Celestial Classic Movies (CCM)
+#EXTINF:-1 tvg-id="Celestial Classic Movies (CCM)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/feda2de53c7fd947f29ff4740860c233.png" group-title="MALAYSIA", Celestial Classic Movies (CCM)
 http://iptvtree.net:8080/AmirBilali/76448035/157512
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/723d09a6f3136564ee96557231a747bb.png" group-title="Malaysia", Cinemax
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/723d09a6f3136564ee96557231a747bb.png" group-title="MALAYSIA", Cinemax
 http://iptvtree.net:8080/AmirBilali/76448035/157519
 
-#EXTINF:-1 tvg-id="Crime+ Investigation" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/ad7a1e1bb94a07f128ce21def6a0adc3.png" group-title="Malaysia", Crime+ Investigation
+#EXTINF:-1 tvg-id="Crime+ Investigation" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/ad7a1e1bb94a07f128ce21def6a0adc3.png" group-title="MALAYSIA", Crime+ Investigation
 http://iptvtree.net:8080/AmirBilali/76448035/157554
 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/d0e9f7b4beedf023994c4d1937b97aca.png" group-title="Malaysia", Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/d0e9f7b4beedf023994c4d1937b97aca.png" group-title="MALAYSIA", Discovery Channel
 http://iptvtree.net:8080/AmirBilali/76448035/157528
 
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/f3f4f665e53b049fb81a2f995a102f10.png" group-title="Malaysia", Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/f3f4f665e53b049fb81a2f995a102f10.png" group-title="MALAYSIA", Eurosport 1
 http://iptvtree.net:8080/AmirBilali/76448035/158353
 
-#EXTINF:-1 tvg-id="Harvest TV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Malaysia", Harvest TV
+#EXTINF:-1 tvg-id="Harvest TV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MALAYSIA", Harvest TV
 http://iptvtree.net:8080/AmirBilali/76448035/299917
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/0ed674b5022860c2ed32d34a6dd36b7a.png" group-title="Malaysia", HBO
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/0ed674b5022860c2ed32d34a6dd36b7a.png" group-title="MALAYSIA", HBO
 http://iptvtree.net:8080/AmirBilali/76448035/157518
 
-#EXTINF:-1 tvg-id="Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/25ab65a39a10d628b5c9319b423b6497.png" group-title="Malaysia", Hits
+#EXTINF:-1 tvg-id="Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/25ab65a39a10d628b5c9319b423b6497.png" group-title="MALAYSIA", Hits
 http://iptvtree.net:8080/AmirBilali/76448035/157545
 
-#EXTINF:-1 tvg-id="HITS Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/652a9e2547c9b24a6a2b0eb16b43a1f1.png" group-title="Malaysia", HITS Movies
+#EXTINF:-1 tvg-id="HITS Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/652a9e2547c9b24a6a2b0eb16b43a1f1.png" group-title="MALAYSIA", HITS Movies
 http://iptvtree.net:8080/AmirBilali/76448035/157477
 
-#EXTINF:-1 tvg-id="MTV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/02fe87f4680ce4c67197ba3c4c5bf9c7.png" group-title="Malaysia", MTV
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/02fe87f4680ce4c67197ba3c4c5bf9c7.png" group-title="MALAYSIA", MTV
 http://iptvtree.net:8080/AmirBilali/76448035/157555
 
-#EXTINF:-1 tvg-id="Nick Jr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/92307ca79c909c2f7881199792c74c0b.png" group-title="Malaysia", Nick Jr
+#EXTINF:-1 tvg-id="Nick Jr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/92307ca79c909c2f7881199792c74c0b.png" group-title="MALAYSIA", Nick Jr
 http://iptvtree.net:8080/AmirBilali/76448035/157546
 
-#EXTINF:-1 tvg-id="NTV 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/b92ffe0e329e6808620cf9b9f92f1523.png" group-title="Malaysia", NTV 7
+#EXTINF:-1 tvg-id="NTV 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/b92ffe0e329e6808620cf9b9f92f1523.png" group-title="MALAYSIA", NTV 7
 http://iptvtree.net:8080/AmirBilali/76448035/174695
 
-#EXTINF:-1 tvg-id="Premier Sports" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Malaysia", Premier Sports
+#EXTINF:-1 tvg-id="Premier Sports" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MALAYSIA", Premier Sports
 http://iptvtree.net:8080/AmirBilali/76448035/302772
 
-#EXTINF:-1 tvg-id="RTB Sukmaindera" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/667e24a26ecfe1070bd6a40a113c0159.png" group-title="Malaysia", RTB Sukmaindera
+#EXTINF:-1 tvg-id="RTB Sukmaindera" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/667e24a26ecfe1070bd6a40a113c0159.png" group-title="MALAYSIA", RTB Sukmaindera
 http://iptvtree.net:8080/AmirBilali/76448035/299546
 
-#EXTINF:-1 tvg-id="RTM TV 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7f3190f95ee41181d69a2edcc5321131.png" group-title="Malaysia", RTM TV 1
+#EXTINF:-1 tvg-id="RTM TV 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7f3190f95ee41181d69a2edcc5321131.png" group-title="MALAYSIA", RTM TV 1
 http://iptvtree.net:8080/AmirBilali/76448035/158357
 
-#EXTINF:-1 tvg-id="RTM TV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/4d495580f894286e82e1f9ee33d2874b.png" group-title="Malaysia", RTM TV 2
+#EXTINF:-1 tvg-id="RTM TV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/4d495580f894286e82e1f9ee33d2874b.png" group-title="MALAYSIA", RTM TV 2
 http://iptvtree.net:8080/AmirBilali/76448035/158355
 
-#EXTINF:-1 tvg-id="TLC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/fe3bd16f91a47fe0d146bc0bd778dcd3.jpg" group-title="Malaysia", TLC
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/fe3bd16f91a47fe0d146bc0bd778dcd3.jpg" group-title="MALAYSIA", TLC
 http://iptvtree.net:8080/AmirBilali/76448035/157483
 
-#EXTINF:-1 tvg-id="TV 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/338111c497a80baf3e1dccfe7e9a5cc0.jpg" group-title="Malaysia", TV 1
+#EXTINF:-1 tvg-id="TV 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/338111c497a80baf3e1dccfe7e9a5cc0.jpg" group-title="MALAYSIA", TV 1
 http://iptvtree.net:8080/AmirBilali/76448035/300872
 
-#EXTINF:-1 tvg-id="TV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/15ec53174f6ecee5d3802b391d75c5a6.jpg" group-title="Malaysia", TV 2
+#EXTINF:-1 tvg-id="TV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/15ec53174f6ecee5d3802b391d75c5a6.jpg" group-title="MALAYSIA", TV 2
 http://iptvtree.net:8080/AmirBilali/76448035/300873
 
-#EXTINF:-1 tvg-id="TV 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/7c4b2443678d05d7f2032e5519eec970.png" group-title="Malaysia", TV 3
+#EXTINF:-1 tvg-id="TV 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/7c4b2443678d05d7f2032e5519eec970.png" group-title="MALAYSIA", TV 3
 http://iptvtree.net:8080/AmirBilali/76448035/158360
 
-#EXTINF:-1 tvg-id="TV 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/3adc723d4576cb0b512751fe4073c326.png" group-title="Malaysia", TV 9
+#EXTINF:-1 tvg-id="TV 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/3adc723d4576cb0b512751fe4073c326.png" group-title="MALAYSIA", TV 9
 http://iptvtree.net:8080/AmirBilali/76448035/171953
 
-#EXTINF:-1 tvg-id="TV Alhijrah" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7bcedbeb3814000d4e785498f51b2099.png" group-title="Malaysia", TV Alhijrah
+#EXTINF:-1 tvg-id="TV Alhijrah" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7bcedbeb3814000d4e785498f51b2099.png" group-title="MALAYSIA", TV Alhijrah
 http://iptvtree.net:8080/AmirBilali/76448035/157491
 
-#EXTINF:-1 tvg-id="TVB E News" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Malaysia", TVB E News
+#EXTINF:-1 tvg-id="TVB E News" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MALAYSIA", TVB E News
 http://iptvtree.net:8080/AmirBilali/76448035/302751
 
-#EXTINF:-1 tvg-id="TVB æ˜Ÿæ²³" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Malaysia", TVB æ˜Ÿæ²³
+#EXTINF:-1 tvg-id="TVB æ˜Ÿæ²³" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MALAYSIA", TVB æ˜Ÿæ²³
 http://iptvtree.net:8080/AmirBilali/76448035/302753
 
-#EXTINF:-1 tvg-id="TVBS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Malaysia", TVBS
+#EXTINF:-1 tvg-id="TVBS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MALAYSIA", TVBS
 http://iptvtree.net:8080/AmirBilali/76448035/302752
 
-#EXTINF:-1 tvg-id="TVN" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Malaysia", TVN
+#EXTINF:-1 tvg-id="TVN" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MALAYSIA", TVN
 http://iptvtree.net:8080/AmirBilali/76448035/302748
 
-#EXTINF:-1 tvg-id="TVN Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/66ac88e17edd3d12e424a58a3a9b1d45.png" group-title="Malaysia", TVN Movies
+#EXTINF:-1 tvg-id="TVN Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/66ac88e17edd3d12e424a58a3a9b1d45.png" group-title="MALAYSIA", TVN Movies
 http://iptvtree.net:8080/AmirBilali/76448035/297499
 
-#EXTINF:-1 tvg-id="TVS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Malaysia", TVS
+#EXTINF:-1 tvg-id="TVS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MALAYSIA", TVS
 http://iptvtree.net:8080/AmirBilali/76448035/247442
 
-#EXTINF:-1 tvg-id="Warner TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/ab95d8e974bb7f697b1dd79c7ac0f765.png" group-title="Malaysia", Warner TV
+#EXTINF:-1 tvg-id="Warner TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/ab95d8e974bb7f697b1dd79c7ac0f765.png" group-title="MALAYSIA", Warner TV
 http://iptvtree.net:8080/AmirBilali/76448035/157550
 
 
