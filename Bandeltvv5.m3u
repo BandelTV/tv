@@ -3116,7 +3116,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 #https://play.gachor99.my.id:443/NcPfpppNKd/hmtv_lite/5
 
-#EXTINF:-1 tvg-id="hbohd" group-title="HBO GROUP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_%28Metallic%29.png/revision/latest/scale-to-width-down/250?cb=20190715122142" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-3600.m3u8",HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="HBO GROUP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_%28Metallic%29.png/revision/latest/scale-to-width-down/250?cb=20190715122142" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-3600.m3u8",HBO 2
 http://s4.nihontv.net:21585/hbo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/movie/hbofamily.png" group-title="HBO GROUP",HBO Family 
@@ -3275,7 +3275,7 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 #EXTINF:-1 tvg-id="CINEMAZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9O9IQHez_TWhJws-HTDb3zRskmprSB7itQ&usqp=CAU" group-title="Movies2",ZEE CINEMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/1350
-*** Movies",HBO  ****
+
 
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Movies" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRk_fRaupZP0lvLnLW0-kJo5wbvhZO8C14UPZ6_3uFPo_bFk91l0FmCe9nUPqRVF7g2Zr4sOmQSFma2VExk-dTWCkHOvN6lNOhUgB-gU1nwqwXbliUNq6DOZGx-r4xuse8Yc1Cdm_3xEBsm__6XNJprWlNQCNakPM0_bQMwhrvmGB-XGMTTX7nJXA_Fpk/s320/logo%20bandeltv%20v2cut.png",Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3359,7 +3359,7 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-026/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
 #https://cors-proxy.elfsight.com/https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
- ** Movies",HBO  ****
+
  
 #EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="beinsports2thailand.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",beIN Sports 2 TH
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -3371,19 +3371,19 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-026/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
 #https://cors-proxy.pulsesoftware.com/https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
-*** Movies",HBO  ****
+
 
 #EXTINF:-1 tvg-id="SS PSL" tvg-logo="https://hometv.pw/logo/sports/supersport2.png" group-title="SPORT PREMIUM",SUPERSPORT PSL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 #https://webhdrus.onlinehdhls.ru/lb/premium413/index.m3u8
-*** Movies",HBO  ****
+
 
 #EXTINF:-1 tvg-id="SS PL" tvg-logo="https://hometv.pw/logo/sports/supersport2.png" group-title="SPORT PREMIUM",SUPERSPORT Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 #https://webhdrus.onlinehdhls.ru/lb/premium414/index.m3u8
-*** Movies",HBO  ****
+
 
 #EXTINF:-1 tvg-id="SS Football" tvg-logo="https://hometv.pw/logo/sports/supersport2.png" group-title="SPORT PREMIUM",SUPERSPORT Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -3408,19 +3408,19 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-026/stream.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 #https://webhdrus.onlinehdhls.ru/lb/premium417/index.m3u8
-*** Movies",HBO  ****
+
 
 #EXTINF:-1 tvg-id="SS Variety 3" tvg-logo="https://hometv.pw/logo/sports/supersport2.png" group-title="SPORT PREMIUM",SUPERSPORT Variety 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 #https://webhdrus.onlinehdhls.ru/lb/premium418/index.m3u8
-*** Movies",HBO  ****
+
 
 #EXTINF:-1 tvg-id="SS Variety 4" tvg-logo="https://hometv.pw/logo/sports/supersport2.png" group-title="SPORT PREMIUM",SUPERSPORT Variety 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 .
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 #https://webhdrus.onlinehdhls.ru/lb/premium419/index.m3u8
-*** Movies",HBO  ****
+
 
 #EXTINF:-1 tvg-id="SS Golf" tvg-logo="https://hometv.pw/logo/sports/supersport2.png" group-title="SPORT PREMIUM",SUPERSPORT Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -3431,25 +3431,25 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-026/stream.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 #https://webhdrus.onlinehdhls.ru/lb/premium84/index.m3u8
-*** Movies",HBO  ****
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png" group-title="SPORT PREMIUM",Movistar Vamos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 #https://webhdrus.onlinehdhls.ru/lb/premium521/index.m3u8
-*** Movies",HBO  ****
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png" group-title="SPORT PREMIUM",Movistar Liga de Campeones
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 #https://webhdrus.onlinehdhls.ru/lb/premium435/index.m3u8
-*** Movies",HBO  ****
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png" group-title="SPORT PREMIUM",Movistar Deportes Spain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 #https://webhdrus.onlinehdhls.ru/lb/premium436/index.m3u8
-*** Movies",HBO  ****
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png" group-title="SPORT PREMIUM",Movistar Deportes 1 Spain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
