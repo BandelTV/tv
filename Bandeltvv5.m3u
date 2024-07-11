@@ -7280,34 +7280,17 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 
 ########################## LIFESTYLE ##########################
 
-#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRk_fRaupZP0lvLnLW0-kJo5wbvhZO8C14UPZ6_3uFPo_bFk91l0FmCe9nUPqRVF7g2Zr4sOmQSFma2VExk-dTWCkHOvN6lNOhUgB-gU1nwqwXbliUNq6DOZGx-r4xuse8Yc1Cdm_3xEBsm__6XNJprWlNQCNakPM0_bQMwhrvmGB-XGMTTX7nJXA_Fpk/s320/logo%20bandeltv%20v2cut.png" group-title="LIFESTYLE",HGTV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRk_fRaupZP0lvLnLW0-kJo5wbvhZO8C14UPZ6_3uFPo_bFk91l0FmCe9nUPqRVF7g2Zr4sOmQSFma2VExk-dTWCkHOvN6lNOhUgB-gU1nwqwXbliUNq6DOZGx-r4xuse8Yc1Cdm_3xEBsm__6XNJprWlNQCNakPM0_bQMwhrvmGB-XGMTTX7nJXA_Fpk/s320/logo%20bandeltv%20v2cut.png" group-title="LIFESTYLE",TLC
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
 
-
-#EXTINF:-1 tvg-name="FASHION TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRk_fRaupZP0lvLnLW0-kJo5wbvhZO8C14UPZ6_3uFPo_bFk91l0FmCe9nUPqRVF7g2Zr4sOmQSFma2VExk-dTWCkHOvN6lNOhUgB-gU1nwqwXbliUNq6DOZGx-r4xuse8Yc1Cdm_3xEBsm__6XNJprWlNQCNakPM0_bQMwhrvmGB-XGMTTX7nJXA_Fpk/s320/logo%20bandeltv%20v2cut.png" group-title="LIFESTYLE",FASHION TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/fashiontv.m3u8
-https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRk_fRaupZP0lvLnLW0-kJo5wbvhZO8C14UPZ6_3uFPo_bFk91l0FmCe9nUPqRVF7g2Zr4sOmQSFma2VExk-dTWCkHOvN6lNOhUgB-gU1nwqwXbliUNq6DOZGx-r4xuse8Yc1Cdm_3xEBsm__6XNJprWlNQCNakPM0_bQMwhrvmGB-XGMTTX7nJXA_Fpk/s320/logo%20bandeltv%20v2cut.png" group-title="LIFESTYLE",The Food Network
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
 
 
 #EXTINF:-1 tvg-name="Fashion TV Midnight" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRk_fRaupZP0lvLnLW0-kJo5wbvhZO8C14UPZ6_3uFPo_bFk91l0FmCe9nUPqRVF7g2Zr4sOmQSFma2VExk-dTWCkHOvN6lNOhUgB-gU1nwqwXbliUNq6DOZGx-r4xuse8Yc1Cdm_3xEBsm__6XNJprWlNQCNakPM0_bQMwhrvmGB-XGMTTX7nJXA_Fpk/s320/logo%20bandeltv%20v2cut.png" group-title="LIFESTYLE",Fashion TV Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_vidio_id_1533_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRk_fRaupZP0lvLnLW0-kJo5wbvhZO8C14UPZ6_3uFPo_bFk91l0FmCe9nUPqRVF7g2Zr4sOmQSFma2VExk-dTWCkHOvN6lNOhUgB-gU1nwqwXbliUNq6DOZGx-r4xuse8Yc1Cdm_3xEBsm__6XNJprWlNQCNakPM0_bQMwhrvmGB-XGMTTX7nJXA_Fpk/s320/logo%20bandeltv%20v2cut.png" group-title="LIFESTYLE",TLC 2
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="LIFETIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRk_fRaupZP0lvLnLW0-kJo5wbvhZO8C14UPZ6_3uFPo_bFk91l0FmCe9nUPqRVF7g2Zr4sOmQSFma2VExk-dTWCkHOvN6lNOhUgB-gU1nwqwXbliUNq6DOZGx-r4xuse8Yc1Cdm_3xEBsm__6XNJprWlNQCNakPM0_bQMwhrvmGB-XGMTTX7nJXA_Fpk/s320/logo%20bandeltv%20v2cut.png" group-title="LIFESTYLE",LIFETIME
 https://melon-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
-
-#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRk_fRaupZP0lvLnLW0-kJo5wbvhZO8C14UPZ6_3uFPo_bFk91l0FmCe9nUPqRVF7g2Zr4sOmQSFma2VExk-dTWCkHOvN6lNOhUgB-gU1nwqwXbliUNq6DOZGx-r4xuse8Yc1Cdm_3xEBsm__6XNJprWlNQCNakPM0_bQMwhrvmGB-XGMTTX7nJXA_Fpk/s320/logo%20bandeltv%20v2cut.png" group-title="LIFESTYLE",HGTV 2
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 
 ########################## KNOWLEDGE2 ##########################
 
