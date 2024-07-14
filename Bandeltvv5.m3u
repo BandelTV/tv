@@ -768,6 +768,18 @@ http://iptvtree.net:8080/F14995/a84c0963/2542
 ===F1===
 #EXTINF:-1 tvg-name="ssc2" tvg-logo="https://wallpaperaccess.com/full/6122723.png" group-title="F1",FI
 http://iptvtree.net:8080/F14995/a84c0963/2542
+
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: DAZN FORMULA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="F1",DAZN FORMULA 1 SD
+http://832168107696165257.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/165257.ts
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: DAZN FORMULA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="F1",DAZN FORMULA 1 FHD
+http://832168107696165418.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/165418.ts
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: DAZN FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="F1",DAZN FORMULA 1 HD
+http://832168107696165419.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/165419.ts
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: DAZN FORMULA 1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="F1",DAZN FORMULA 1 HEVC
+http://832168107696318564.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/318564.ts
+
+
+
 ======BEIN====
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nk44Tdd.png" group-title=" " group-title="BEIN",|AR| BEIN SPORTS NEWS HD
