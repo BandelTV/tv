@@ -7447,9 +7447,24 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
 
 ====KIDS===
 #EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" group-title="KIDS",BABYFIRST
-https://www.yupptv.com/amp/channels/babyfirst/live
+https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/ff9a63f1-32f9-45cc-82cc-ede11ca66001/1.m3u8
+
 #EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" group-title="KIDS",BABYFIRST 2
-https://ssailive.vgcdn.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6e0af97-b4c7-443e-a152-a8caa844c256/main.m3u8?
+https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/d9ffe237-e35d-42bf-bd62-7da2b9354ec3/1.m3u8
+#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" group-title="KIDS",BABYFIRST 3
+https://streams2.sofast.tv/ptnr-yupptv/title-BEANI-KIDS-TV-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/ae504cae-b81f-49e6-8b40-71d7c0843589/2b6fd82c-0947-4905-9d2f-6b373ac9acb5/1.m3u8
+
+#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" group-title="KIDS",BABYFIRST 4
+https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/c5832251-c55a-4191-8bc8-75965a1682d8/1.m3u8
+#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" group-title="KIDS",BABYFIRST 5
+https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-SPA_YuppTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/890e0eaf-b909-4a5d-92d9-7bdcab275232/0.m3u8
+#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" group-title="KIDS",BABYFIRST 6
+https://streams2.sofast.tv/ptnr-yupptv/title-4K-TRAVEL-TV-ENG_YuppTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3d3b06ca-1ef5-4cb1-8f56-ac7b55472aac/3a4ccd3e-42f9-4d41-b4f8-13f7844fb3af/2.m3u8
+#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" group-title="KIDS",BABYFIRST 7
+https://streams2.sofast.tv/ptnr-yupptv/title-SCIFI-WORLD-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/7ca6a7ca-d799-481c-8b5f-890480ad2244/2.m3u8
+
+
+
 
 #EXTINF:-1 group-title="KIDS" tvg-id="moonbugkids.us" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png",Moonbug Kids
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
