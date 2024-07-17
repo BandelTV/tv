@@ -2154,6 +2154,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
 
 ==== LIVE Sport =====
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="LIVE Sport",LIVE
+https://lebo.huminbird.cn/live/ballbar_10690.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LIVE Sport",INDOSIAR V
 #http://extraott.com/live/7921751389/6097373662/45098.ts
 #EXT-X-VERSION:6 
