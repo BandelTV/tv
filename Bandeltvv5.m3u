@@ -263,14 +263,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="TVOne.Id" tvg-logo="https://2.bp.blogspot.com/-XstPqYTdR08/XFGzQwWpOcI/AAAAAAAAGtc/PojARKqI4I8OZSZHtY24LrhmXnoz3FHOwCPcBGAYYCw/s1600/tvOne%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="nasional",TVONE
 https://melon-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
-#EXTINF:-1 tvg-id="Net.Id" tvg-logo="https://i.ytimg.com/vi/xWk1sG5ZGX4/maxresdefault.jpg" group-title="nasional",Net TV
-#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="RTV.Id" tvg-logo="https://www.logolynx.com/images/logolynx/45/45c22010ba2fa166d138589fe6884aad.jpeg" group-title="nasional",RTV
-https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -286,14 +279,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="TransTV.Id" tvg-logo="https://logodix.com/logo/2030436.png" group-title="nasional",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w226470954_b744100_sleng.m3u8
-
-#EXTINF:-1 tvg-id="TransTV.Id" tvg-logo="https://logodix.com/logo/2030436.png" group-title="nasional",Trans TV FHD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:-1 tvg-id="GTV.Id" tvg-logo="https://thumbor.prod.vidiocdn.com/Xye0dwc1q7gsdu4aUfOywAouEYc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="nasional",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
