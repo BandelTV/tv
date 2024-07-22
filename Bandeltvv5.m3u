@@ -7496,6 +7496,8 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 
 
 ########################## LIFESTYLE ##########################
+#EXTINF:-1 tvg-id="hgtvasia.us" tvg-name="HGTV asia" tvg-logo="https://i.imgur.com/U139AVK.png" group-title="LIFESTYLE",HGTV
+https://kusnadipepenk.github.io/ntn/hgtv.m3u8
 
 
 
