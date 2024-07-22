@@ -2120,7 +2120,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163
 
 ==== LIVE Sport =====
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="LIVE Sport",LIVE 1
-https://starlive.pages.dev/calpr?
+https://starlive.pages.dev/calpr?id=aHR0cHM6Ly9zdWthLXRvYnJ1dC5zdGFybGl2ZS53b3JrZXJzLmRldi9saXZlL3N0cmVhbS05OTEyMDA4X2xzZC5tM3U4
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="LIVE Sport",LIVE 3
 https://lebo.huminbird.cn/live/ballbar_28290.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="LIVE Sport",LIVE 4
