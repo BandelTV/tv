@@ -2456,6 +2456,18 @@ http://iptvtree.net:8080/F14995/a84c0963/297606
 http://iptvtree.net:8080/F14995/a84c0963/297604
 #EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="ARABIAN SPORT",StarzPlay Sports
 http://iptvtree.net:8080/F14995/a84c0963/297607
+
+====TNT SPORT===
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT 1 HD" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIFiGFseCB_4yQb-n8Yqff1C9JxwGBayP5y68zbW-uw7g.png" group-title="TNT SPORTS",TNT 1 HD
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12121.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT 2 HD" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIFiGFseCB_4yQb-n8Yqff1C9JxwGBayP5y68zbW-uw7g.png" group-title="TNT SPORTS",TNT 2 HD
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12122.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT 3 HD" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIFiGFseCB_4yQb-n8Yqff1C9JxwGBayP5y68zbW-uw7g.png" group-title="TNT SPORTS",TNT 3 HD
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12123.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT 4 HD" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIFiGFseCB_4yQb-n8Yqff1C9JxwGBayP5y68zbW-uw7g.png" group-title="TNT SPORTS",TNT 4 HD
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12124.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
+
 =====SKY SPORT===
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Football UK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIN_mVrHMXd4NcjzaBcd-u4SRUWGHikzVvUO2QIxAo_Yg.png" group-title="SKY SPORTS",Sky Sports Football UK
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9797.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
