@@ -2219,6 +2219,16 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
+=====DSTV SPORTS=====
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Football" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op7ftGIXqmcv0w-FM2SqB5GhWUAoAWjmYk3VqbWLse9AJQ.png" group-title="DSTV SPORTS",SuperSport Football
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12809.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Tennis" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op7ftGIXqmcv0w-FM2SqB5GhWUAoAWjmYk3VqbWLse9AJQ.png" group-title="DSTV SPORTS",SuperSport Tennis
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12814.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Premier League" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op7ftGIXqmcv0w-FM2SqB5GhWUAoAWjmYk3VqbWLse9AJQ.png" group-title="DSTV SPORTS",SuperSport Premier League
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12815.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport ACTION" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op7ftGIXqmcv0w-FM2SqB5GhWUAoAWjmYk3VqbWLse9AJQ.png" group-title="DSTV SPORTS",SuperSport ACTION
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12671.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
 
 ==== LIVE Sport =====
 
