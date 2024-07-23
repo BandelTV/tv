@@ -616,44 +616,6 @@ https://node3.olelive.com:6443/live/CCTV16HD/hls.m3u8
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/97.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
 
-=====M+ LALIGA=====
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: LIGA DE CAMPEONES FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES FHD
-http://832168107696246282.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/246282.ts
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES HD
-http://832168107696165358.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/165358.ts
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: LIGA DE CAMPEONES SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES SD
-http://832168107696165359.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/165359.ts
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: LIGA DE CAMPEONES FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES FHD HEVC
-http://832168107696262412.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/262412.ts
-#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES: LIGA DE CAMPEONES 2 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES 2 FHD
-http://832168107696165365.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/165365.ts
-#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="LIGA DE CAMPEONES 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES 2 HD
-http://832168107696282469.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/282469.ts
-#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES: LIGA DE CAMPEONES 2 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES 2 SD
-http://832168107696282458.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/282458.ts
-#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="ES: LIGA DE CAMPEONES 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png" group-title="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES 3 HD
-http://832168107696282470.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/282470.ts
-#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="ES: LIGA DE CAMPEONES 3 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png" group-title="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES 3 HD (OP1)
-http://832168107696282471.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/282471.ts
-#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="ES: LIGA DE CAMPEONES 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png" group-title="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES 4 HD
-http://832168107696282472.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/282472.ts
-#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="ES: LIGA DE CAMPEONES 4 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png" group-title="M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 4 HD (OP1)
-http://832168107696282473.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/282473.ts
-#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="ES: LIGA DE CAMPEONES 5 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-5-es.png" group-title="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES 5 HD
-http://832168107696282460.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/282460.ts
-#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="LIGA DE CAMPEONES 5 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-5-es.png" group-title="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES 5 HD (OP1)
-http://832168107696282461.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/282461.ts
-#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="ES: LIGA DE CAMPEONES 6 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-6-es.png" group-title="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES 6 HD
-http://832168107696282462.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/282462.ts
-#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="ES: LIGA DE CAMPEONES 6 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-6-es.png" group-title="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES 6 HD (OP1)
-http://832168107696282463.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/282463.ts
-#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="ES: LIGA DE CAMPEONES 7 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-7-es.png" group-title="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES 7 HD
-http://832168107696282464.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/282464.ts
-#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="LIGA DE CAMPEONES 7 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-7-es.png" group-title="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES 7 HD (OP1)
-http://832168107696282465.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/282465.ts
-#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="ES: LIGA DE CAMPEONES 8 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-8-es.png" group-title="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES 8 HD
-http://832168107696282466.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/282466.ts
-
 ====COPA AMERICA====
 #EXTINF:-1 tvg-name="ssc2" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F83.png" group-title="COPA AMERICA",SI HD PLUS
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1280x720_2560800/chunklist.m3u8
@@ -8355,6 +8317,16 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="SPORTS", Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZIGGO 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HItWRNsxyHrvczQcox7DHtQhTBXnDkT2E0J4r6EdmyVuQ.png" group-title="SPORTS",ZIGGO 1
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12109.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZIGGO 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HItWRNsxyHrvczQcox7DHtQhTBXnDkT2E0J4r6EdmyVuQ.png" group-title="SPORTS",ZIGGO 2
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12111.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZIGGO 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HItWRNsxyHrvczQcox7DHtQhTBXnDkT2E0J4r6EdmyVuQ.png" group-title="SPORTS",ZIGGO 3
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12516.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZIGGO 4" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HItWRNsxyHrvczQcox7DHtQhTBXnDkT2E0J4r6EdmyVuQ.png" group-title="SPORTS",ZIGGO 4
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12113.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZIGGO 6" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HItWRNsxyHrvczQcox7DHtQhTBXnDkT2E0J4r6EdmyVuQ.png" group-title="SPORTS",ZIGGO 6
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12515.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
 
 ###### sports 2 #######
