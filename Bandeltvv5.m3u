@@ -528,16 +528,7 @@ http://sansat.net:88/live/02028725529208/0978cdfbc9375f69/435954.ts
 http://sansat.net:88/live/02028725529208/0978cdfbc9375f69/336789.ts
 
 ====EURO2024====
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/115px-UEFA_Euro_2024_Logo.svg.png" group-title="EURO2024",CCTV 5 
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/72
 
-
-#EXTINF:-1 tvg-id="beINSports1.qa" group-title="EURO2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/115px-UEFA_Euro_2024_Logo.svg.png", beIN Sports 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://iptvkita.my.id:25461/direct/hometv/1826
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/115px-UEFA_Euro_2024_Logo.svg.png" group-title="EURO2024", CA TSN 1 (E)
-http://cord-cutter.net:8080/live/j3McKd/673709/57292.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/115px-UEFA_Euro_2024_Logo.svg.png" group-title="EURO2024", CA TSN 4 HD
 http://cord-cutter.net:8080/live/j3McKd/673709/16130.m3u8
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="EURO2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/115px-UEFA_Euro_2024_Logo.svg.png",SPORTSTAR 3
@@ -551,8 +542,12 @@ https://melon-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/115px-UEFA_Euro_2024_Logo.svg.png" group-title="EURO2024", TRT1
-https://d1u68oyra9spme.cloudfront.net/master_2.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/115px-UEFA_Euro_2024_Logo.svg.png" group-title="EURO2024",SOCCER CHANNEL B
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
 ====Olimpiade===
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="Olimpiade",CCTV 16
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/77
@@ -2172,8 +2167,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
 
 ==== LIVE Sport =====
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="LIVE Sport",LIVE 1
-https://starlive.pages.dev/calpr?id=aHR0cHM6Ly9zdWthLXRvYnJ1dC5zdGFybGl2ZS53b3JrZXJzLmRldi9saXZlL3N0cmVhbS05OTEyMDA4X2xzZC5tM3U4
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="LIVE Sport",LIVE 3
 https://lebo.huminbird.cn/live/ballbar_28290.m3u8
@@ -4563,11 +4556,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://cempedak-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="LIVE Sport",SOCCER CHANNEL (V+)
-https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
 
 
 ===== LIGA Jepang =======
@@ -5196,6 +5185,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
 
 ==========PENGETAHUAN==========
+#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" group-title="Pengetahuan",SCIFI
+https://streams2.sofast.tv/ptnr-yupptv/title-SCIFI-WORLD-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/7ca6a7ca-d799-481c-8b5f-890480ad2244/2.m3u8
+
+
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-logo="https://iili.io/JmoC4sV.png" group-title="Pengetahuan",Indonesiana TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
  
@@ -7635,19 +7628,13 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
 #EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" group-title="KIDS",BABYFIRST
 https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/ff9a63f1-32f9-45cc-82cc-ede11ca66001/1.m3u8
 
-#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" group-title="KIDS",BABYFIRST 2
+#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" group-title="KIDS",KIDDO ENG
 https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/d9ffe237-e35d-42bf-bd62-7da2b9354ec3/1.m3u8
-#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" group-title="KIDS",BABYFIRST 3
+#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" group-title="KIDS",BEANI KIDS
 https://streams2.sofast.tv/ptnr-yupptv/title-BEANI-KIDS-TV-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/ae504cae-b81f-49e6-8b40-71d7c0843589/2b6fd82c-0947-4905-9d2f-6b373ac9acb5/1.m3u8
 
-#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" group-title="KIDS",BABYFIRST 4
+#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" group-title="KIDS",CARTON TV CLASIC
 https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/c5832251-c55a-4191-8bc8-75965a1682d8/1.m3u8
-#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" group-title="KIDS",BABYFIRST 5
-https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-SPA_YuppTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/890e0eaf-b909-4a5d-92d9-7bdcab275232/0.m3u8
-#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" group-title="KIDS",BABYFIRST 6
-https://streams2.sofast.tv/ptnr-yupptv/title-4K-TRAVEL-TV-ENG_YuppTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3d3b06ca-1ef5-4cb1-8f56-ac7b55472aac/3a4ccd3e-42f9-4d41-b4f8-13f7844fb3af/2.m3u8
-#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" group-title="KIDS",BABYFIRST 7
-https://streams2.sofast.tv/ptnr-yupptv/title-SCIFI-WORLD-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/7ca6a7ca-d799-481c-8b5f-890480ad2244/2.m3u8
 
 
 
