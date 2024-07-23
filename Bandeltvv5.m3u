@@ -7533,6 +7533,99 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_vid
 #EXTINF:-1 tvg-name="LIFETIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="LIFESTYLE",LIFETIME
 https://melon-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
+======
+
+#EXTINF:-1 group-logo="https://i.ibb.co/KysNSMr/cat-lifestyle.png",
+
+#EXTINF:-1 tvg-id="Asian Food Network" tvg-name="AFN" tvg-logo="https://i.ibb.co/g68bh5m/afn.png" group-title="LIFESTYLE", AFN🔴 HD
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61666330303030303030303030303030:e6f0c3fa2a6adb104a0163a5ef0bdd79
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
+
+#EXTINF:-1 tvg-id="Asian Food Network" tvg-name="AFN" tvg-logo="https://i.ibb.co/g68bh5m/afn.png" group-title="LIFESTYLE", AFN
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41c6d6041786bf8142636da6646af821:943bc1ff87a15e9cf19613713bed6509
+##https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0161/DASH/V0161.mpd
+
+#EXTINF:-1 tvg-id="Asian Food Network" tvg-name="AFN" tvg-logo="https://i.ibb.co/g68bh5m/afn.png" group-title="LIFESTYLE", AFN🔴 HD
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d591798aa38d43f9a879f2131227916f:c3eae7f33710d7d9e0058244aff37fb0
+##https://cdnjt24.useetv.com/drm/live/smil:afc.smil/manifest.mpd
+
+
+
+#EXTINF:-1 channel-id="samsung-USBC6000108Z" tvg-id="USBC6000108Z" tvg-logo="https://i.ibb.co/ZfyHg4M/bbcfood.png" group-title="LIFESTYLE" , BBC Food 🇬🇧
+https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBC44000226R" tvg-id="USBC44000226R" tvg-logo="https://i.ibb.co/bJk04Tp/bonappetit.png" group-title="LIFESTYLE" , BON Appétit 🇺🇸
+https://i.mjh.nz/SamsungTVPlus/USBC44000226R.m3u8
+
+#EXTINF:-1 tvg-id="Eat &amp; Go" tvg-logo="https://i.ibb.co/SrKxYQx/eatgo.png" group-title="LIFESTYLE", EAT&GO 🔴 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
+
+#EXTINF:-1 tvg-id="Food Network (East)" tvg-name="Food Network (East)" tvg-logo="https://i.ibb.co/SJggJBt/foodnetwork.png" group-title="LIFESTYLE", FOOD NETWORK 🇺🇸
+https://varun-iptv.netlify.app/m3u/Food Network.m3u8
+
+#EXTINF:-1 tvg-id="Food Network (East)" tvg-name="Food Network (East)" tvg-logo="https://i.ibb.co/SJggJBt/foodnetwork.png" group-title="LIFESTYLE", FOOD NETWORK 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
+
+#EXTINF:-1 channel-id="pluto-5877ac8cb791f4eb4a140d81" tvg-id="5877ac8cb791f4eb4a140d81" tvg-logo="https://i.ibb.co/KKR35Cz/foodtv.png" group-title="LIFESTYLE" , FOOD TV 🇺🇸
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949fee82-b258-11ee-8761-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a0fc1e1a-74cd-4196-b758-c619bb5bfeb7&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="samsung-CABB2500021YQ" tvg-id="CABB2500021YQ" tvg-logo="https://i.ibb.co/hCTsgwN/gustotv.png" group-title="LIFESTYLE" , GUSTO TV 🇨🇦
+https://i.mjh.nz/SamsungTVPlus/CABB2500021YQ.m3u8
+
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://i.ibb.co/hCwSVg8/hgtv.png" group-title="LIFESTYLE", HGTV 🇺🇸
+https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME" tvg-logo="https://i.ibb.co/gT4gbL9/lifetime.png" group-title="LIFESTYLE", LIFETIME 🇺🇸
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+#EXTINF:-1 channel-id="samsung-GBAJ700002OS" tvg-id="GBAJ700002OS" tvg-logo="https://i.ibb.co/FXyDJ7k/plutotvfood.png" group-title="LIFESTYLE" , PLUTO TV Food 🇺🇸
+https://i.mjh.nz/SamsungTVPlus/GBAJ700002OS.m3u8
+
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-logo="https://i.ibb.co/M7rnZH9/skyarts.png" group-title="LIFESTYLE",Sky Arts 🇬🇧
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003a9ce7059b908eddf9809eb9b0b02:a5f457de904fae9017b0cfae99747ea1
+https://linear015-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skyarts)/manifest_720.mpd
+
+#EXTINF:-1 channel-id="samsung-USBD7000189R" tvg-id="USBD7000189R" tvg-logo="https://i.ibb.co/4P7422R/tastemade.png" group-title="LIFESTYLE" , TASTEMADE 🇺🇸
+https://i.mjh.nz/SamsungTVPlus/USBD7000189R.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBC3200022W6" tvg-id="USBC3200022W6" tvg-logo="https://i.ibb.co/sPPRHpT/tastemadehome.png" group-title="LIFESTYLE" , TASTEMADE HOME 🇺🇸
+https://i.mjh.nz/SamsungTVPlus/USBC3200022W6.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD700017WC" tvg-id="USBD700017WC" tvg-logo="https://i.ibb.co/hMmHhbF/tastemadetravel.png" group-title="LIFESTYLE" , TASTEMADE TRAVEL 🇺🇸
+https://i.mjh.nz/SamsungTVPlus/USBD700017WC.m3u8
+
+#EXTINF:-1 tvg-id="TLC HD World.in" tvg-name="TLC" tvg-logo="https://i.ibb.co/g3N7Jrt/tlc.png" group-title="LIFESTYLE", TLC 🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBAJ49000184K" tvg-id="GBAJ49000184K" tvg-logo="https://i.ibb.co/x6kcZRC/travelxp.png" group-title="LIFESTYLE" , TRAVELXP 🇺🇸
+https://i.mjh.nz/SamsungTVPlus/GBAJ49000184K.m3u8
+
+#EXTINF:-1 tvg-id="Zee Zest HD" tvg-name="" tvg-logo="https://i.ibb.co/XyYRxZC/zeezest.png" group-title="LIFESTYLE", ZEE ZEST 🇮🇳
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/
+https://mhdtv.co.in/jio/stream.m3u8?id=2757
+
 
 ########################## KNOWLEDGE2 ##########################
 
