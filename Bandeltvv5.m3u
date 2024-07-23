@@ -7669,6 +7669,37 @@ https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
+=====new
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HGTV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjfvnxtpFuttJNr5Z8bEtier4PZKtkxzsY2CwaQvnj-SZn647ifsAk98yQivukLYpM.png" group-title="âœ… LIFESTYLE",HGTV
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/76.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjfvnxtpFuttJNr5Z8bEtie34EA8YDDqnKIOdbcTuW55e96KC3MQytYdcAGRGzE7_w.png" group-title="âœ… LIFESTYLE",TLC
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/77.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjfvnxtpFuttJNr5Z8bEtieOSGOVBav6u6KOP7-19T1DPSTpIPi64BplgaHRq-i0bE.png" group-title="âœ… LIFESTYLE",AFN
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/78.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIFETIME" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjfvnxtpFuttJNr5Z8bEtieok7_T6Zd92Csfk501QlBqtDML07jaTzIuGb4mZ47btI.png" group-title="âœ… LIFESTYLE",LIFETIME
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/106.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FASHION TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjfvnxtpFuttJNr5Z8bEtieCg83iPrmnFnQPK2otW4lUW2f7FCP2o9QCCvlivbTN64.png" group-title="âœ… LIFESTYLE",FASHION TV
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/79.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FASHION TV MIDNIGHT" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjfvnxtpFuttJNr5Z8bEtiexgWjsto-KmN3StVjCm0VMwwcd0sc30o0ic7Fy1X0nhw.png" group-title="âœ… LIFESTYLE",FASHION TV MIDNIGHT
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/80.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOMEFUL" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op7jmdLlg_Pna9cqcg11okO82KlDcwFiHAx0I-BlSNDbZc4EABXuPhrm0rH0nfTIaBs.png" group-title="âœ… LIFESTYLE",HOMEFUL
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12747.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TASTEMADE" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op7jmdLlg_Pna9cqcg11okO8o4Z4i0w_4Dy3Np4mYR9ph2ALwYWM47uoQL0DIDHnxUY.png" group-title="âœ… LIFESTYLE",TASTEMADE
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12748.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT HOME" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op7jmdLlg_Pna9cqcg11okO8qRjt_Hs14JNg5CfOro5Wtx4WUZ6QFyGaScZK7wMA5sQ.png" group-title="âœ… LIFESTYLE",AT HOME
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12752.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC HOME & GARDEN" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op7jmdLlg_Pna9cqcg11okO8OhqgafzOWztCVOPDs_lBY3DokghNFOy5ex8YLVzOieE.png" group-title="âœ… LIFESTYLE",BBC HOME & GARDEN
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12749.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOME REFRESH" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op7jmdLlg_Pna9cqcg11okO84CbMqJOoztvxIqnBPeyWsQVU0zyirCbKHqupbvORXAc.png" group-title="âœ… LIFESTYLE",HOME REFRESH
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12750.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOME MADE NATION" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op7jmdLlg_Pna9cqcg11okO8dzj6uzAiBbUey6SeFUCQgsbce4hWRNw4klJhTyVcjck.png" group-title="âœ… LIFESTYLE",HOME MADE NATION
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12751.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC LX HOME" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op7jmdLlg_Pna9cqcg11okO8vkvHwBFlijE23Kctk0AJei6xaLKKy4Zlfku4akU1MOQ.png" group-title="âœ… LIFESTYLE",NBC LX HOME
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12753.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRAVEL XP" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6gMOxtV3Km20DrsKgIwFN87m70eGGGwPrej6im_ZqikLPnHZEkFDIYGrNe_pd6RKg.png" group-title="âœ… LIFESTYLE",TRAVEL XP
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12736.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
+
 ########################## KNOWLEDGE2 ##########################
 
 
