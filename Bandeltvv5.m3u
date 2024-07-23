@@ -8564,6 +8564,15 @@ http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=428353&extens
 http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=132772&extension=ts&play_token=zAey8BD3i5
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="SPORTS" ch-number="111" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png",Wwe
 http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26123&extension=ts&play_token=6B6tPbryuQ
+====NEW
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN ELEVEN 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HISh_81GyRL_ii4MU_T0RQhqhCD1h77VMbwN1fr0T7VJk.png" group-title="SPORTS",DAZN ELEVEN 1
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12125.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN ELEVEN 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HISh_81GyRL_ii4MU_T0RQhqhCD1h77VMbwN1fr0T7VJk.png" group-title="SPORTS",DAZN ELEVEN 2
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12126.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN ELEVEN 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HISh_81GyRL_ii4MU_T0RQhqhCD1h77VMbwN1fr0T7VJk.png" group-title="SPORTS",DAZN ELEVEN 3
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12127.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN ELEVEN 4" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HISh_81GyRL_ii4MU_T0RQhqhCD1h77VMbwN1fr0T7VJk.png" group-title="SPORTS",DAZN ELEVEN 4
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12128.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
 
 ########################## SPORT club ########################
