@@ -2494,6 +2494,13 @@ http://iptvtree.net:8080/F14995/a84c0963/297606
 http://iptvtree.net:8080/F14995/a84c0963/297604
 #EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="ARABIAN SPORT",StarzPlay Sports
 http://iptvtree.net:8080/F14995/a84c0963/297607
+=====SKY SPORT===
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Football UK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIN_mVrHMXd4NcjzaBcd-u4SRUWGHikzVvUO2QIxAo_Yg.png" group-title="SKY SPORTS",Sky Sports Football UK
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9797.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Main Events UK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIN_mVrHMXd4NcjzaBcd-u4SRUWGHikzVvUO2QIxAo_Yg.png" group-title="SKY SPORTS",Sky Sports Main Events UK
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9800.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Action UK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIN_mVrHMXd4NcjzaBcd-u4SRUWGHikzVvUO2QIxAo_Yg.png" group-title="SKY SPORTS",Sky Sports Action UK
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9801.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
 ====UK SPORT====
 #EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="UK SPORT",TNT 1
@@ -4168,7 +4175,7 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-026/stream.mpd
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #https://webhdrus.onlinehdhls.ru/lb/premium60/index.m3u8
-*** Movies",HBO  ****
+
 
 #EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://i.ibb.co/V9ZtgmT/Main-event.jpg" group-title="SPORT PREMIUM",Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
