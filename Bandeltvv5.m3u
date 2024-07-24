@@ -901,6 +901,8 @@ https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12169.m3u8|User-Age
 
 
 ======BEIN====
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png" group-title=" " group-title="BEIN",Bein Xtra Espanol
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nk44Tdd.png" group-title=" " group-title="BEIN",|AR| BEIN SPORTS NEWS HD
 http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=369&extension=ts
