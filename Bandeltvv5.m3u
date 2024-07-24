@@ -509,6 +509,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-id="Okey.my" group-title="PARIS 2024" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_XtwI72-x2n65IgUYFyWsf5pREW-Q7BmgZQ&s", World Cup 26™ CH10
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd 
 
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 1 HD
+http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 2 HD
+http://103.120.172.74:5500
 
 =====TV 4K====
 
