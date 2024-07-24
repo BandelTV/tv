@@ -494,6 +494,21 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
 #EXTINF:-1 tvg-chno="413" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="PARIS 2024",L'Ã‰QUIPE LIVE FOOT
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive5.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="PARIS 2024", CCTV5 HD
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="PARIS 2024", CCTV5plus HD
+https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="PARIS 2024", CCTV16 HD
+https://node3.olelive.com:6443/live/CCTV16HD/hls.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPL - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIEi9nkEZagk5SqI2Tf1VCwQ.png" group-title="PARIS 2024",EPL - 2
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/97.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
+#EXTINF:-1 tvg-id="Sukan RTM" group-title="PARIS 2024" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SUKAN_RTM.jpg", World Cup 26™ CH9
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-id="Okey.my" group-title="PARIS 2024" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_XtwI72-x2n65IgUYFyWsf5pREW-Q7BmgZQ&s", World Cup 26™ CH10
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd 
+
 
 =====TV 4K====
 
@@ -674,14 +689,6 @@ https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 
 ====Olimpiade===
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="Olimpiade", CCTV5 HD
-https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="Olimpiade", CCTV5plus HD
-https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="Olimpiade", CCTV16 HD
-https://node3.olelive.com:6443/live/CCTV16HD/hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPL - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIEi9nkEZagk5SqI2Tf1VCwQ.png" group-title="Olimpiade",EPL - 2
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/97.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
 
 ====COPA AMERICA====
@@ -2726,11 +2733,6 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="Sukan RTM" group-title="Kualifi_ WORLD_CUP_2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ CH9
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
-#EXTINF:-1 tvg-id="Okey.my" group-title="Kualifi_ WORLD_CUP_2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ CH10
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd 
 
 #EXTINF:-1 group-title="Kualifi_ WORLD_CUP_2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ CH11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0
