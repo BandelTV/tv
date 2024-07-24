@@ -3869,13 +3869,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 https://melon-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/mce.png" group-title="MOVIES",MCE HD
 http://210.210.155.35/session/0c29f2d2-dd99-11eb-a245-b82a72d63267/uq2663/h/h18/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/paramount.png" group-title="MOVIES",PARAMOUNT HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://melon-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/ccm.png" group-title="MOVIES",CCM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
