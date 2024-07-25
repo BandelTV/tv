@@ -2894,6 +2894,18 @@ https://melon-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="GalaxyPremium.Id" tvg-logo="https://raw.githubusercontent.com/Mbehhh/dan/main/galaxyprem.png" group-title="MOVIES",Galaxy Premium
 https://melon-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+===
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.etvwin.com%2Flive%2Fetv-cinema-1&psig=AOvVaw0vEElLbhuyW4kuV0HWK3rJ&ust=1721999364227000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiv4dqhwocDFQAAAAAdAAAAABAE" group-title="MOVIES", ID: Etv Bioskop
+http://iptvtree.net:8080/AmirBilali/76448035/298526
+
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.etvwin.com%2Flive%2Fetv-cinema-1&psig=AOvVaw0vEElLbhuyW4kuV0HWK3rJ&ust=1721999364227000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiv4dqhwocDFQAAAAAdAAAAABAE" group-title="MOVIES", ID: Etv Bioskop 02
+http://iptvtree.net:8080/AmirBilali/76448035/298527
+
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.etvwin.com%2Flive%2Fetv-cinema-1&psig=AOvVaw0vEElLbhuyW4kuV0HWK3rJ&ust=1721999364227000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiv4dqhwocDFQAAAAAdAAAAABAE" group-title="MOVIES", ID: Etv Bioskop 03
+http://iptvtree.net:8080/AmirBilali/76448035/298528
+
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.etvwin.com%2Flive%2Fetv-cinema-1&psig=AOvVaw0vEElLbhuyW4kuV0HWK3rJ&ust=1721999364227000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiv4dqhwocDFQAAAAAdAAAAABAE" group-title="MOVIES", ID: Etv Bioskop 04
+http://iptvtree.net:8080/AmirBilali/76448035/298529
 
 
 ==== VISION + =====
@@ -9189,7 +9201,7 @@ http://iptvtree.net:8080/AmirBilali/76448035/157528
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/f3f4f665e53b049fb81a2f995a102f10.png" group-title="MALAYSIA", Eurosport 1
 http://iptvtree.net:8080/AmirBilali/76448035/158353
 
-#EXTINF:-1 tvg-id="Harvest TV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MALAYSIA", Harvest TV
+#EXTINF:-1 tvg-id="Harvest TV" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.etvwin.com%2Flive%2Fetv-cinema-1&psig=AOvVaw0vEElLbhuyW4kuV0HWK3rJ&ust=1721999364227000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiv4dqhwocDFQAAAAAdAAAAABAE" group-title="MALAYSIA", Harvest TV
 http://iptvtree.net:8080/AmirBilali/76448035/299917
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/0ed674b5022860c2ed32d34a6dd36b7a.png" group-title="MALAYSIA", HBO
