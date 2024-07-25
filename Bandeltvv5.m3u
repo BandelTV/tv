@@ -457,12 +457,6 @@ https://melon-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuB
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12192.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Logo_piala_presiden.jpeg" group-title="Piala presiden",tes
-https://fonz01.dlive.click/EKVsuXxd1CXYovfud86zwQ/1721911002/3138302e3234352e3133302e323037/ff540/playlist.m3u8
-https://andi-cors-proxy-service-k8s.andisearch.com/https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(ESPNHD-1964.dfw.720)/11.m3u8
-https://andi-cors-proxy-service-k8s.andisearch.com/https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(ESPNHD-1964.dfw.720)/01.m3u8
-https://abang-jago.starlive.workers.dev/live/stream-351530_lsd.m3u8
-https://izzi.starlive.workers.dev/1clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w117632404_b150000_sleng.m3u8
-https://izzi.starlive.workers.dev/1clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 https://abang-jago.starlive.workers.dev/live/stream-9912096_lsd.m3u8
 https://abang-jago.starlive.workers.dev/live/stream-9912025_lsd.m3u8
 https://live.procdnlive.com/livecdn/channel27.m3u8?auth_key=3000001721896555-0-0-aad2d81e9b354ff32a49a9d6befea6d2
@@ -473,19 +467,6 @@ https://live.procdnlive.com/livecdn/channel27.m3u8?auth_key=3000001721896555-0-0
 https://vb90xltcvg-secure.nsnd.live/PUjOlvPJbxyOlCr0OmMjlg/e1488e365349e73571c3e6f642da7fba/1721915181/live/_definst_/stream_1_1bda7@cunSD/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Piala presiden" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c7472794a9ca6477515b123ec178579:6a5581ce501ae448e16b51481d464584
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17477_stream.mpd?hdnts=exp=1721847265~acl=/drm/dash/*~id=164396008~hmac=1b0b3d1fff8e80711daf704d851680c347d1b062b81708b307ed1b14efc7c417
-
-#EXTINF:-1 group-title="Piala presiden" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6645df7a0df55d9e8cdba1546ff20f2b:a32d96ec6e2ebbfb2135ec50613f8428
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17478_stream.mpd?hdnts=exp=1721847364~acl=/drm/dash/*~id=164396008~hmac=7b40488e191c4528811806cb699138653a14b522a5a5f89d640966704bcdd93e
 
 =====PARIS OPEN====
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="PARIS 2024",EUROSPORT 1
