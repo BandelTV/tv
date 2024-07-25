@@ -465,8 +465,6 @@ https://izzi.starlive.workers.dev/1clive.malisresidences.com:1935/rhm_hdtv/_defi
 https://izzi.starlive.workers.dev/1clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 https://abang-jago.starlive.workers.dev/live/stream-9912096_lsd.m3u8
 https://abang-jago.starlive.workers.dev/live/stream-9912025_lsd.m3u8
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
 https://live.procdnlive.com/livecdn/channel27.m3u8?auth_key=3000001721896555-0-0-aad2d81e9b354ff32a49a9d6befea6d2
 https://live.procdnlive.com/livecdn/channel27.m3u8?auth_key=3000001721896555-0-0-aad2d81e9b354ff32a49a9d6befea6d2
 https://pull.niur.live/live/stream-9912075_lsd.m3u8?txSecret=d7832109fca257f39364e3342f193917&txTime=66a26a63
@@ -491,9 +489,9 @@ https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17478_st
 
 =====PARIS OPEN====
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="PARIS 2024",EUROSPORT 1
-https://i.fdcdn.xyz/v11/?link=https%3A%2F%2Fvb90xltcvg-secure.nsnd.live%2FPUjOlvPJbxyOlCr0OmMjlg%2Fe1488e365349e73571c3e6f642da7fba%2F1721915181%2Flive%2F_definst_%2Fstream_1_1bda7%40cunSD%2Fplaylist.m3u8&id=SBoD3Xh&n=SD1&t=br&p=no&theme_id=tc
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="PARIS 2024",EUROSPORT 2
-https://video-weaver.jkt01.hls.live-video.net/v1/playlist/CtIFR9A985bPyDbDuLbwxaBF3ump5NrDxJmfqWPLQreall-r4sQ1P7uXktfdW6z8wORKmVWAVA_uNQSeWGisGU7pL3oFmFPBF8Kcs5d6bkn-tZOKv5J2_KAiV1h6EuKVPDyKecftC-Ayt9ivxCFsixAL7mczRjCX22NfJY8T2nT3VqA9zMY5fT-CU599KGUKPR1CsxabmlO7gQIn-fMAmraC7OFR0OxiW1NJ-iznUPSmyUIDvH-gn1SLuj8BlVymehVnJAdvRxc4BmTzJruVVYCsgY3KD3qHIS5Y2LSxJVkAQhLxZeunH7mOj_Wy608Mo5H2OeoBKFqrrKWjaxRM9psy_E9QAHIE42yKL6jmHeYuyhVueJPKs-yZuj_ARS3TugfUUKvkRLccAoHLHoXm-c1TSe90AFnLbwjsmizO0evH8RcX7aT4Abbx55kXfRKLqMevsqDk_FVYC-H51TtGD04RwLdbdVFGHdsPkJNhMl-lIJ9EDOPV8QRju_Bc6dBUoH9NbD4Y094JfdO_0uY-0ZiUiZB1Xj4Lm1FdePvicli3KDdl4H-DWtTWeY3di1GamEQiHn5VVdYVtp-e65BUczo_xF-aRrl5jST2sFz5AL0tW66S3JWjfXF0vtEXeMp2K0Dq61j7b1NGBzt9pDqoWDQ7fQYgRMKAYCRzLHbPg4XA6RndMr96sygvAdzqDanB5-s5GKnLmfjZrxry84KdvDKh8Apb8mX9w7jhpP8t_VUN66V0K4RDoebvAAX1OJ-Of8f3NzPixbhASNc1j_vd3tAWH2r4KXB6K3X0ZiktpoqHUb0eeSzpnlRf3lCZIbMVPNl_9sMj2xBigvop2eJSFiDUfwMkhEyVHvqDWwDBbh9xYl41DESKkpHxqCDBqNGwXCpD8_s7s472WrMxOgMhePBAoyOd_So_LqEbQ5xIWxIfH3jGTVCTOfPA4KcfacnSK-DhOrYaDKfMyVaP6MSa_rs9bCABKgl1cy13ZXN0LTIw_Qk.m3u8
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="PARIS 2024",LIVE EVENT
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
