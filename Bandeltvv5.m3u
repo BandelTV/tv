@@ -456,14 +456,12 @@ https://buat-script-sendiri-goblok.starlive.workers.dev/live/stream-9912009_lsd.
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
 =====PARIS OPEN====
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="PARIS 2024",LIVE EVENT
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
+
 #EXTINF:-1 tvg-id="425.stations.xmltv.tvmedia.ca" tvg-name="RPC (PA)(R)" tvg-logo="https://seeklogo.com/images/R/rpc-television-panama-logo-80CBBDFD41-seeklogo.com.png" group-title="PARIS 2024",RPC 
 http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
-
-#EXTINF:-1 group-title="PARIS 2024" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png",Live
-https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://buat-script-sendiri-goblok.starlive.workers.dev/live/stream-478026_lsd.m3u8
-https://testcors.starlive.workers.dev/http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w2067557620_b550000_sleng.m3u8
-https://cdn.plrjs.com/player/bsa9hkrkynde7/qqvmenqpoeve.html?file=https://buat-script-sendiri-goblok.starlive.workers.dev/live/stream-478026_lsd.m3u8
-https://tta00022-cf.cool6bcd6.cc/auth%3D5d03fcba8baee2a87dfac77b13193abac3a643341a55c17c347e59551b7d8e31c534e6e4310b50d6ef945fd6f2b6f7f8bb83f723d44c16cb1ba094ae2eb6582361b91adc4bd81d75c8e7bb8278f704b81072a758242b11f6daf6f258f19166184d9adfd4cce8189020e874b714ef7fcc4f22cf5813e64a7678286b2e8e301ae4c39b160a68b662cb069b597e63aceda11d1299676f897dd305f4aa3307c89a1d69d58fd75cd21be85d2a02bf1684baa917d3d46d9047543d395e6e7d4c192b4d7ec79d130c0b7fa01eae203d91757e314ddc19e6938c8479d8a86dd93421b23d3b112d8931cd3f8d4262553cf2ef010a03be12451172b973ea3675a2f1f0b76c%26cid%3DDLzKigTKwFoEuxQK8bZw_240723%26_v%3D2%26_r%3D_qBfBQ%26_vis%3D0e424e4f5135c98dfff0de446a0fa04a90c89065261878b985d3ccc2efd7ff34%26_vvs%3D0071aa5c61467cfb9c7cf59226a235c1cbad9d32c3a38c377965e22b3e1c919e/app/c263322.m3u8
 
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhPoybscXHQQGc7TxdwIKdrMMvazJ_yMxLbREqNSe04qg.png" group-title="PARIS 2024",SCTV bandel
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
@@ -509,11 +507,6 @@ http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98
 http://103.120.172.74:5500
 
 ==== LIVE Sport =====
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="LIVE Sport",LIVE EVENT
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
-
 
 #EXTINF:-1 group-title="LIVE Sport" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE B
 #KODIPROP:inputstream.adaptive.license_type=clearkey
