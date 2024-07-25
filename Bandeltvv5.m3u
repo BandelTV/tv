@@ -449,11 +449,8 @@ https://melon-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 https://melon-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 ===== Piala presiden====
-#EXTINF:-1 group-title="Piala presiden" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png",Live
-https://bf.shandongjnsd.com/live/322693_hd01.m3u8?txSecret=2cb77b12bb5f2735ced623b7ada967e6&txTime=669f9be6
-https://buat-script-sendiri-goblok.starlive.workers.dev/live/stream-9912009_lsd.m3u8
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhPoybscXHQQGc7TxdwIKdrMMvazJ_yMxLbREqNSe04qg.png" group-title="nasional",SCTV
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Logo_piala_presiden.jpeg" group-title="Piala presiden",LIGA 1 BRI
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12192.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
 =====PARIS OPEN====
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="PARIS 2024",LIVE EVENT
@@ -596,8 +593,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #EXTINF:-1 group-title="LIVE Sport"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",BeIN Sports 3 ID
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HINyEUbqOvFWhgWRllam41Jw.png" group-title="LIVE Sport",LIGA 1 BRI
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12192.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png" group-title="LIVE Sport",PRO LIGA
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/117.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
