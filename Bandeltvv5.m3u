@@ -8878,7 +8878,47 @@ http://iptvtree.net:8080/F14995/a84c0963/157558
 http://iptvtree.net:8080/F14995/a84c0963/287792
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY ASTRO",beIN Sports_(3)
 http://iptvtree.net:8080/F14995/a84c0963/157561
-
+=====new
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO BOO" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTt_5IksNDjy9919iCXaj1Rg.png" group-title="MY ASTRO",ASTRO BOO
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/11618.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO PREMIER" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTOFesProEEoIsNMKEXhV1AhOL7VQyQtCxf0AzfG-yl9s.png" group-title="MY ASTRO",ASTRO PREMIER
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/11816.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO OASIS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTEPQA6hges0FDYRDyxZLRVuOf4PxMyYs3zuBv0EXsowU.png" group-title="MY ASTRO",ASTRO OASIS
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/11620.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO RANIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTj-bqHLRFWDzFWhUtSH1qwS9c4uDxiC0H_0_bhhGFX5c.png" group-title="MY ASTRO",ASTRO RANIA
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/11621.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO AURA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTd5DTL9Bt3we9fVpMSpGeuHjufiXCjOGzAfexiBWthlE.png" group-title="MY ASTRO",ASTRO AURA
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/11814.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AWESOME" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTfDFSpzgmKzupXv0owIfiEC2CNZMq8fe2Y-IBOMhXHuw.png" group-title="MY ASTRO",AWESOME
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/11622.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWCASE MOVIE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfT2_BNa9BKppKoWYmxQkqEDlpcwUnhBLRgvsIRk38EPPs.png" group-title="MY ASTRO",SHOWCASE MOVIE
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/11817.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfT3QM_0h9h0SxL6WUjuwbZWg.png" group-title="MY ASTRO",TV 1
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/11623.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfT3QKhCgjAODgLlthVHFLQcw.png" group-title="MY ASTRO",TV 2
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/11624.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTicKHRwS26kitZ6JWQ5IGzQ.png" group-title="MY ASTRO",TV 3
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/11625.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 6" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfT7lguyiBkWpN_e-pU7zUoyA.png" group-title="MY ASTRO",TV 6
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/11626.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 8" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTdKIRD560gCtGLW2IbawHNw.png" group-title="MY ASTRO",TV 8
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/11627.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 9" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTu7bGxXmnU1Hg7fALGSAAtw.png" group-title="MY ASTRO",TV 9
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/11628.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OKEY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTvRb90vKr64oBTbUPIsYypQ.png" group-title="MY ASTRO",OKEY
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/11630.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTB Aneka" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTQ2Y-6fbdU2lPpSXvJyFkyhsMW5i2bBB0PA87G_zYwJA.png" group-title="MY ASTRO",RTB Aneka
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/11824.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTB GO LIVE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTc1YQK2yJbL8WT6yv9GyIg7MZGBFJZZ5pudMKu1JiFBE.png" group-title="MY ASTRO",RTB GO LIVE
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/11825.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTB Sukmaindera" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTcgyuYR99zb2Bvv4ekTGvHL5Z_gLZ0J1SePZcPWqsiEg.png" group-title="MY ASTRO",RTB Sukmaindera
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/11826.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IQIYI" tvg-logo="" group-title="MY ASTRO",IQIYI
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12728.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CINEMA" tvg-logo="" group-title="MY ASTRO",ZEE CINEMA
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12729.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HINDI" tvg-logo="" group-title="MY ASTRO",COLORS HINDI
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12730.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
 
 
