@@ -514,6 +514,145 @@ http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98
 #EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 2 HD
 http://103.120.172.74:5500
 
+==== LIVE Sport =====
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="LIVE Sport",LIVE EVENT
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
+https://raw.githubusercontent.com/zackfyuok/Admin/main/M3u
+https://fhlsport20.fls77.xyz/token-JhdznbmTe%2FSG6mcqkvY6mWmLlMOGhHvjbiSvzqYbGTmm77DPHUFdCIskqBZLWktJBCeIwDBik%2Fw%3Da/cfall/s2001/v3b/p1706q2rnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_571785.m3u8
+https://fhlsport20.fls77.xyz/token-JUUvzrSRfPSG5GMolfY6m22KlMDT1C3jZCT7wKIYQzj24bbKHUFdCIskqBZNXUxJBCeIwDBik%2Fw%3Da/cfall/s2/v3b/58s30376nUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0YzAioD%3D%3D/stream/11/chunks.m3u8
+https://fhlsport20.fls77.xyz/token-dhN%2ByLSULKWG7GMvlvY6n2%2FWlJvR03vjPiCqxaMdGTCntLKfHUFdCIskqBZNX0lJBCeIwDBik%2Fw%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5MW5tLmhueW9uZ3NodW4uY24=/live/hd-en-6MsFegaTxUuqSNTX1G.m3u8
+
+
+#EXTINF:-1 group-title="LIVE Sport" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE B
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c7472794a9ca6477515b123ec178579:6a5581ce501ae448e16b51481d464584
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17477_stream.mpd?hdnts=exp=1721847265~acl=/drm/dash/*~id=164396008~hmac=1b0b3d1fff8e80711daf704d851680c347d1b062b81708b307ed1b14efc7c417
+
+#EXTINF:-1 group-title="LIVE Sport" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE B2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6645df7a0df55d9e8cdba1546ff20f2b:a32d96ec6e2ebbfb2135ec50613f8428
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17478_stream.mpd?hdnts=exp=1721847364~acl=/drm/dash/*~id=164396008~hmac=7b40488e191c4528811806cb699138653a14b522a5a5f89d640966704bcdd93e
+
+
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="LIVE Sport",PSJ TV Live
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="LIVE Sport",T SPORTS
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/52500.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LIVE Sport",INDOSIAR V
+#http://extraott.com/live/7921751389/6097373662/45098.ts
+#EXT-X-VERSION:6 
+#EXT-X-INDEPENDENT-SEGMENTS 
+#EXT-X-I-FRAMES-ONLY 
+#EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0". 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https:%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc9%2FMoji_blue.svg%2F1500px-Moji_blue.svg.png&w=2048&q=50", group-title="LIVE Sport",MOJI
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
+http://rr3.dens.tv/s/s41/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https:%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc9%2FMoji_blue.svg%2F1500px-Moji_blue.svg.png&w=2048&q=50" group-title="LIVE Sport",Moji A
+http://iptvtree.net:8080/F18819/6eb39c7d/298550
+
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="LIVE Sport " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfCprFYqdjhGF7oOPX6LXOWuIAtYlOzPAFQ&usqp=CAU", SPOTV2  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#EXTINF:-1 tvg-name="ssc2" tvg-logo="https://yt3.googleusercontent.com/7KCyLUN6LidKfNfN6KozO_ZwaF-g21xPFLO0BDaUYsWWeY2QVhKB_qJhHw4jvwUQkg-6GXw1qg=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE Sport ",SSC 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+
+#EXTINF:-1 tvg-name="ss3" tvg-logo="https://yt3.googleusercontent.com/7KCyLUN6LidKfNfN6KozO_ZwaF-g21xPFLO0BDaUYsWWeY2QVhKB_qJhHw4jvwUQkg-6GXw1qg=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE Sport ",SSC 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="LIVE Sport", BEIN 1 ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="LIVE Sport", BEIN 3 ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+
+
+#EXTINF:-1 group-title="LIVE Sport" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Premier League TV - Peacock
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#EXTINF:-1 group-title="LIVE Sport" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Premier League TV - Peacock
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="LIVE Sport"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",BeIN Sports 1 ID
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="LIVE Sport"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",BeIN Sports 3 ID
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+
+#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-icon-live-streaming-vector-png-image_4643886.png" group-title="LIVE Sport",ID:Indosiar 
+http://filex.tv:8080/paramjeetsingh/002818/302264 
+#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-icon-live-streaming-vector-png-image_4643886.png" group-title="LIVE Sport",ID:INews 
+http://filex.tv:8080/paramjeetsingh/002818/302265
+#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-icon-live-streaming-vector-png-image_4643886.png" group-title="LIVE Sport",ID:MNC TV 
+http://filex.tv:8080/paramjeetsingh/002818/302278 
+#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-icon-live-streaming-vector-png-image_4643886.png" group-title="LIVE Sport",ID:Moji 
+http://filex.tv:8080/paramjeetsingh/002818/302279
+#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-icon-live-streaming-vector-png-image_4643886.png" group-title="LIVE Sport",ID:RCTI 
+http://filex.tv:8080/paramjeetsingh/002818/302297
+#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-icon-live-streaming-vector-png-image_4643886.png" group-title="LIVE Sport",ID:SCTV 
+http://filex.tv:8080/paramjeetsingh/002818/302301
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HINyEUbqOvFWhgWRllam41Jw.png" group-title="LIVE Sport",LIGA 1 BRI
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12192.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png" group-title="LIVE Sport",PRO LIGA
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/117.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
+
+=====NEW
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTV 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIe1_TTutQc1_NGNKgcg8zsQ.png" group-title="LIVE Sport",SPOTV 1 NEW
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/110.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTV 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIpNdoPC-z-ZZnZAyJ74Lg7g.png" group-title="LIVE Sport",SPOTV 2 NEW
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/111.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOCCER CHANNEL" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIMhYt1hf7virm9Q--unRFVOdVfqFVfJCsduaxSTR1u0g.png" group-title="LIVE Sport",SOCCER CHANNEL
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/116.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 1 ID" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIE41ZfO9j7jBmx_l6FVEvRA.png" group-title="LIVE Sport",BEIN 1 ID NEW
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/139.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 3 ID" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIE41ZfO9j7jBmx_l6FVEvRA.png" group-title="LIVE Sport",BEIN 3 ID NEW
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/140.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTSTARS 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="LIVE Sport",SPORTSTARS 1 NEW
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/112.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTSTARS 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="LIVE Sport",SPORTSTARS 2 NEW
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/113.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTSTARS 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="LIVE Sport",SPORTSTARS 3 NEW
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/114.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTSTARS 4" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="LIVE Sport",SPORTSTARS 4 NEW
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/115.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
+
 =====TV 4K====
 
 #EXTINF:-1 group-title="TV 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png",BBC ONE UHD/4K
@@ -2323,133 +2462,6 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png" group-title="Sony Sports",SONY SPORTS TEN 5
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
-
-
-==== LIVE Sport =====
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="LIVE Sport",LIVE 3
-https://lebo.huminbird.cn/live/ballbar_28290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="LIVE Sport",LIVE 4
-https://bokep1.starlive.workers.dev/live/stream-389399_lsd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="LIVE Sport",LIVE 5
-https://bokep1.starlive.workers.dev/live/stream-9912048_lsd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="LIVE Sport",LIVE 2
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="LIVE Sport",PSJ TV Live
-https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="LIVE Sport",T SPORTS
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/52500.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LIVE Sport",INDOSIAR V
-#http://extraott.com/live/7921751389/6097373662/45098.ts
-#EXT-X-VERSION:6 
-#EXT-X-INDEPENDENT-SEGMENTS 
-#EXT-X-I-FRAMES-ONLY 
-#EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0". 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https:%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc9%2FMoji_blue.svg%2F1500px-Moji_blue.svg.png&w=2048&q=50", group-title="LIVE Sport",MOJI
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
-http://rr3.dens.tv/s/s41/index.m3u8
-http://iptvtree.net:8080/c4596f70/c3848d92/298550
-
-
-#EXTINF:-1  tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https:%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc9%2FMoji_blue.svg%2F1500px-Moji_blue.svg.png&w=2048&q=50" group-title="LIVE Sport",Moji A
-http://iptvtree.net:8080/F18819/6eb39c7d/298550
-
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="LIVE Sport",INDOSIAR
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-
-#EXTINF:-1 tvg-id="TVSUKAN" group-title="LIVE Sport " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfCprFYqdjhGF7oOPX6LXOWuIAtYlOzPAFQ&usqp=CAU", SPOTV2  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-#EXTINF:-1 tvg-name="ssc2" tvg-logo="https://yt3.googleusercontent.com/7KCyLUN6LidKfNfN6KozO_ZwaF-g21xPFLO0BDaUYsWWeY2QVhKB_qJhHw4jvwUQkg-6GXw1qg=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE Sport ",SSC 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
-
-#EXTINF:-1 tvg-name="ss3" tvg-logo="https://yt3.googleusercontent.com/7KCyLUN6LidKfNfN6KozO_ZwaF-g21xPFLO0BDaUYsWWeY2QVhKB_qJhHw4jvwUQkg-6GXw1qg=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE Sport ",SSC 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
-https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="LIVE Sport", BEIN 1 ID
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="LIVE Sport", BEIN 3 ID
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
-
-
-#EXTINF:-1 group-title="LIVE Sport" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Premier League TV - Peacock
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-#EXTINF:-1 group-title="LIVE Sport" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Premier League TV - Peacock
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 group-title="LIVE Sport"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",BeIN Sports 1 ID
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 group-title="LIVE Sport"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",BeIN Sports 3 ID
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
-
-#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-icon-live-streaming-vector-png-image_4643886.png" group-title="LIVE Sport",ID:Indosiar 
-http://filex.tv:8080/paramjeetsingh/002818/302264 
-#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-icon-live-streaming-vector-png-image_4643886.png" group-title="LIVE Sport",ID:INews 
-http://filex.tv:8080/paramjeetsingh/002818/302265
-#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-icon-live-streaming-vector-png-image_4643886.png" group-title="LIVE Sport",ID:MNC TV 
-http://filex.tv:8080/paramjeetsingh/002818/302278 
-#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-icon-live-streaming-vector-png-image_4643886.png" group-title="LIVE Sport",ID:Moji 
-http://filex.tv:8080/paramjeetsingh/002818/302279
-#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-icon-live-streaming-vector-png-image_4643886.png" group-title="LIVE Sport",ID:RCTI 
-http://filex.tv:8080/paramjeetsingh/002818/302297
-#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-icon-live-streaming-vector-png-image_4643886.png" group-title="LIVE Sport",ID:SCTV 
-http://filex.tv:8080/paramjeetsingh/002818/302301
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HINyEUbqOvFWhgWRllam41Jw.png" group-title="LIVE Sport",LIGA 1 BRI
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12192.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png" group-title="LIVE Sport",PRO LIGA
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/117.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-
-
-=====NEW
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTV 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIe1_TTutQc1_NGNKgcg8zsQ.png" group-title="LIVE Sport",SPOTV 1 NEW
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/110.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTV 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIpNdoPC-z-ZZnZAyJ74Lg7g.png" group-title="LIVE Sport",SPOTV 2 NEW
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/111.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOCCER CHANNEL" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIMhYt1hf7virm9Q--unRFVOdVfqFVfJCsduaxSTR1u0g.png" group-title="LIVE Sport",SOCCER CHANNEL
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/116.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 1 ID" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIE41ZfO9j7jBmx_l6FVEvRA.png" group-title="LIVE Sport",BEIN 1 ID NEW
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/139.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 3 ID" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIE41ZfO9j7jBmx_l6FVEvRA.png" group-title="LIVE Sport",BEIN 3 ID NEW
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/140.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTSTARS 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="LIVE Sport",SPORTSTARS 1 NEW
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/112.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTSTARS 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="LIVE Sport",SPORTSTARS 2 NEW
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/113.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTSTARS 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="LIVE Sport",SPORTSTARS 3 NEW
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/114.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTSTARS 4" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="LIVE Sport",SPORTSTARS 4 NEW
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/115.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
 
 
