@@ -3182,7 +3182,7 @@ https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/inde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/528
 
-#EXTINF:-1 tvg-name="mutv" tvg-logo="https://assets.manutd.com/AssetPicker/images/0/0/7/70/476872/MUTV-LightBG1515755997863.png" group-title="SPORT PREMIUM 3",MUTV
+#EXTINF:-1 tvg-name="mutv" tvg-logo="https://assets.manutd.com/AssetPicker/images/0/0/7/70/476872/MUTV-LightBG1515755997863.png" group-title="SPORT PREMIUM 3",MUTV C
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 
@@ -5252,7 +5252,7 @@ http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/886
 
  
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title="SPORT PREMIUM 3",MU TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title="SPORT PREMIUM 3",MU TV B
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/aqb7snrx7sg3862/realmadridtv.png" group-title="SPORT PREMIUM 3",Real Madrid TV
@@ -5358,7 +5358,7 @@ https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12127.m3u8|User-Age
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12128.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SPORTS PREMIUM 3", MU TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SPORTS PREMIUM 3", MU TV A
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 
@@ -6843,7 +6843,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="JAPAN""JOIXDTV.jp",YTV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 
-======movie Networks=====
+======movie Networks
 #EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK MOVIES:  SKY HITS" tvg-logo="" group-title="MOVIES PREMIUM",UK MOVIES:  SKY HITS
 http://fortv.cc:8080/PerronFamily/Queensway/35255
 #EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: SKY CINEMA ACTION FHD" tvg-logo="" group-title="MOVIES PREMIUM",UK: SKY CINEMA ACTION FHD
