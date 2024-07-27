@@ -381,6 +381,8 @@ http://clive.malisresidences.com:1935/hm_hdtv/smil:HMHDTV.smil/playlist.m3u8
 =====PARIS OPEN====
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="PARIS 2024",EUROSPORT 1
 https://bf.yunnankmln.com/live/sd-1-4153675_hd01.m3u8?txSecret=6905695b40d436d4a6991cf21f44fa62&txTime=66a463c6
+https://cx8kmyue2jf43as7bzdp6t.cdnessential.net:8443/hls/xacw31cgq.m3u8?s=BQAcxjRlHil1slcnEPiI7A&e=1722072639
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="PARIS 2024",EUROSPORT 2
 https://bf.qsj68.cn/live/322674_hd01.m3u8?txSecret=e34f5997cc2873f53c9c9ffab6bd6e9e&txTime=66a4642c
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="PARIS 2024",EUROSPORT 3
@@ -401,9 +403,9 @@ http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/113518.ts
 
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="PARIS 2024",Astro Arena
 http://iptvtree.net:8080/F14995/a84c0963/157485
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="PARIS 2024",EUROSPORT 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="PARIS 2024",EUROSPORT 1A
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="PARIS 2024",EUROSPORT 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="PARIS 2024",EUROSPORT 2A
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="PARIS 2024",LIVE EVENT
