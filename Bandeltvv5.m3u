@@ -470,6 +470,15 @@ http://iptvtree.net:8080/F18819/6eb39c7d/298548
 =====NASIONAL====
 
 =======GTV
+#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png", GTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="3" tvg-logo="https://static.mncnow.id/images/channel/9436da00/11fe.png" group-title="NASIONAL", GTV
@@ -488,6 +497,15 @@ https://melon-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 
 =======MNCTV
+#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png", MNC TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="NASIONAL",ID|MNC TV
 http://iptvtree.net:8080/F18819/6eb39c7d/165054
 
@@ -528,6 +546,15 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 
 =======RCTI
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="TRANSVISION",RCTI
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="NASIONAL",ID|RCTI
 http://iptvtree.net:8080/F18819/6eb39c7d/157591
 
@@ -757,6 +784,15 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 
 =======SCTV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="TRANSVISION",SCTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cDPccnZ/sctv.png" group-title="NASIONAL",SCTV_Gen
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
 
@@ -847,6 +883,15 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 
 =======INDOSIAR
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="TRANSVISION",Indosiar
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL",INDOSIAR_Gen
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 
