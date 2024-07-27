@@ -374,10 +374,13 @@ https://live.procdnlive.com/livecdn/channel27.m3u8?auth_key=3000001721896555-0-0
 https://vb90xltcvg-secure.nsnd.live/PUjOlvPJbxyOlCr0OmMjlg/e1488e365349e73571c3e6f642da7fba/1721915181/live/_definst_/stream_1_1bda7@cunSD/playlist.m3u8
 
 ====AFF U19====
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFF U19" tvg-logo="https://thumbor.prod.vidiocdn.com/ANVXGIvc8snNZ_U-uabNfjsBcqM=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/99910434/IconCategoryAFFU192022-4c4409b7498b2370.png" group-title="Kamboja U19",Hang Meas HDTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFF U19" tvg-logo="https://thumbor.prod.vidiocdn.com/ANVXGIvc8snNZ_U-uabNfjsBcqM=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/99910434/IconCategoryAFFU192022-4c4409b7498b2370.png" group-title="AFF U19",Hang Meas HDTV
 http://clive.malisresidences.com:1935/rhm_hdtv/smil:RHMHDTV.smil/playlist.m3u8
 http://clive.malisresidences.com:1935/hm_hdtv/smil:HMHDTV.smil/playlist.m3u8
-
+https://bf.yunnankmln.com/live/sd-1-4153675_hd01.m3u8?txSecret=6905695b40d436d4a6991cf21f44fa62&txTime=66a463c6
+https://bf.qsj68.cn/live/322674_hd01.m3u8?txSecret=e34f5997cc2873f53c9c9ffab6bd6e9e&txTime=66a4642c
+https://bf.yunnankmln.com/live/sd-2-3791715_hd01.m3u8?txSecret=719c3908fb0f982ae876c98fdaefbc0c&txTime=66a4645b
+https://bf.qsj68.cn/live/322657_hd01.m3u8?txSecret=f12de603004ed8b363855025a01b93f8&txTime=66a4645b
 
 =====PARIS OPEN====
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="PARIS 2024", MY: Astro Arena
