@@ -284,17 +284,17 @@ http://rr3.dens.tv/s/s41/index.m3u8
 #EXTINF:-1  tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https:%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc9%2FMoji_blue.svg%2F1500px-Moji_blue.svg.png&w=2048&q=50" group-title="FEED LIVE EVENT",Moji A
 http://iptvtree.net:8080/F18819/6eb39c7d/298550
 
-#EXTINF:-1 tvg-id="TVSUKAN" group-title="LIVE Sport " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfCprFYqdjhGF7oOPX6LXOWuIAtYlOzPAFQ&usqp=CAU", SPOTV2  
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="FEED LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfCprFYqdjhGF7oOPX6LXOWuIAtYlOzPAFQ&usqp=CAU", SPOTV2  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-#EXTINF:-1 tvg-name="ssc2" tvg-logo="https://yt3.googleusercontent.com/7KCyLUN6LidKfNfN6KozO_ZwaF-g21xPFLO0BDaUYsWWeY2QVhKB_qJhHw4jvwUQkg-6GXw1qg=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE Sport ",SSC 2
+#EXTINF:-1 tvg-name="ssc2" tvg-logo="https://yt3.googleusercontent.com/7KCyLUN6LidKfNfN6KozO_ZwaF-g21xPFLO0BDaUYsWWeY2QVhKB_qJhHw4jvwUQkg-6GXw1qg=s900-c-k-c0x00ffffff-no-rj" group-title="FEED LIVE EVENT",SSC 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
 https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
 
-#EXTINF:-1 tvg-name="ss3" tvg-logo="https://yt3.googleusercontent.com/7KCyLUN6LidKfNfN6KozO_ZwaF-g21xPFLO0BDaUYsWWeY2QVhKB_qJhHw4jvwUQkg-6GXw1qg=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE Sport ",SSC 3
+#EXTINF:-1 tvg-name="ss3" tvg-logo="https://yt3.googleusercontent.com/7KCyLUN6LidKfNfN6KozO_ZwaF-g21xPFLO0BDaUYsWWeY2QVhKB_qJhHw4jvwUQkg-6GXw1qg=s900-c-k-c0x00ffffff-no-rj" group-title="FEED LIVE EVENT",SSC 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
 https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
