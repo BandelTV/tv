@@ -866,21 +866,8 @@ http://clive.malisresidences.com:1935/rhm_hdtv/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFF U19" tvg-logo="https://thumbor.prod.vidiocdn.com/ANVXGIvc8snNZ_U-uabNfjsBcqM=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/99910434/IconCategoryAFFU192022-4c4409b7498b2370.png" group-title="AFF U-19",Hang Meas HDTV
 http://clive.malisresidences.com:1935/hm_hdtv/smil:HMHDTV.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="U19" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/bWm0F830gA2hzBgm68-5ffmo-tQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3605491/ae57d6.jpg" group-title="AFF U-19", TES 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ea341672cbdab3dd779977800766db2:4399f8fca9eaf3467d70d91eb070e1d6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd?hdnts=exp=1721823246~acl=/drm/dash/*~id=37773602~hmac=6670a0ba1d2e2c681ee53cc437158602d7ae399b546e4e37efd3d446608a9af8
-
-#EXTINF:-1 group-title="U19" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/ea93PNIBAjMOjANOTbB5flFCU30=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3605485/a742e0.jpg" group-title="AFF U-19", TES 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b56244827da3dbe89d68e5ecd15c11a:8ccd2be637ab9640c66118cdca064dee
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17601_stream.mpd?hdnts=exp=1721823269~acl=/drm/dash/*~id=144291504~hmac=7fdb7d3567dfa02d62ffe07766b0bb7b26c6738d83812fe6afba29a2ca40c217
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFF U19" tvg-logo="https://thumbor.prod.vidiocdn.com/ANVXGIvc8snNZ_U-uabNfjsBcqM=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/99910434/IconCategoryAFFU192022-4c4409b7498b2370.png" group-title="AFF U-19",TES
+http:\\iptvtree.net:8080\F14995\a84c0963\162141
 
 
 ###### PARIS 2024 ########
