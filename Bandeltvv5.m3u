@@ -865,7 +865,26 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380136.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="PARIS 2024" , CH 8
 http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191792
 
+#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 1
+http://defaultgen.com:3050/live/mbrodie4.mb@gmail.com/mhtvGxWwhi/558758.ts
 
+#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 2
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191792
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 3
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082112
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 4
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082115
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 5
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082118
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 6
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082121
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 7
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082124
 
 
 
