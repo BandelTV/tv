@@ -341,11 +341,11 @@ https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/117.m3u8|User-Agent
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="Sports",BeinSport 1
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="FEED LIVE EVENT",BeinSport 1
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C0:B2:04&stream=124773_&extension=ts
 
 
-#EXTINF:-1 tvg-name="WWE" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/wwe.png" group-title="Sports",WWE 
+#EXTINF:-1 tvg-name="WWE" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/wwe.png" group-title="FEED LIVE EVENT",WWE 
 #EXTM3U
 #EXT-X-TARGETDURATION:10
 #EXT-X-ALLOW-CACHE:YES
@@ -354,27 +354,27 @@ http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C0:B2:04&stream=124773_&ext
 #EXT-X-MEDIA-SEQUENCE:1
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/fox_sport.png" group-title="Sports",Fox Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/fox_sport.png" group-title="FEED LIVE EVENT",Fox Sports 1
 http://117tv.icu:8080/live/X5xRz0/944877/1846.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/fox_sport.png" group-title="Sports",Fox Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/fox_sport.png" group-title="FEED LIVE EVENT",Fox Sports 2
 http://117tv.icu:8080/live/X5xRz0/944877/1847.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.ibb.co.com/Qk3G5k3/eurosp1.png" group-title="Sports", EUROSPORT 1 
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.ibb.co.com/Qk3G5k3/eurosp1.png" group-title="FEED LIVE EVENT", EUROSPORT 1 
 http://edge02.odtv.az/o7/eurosport/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co.com/ZcRh80Q/eurosp2.png" group-title="Sports", EUROSPORT 2 
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co.com/ZcRh80Q/eurosp2.png" group-title="FEED LIVE EVENT", EUROSPORT 2 
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 group-title="FEED LIVE EVENT" ,Discovery Channel
 #EXTGRP: TEST Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -382,7 +382,7 @@ http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 #https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
 
-#EXTINF:-1,Discovery Asia
+#EXTINF:-1 group-title="FEED LIVE EVENT" ,Discovery Asia
 #EXTGRP: TEST Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -390,21 +390,21 @@ http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 #https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd 
 
 
-#EXTINF:-1,Asian Food Network
+#EXTINF:-1 group-title="FEED LIVE EVENT" ,Asian Food Network
 #EXTGRP: TEST Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WZg8WMGw2qHcw3D2l8yurQ", "kid":"Nn+b9NBoTxCddKnuto0yvg" } ], "type":"temporary" }
 #https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
-#EXTINF:-1,HGTV
+#EXTINF:-1 group-title="FEED LIVE EVENT" ,HGTV
 #EXTGRP: TEST Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/3qJ8AimJmTl69ghGHKW0Q", "kid":"TT1wKYqPRC+d7nwRpHw+3w" } ], "type":"temporary" }
 #https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 
-#EXTINF:-1,DMAX
+#EXTINF:-1 group-title="FEED LIVE EVENT" ,DMAX
 #EXTGRP: TEST Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -412,7 +412,7 @@ http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 #https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
 
-#EXTINF:-1,Citra Muslim
+#EXTINF:-1 group-title="FEED LIVE EVENT",Citra Muslim
 #EXTGRP: TEST Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -428,7 +428,7 @@ http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 #https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
 
-#EXTINF:-1,Citra Entertainment
+#EXTINF:-1 group-title="FEED LIVE EVENT",Citra Entertainment
 #EXTGRP: TEST Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
