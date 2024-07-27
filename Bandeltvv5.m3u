@@ -445,24 +445,8 @@ https://z02.ubtvfans.com/live/rx3/267/3c043641f93dff1d2d11ad8e8b613056/index.m3u
 https://z02.ubtvfans.com/live/rx3/487/8cb994733ee12ff966d5c29941668a61/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="FEED LIVE EVENT",INDOSIAR_Gen
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|Indosiar
-http://iptvtree.net:8080/F18819/6eb39c7d/162138
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0jqZrPN/rcti.png" group-title="FEED LIVE EVENT",RCTI_Gen
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|RCTI
-http://iptvtree.net:8080/F18819/6eb39c7d/157591
-#EXTINF:-1  tvg-logo="https://i.ibb.co/cDPccnZ/sctv.png" group-title="FEED LIVE EVENT",SCTV_Gen
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|SCTV
-http://iptvtree.net:8080/F18819/6eb39c7d/162141
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|INews
-http://iptvtree.net:8080/F18819/6eb39c7d/157579
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|MNC TV
-http://iptvtree.net:8080/F18819/6eb39c7d/165054
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|Moji
-http://iptvtree.net:8080/F18819/6eb39c7d/298550
+
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|SpoTV
 http://iptvtree.net:8080/F18819/6eb39c7d/298570
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|SpoTV 2
@@ -504,6 +488,9 @@ https://melon-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 
 =======MNCTV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="NASIONAL",ID|MNC TV
+http://iptvtree.net:8080/F18819/6eb39c7d/165054
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="4" tvg-logo="https://static.mncnow.id/images/channel/c121c900/d11c.png" group-title="NASIONAL", MNC TV
@@ -526,6 +513,9 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 
 =======INEWS
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="NASIONAL",ID|INews
+http://iptvtree.net:8080/F18819/6eb39c7d/157579
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="5" tvg-logo="https://static.mncnow.id/images/channel/0a37b838/4414.png" group-title="NASIONAL", iNews 
@@ -538,6 +528,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 
 =======RCTI
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="NASIONAL",ID|RCTI
+http://iptvtree.net:8080/F18819/6eb39c7d/157591
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0jqZrPN/rcti.png" group-title="NASIONAL",RCTI_Gen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="2" tvg-logo="https://static.mncnow.id/images/channel/e8b7a6a8/f009.png" group-title="NASIONAL", RCTI
@@ -761,10 +757,15 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 
 =======SCTV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cDPccnZ/sctv.png" group-title="NASIONAL",SCTV_Gen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zxwmac9.png" group-title="INDONESIA" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" group-title="NASIONAL", SCTV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-http://iptvtree.net:8080/F14995/a84c0963/162141
+
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/JcdKRXb/sctv.png" group-title="NASIONAL", SCTV 
+http://iptvtree.net:8080/F18819/6eb39c7d/162141
 
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/JcdKRXb/sctv.png" group-title="NASIONAL", SCTV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -803,10 +804,14 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="NASIONAL",ID|SCTV
+http://iptvtree.net:8080/F18819/6eb39c7d/162141
 
 
 =======MOJI
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="NASIONAL",ID|Moji
+http://iptvtree.net:8080/F18819/6eb39c7d/298550
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="NASIONAL",MOJI 1
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
@@ -842,6 +847,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 
 =======INDOSIAR
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL",INDOSIAR_Gen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="NASIONAL",ID|Indosiar
+http://iptvtree.net:8080/F18819/6eb39c7d/162138
+
 #EXTINF:0 tvg-logo="http://stage.dens.tv/images/channel-logo/10.jpg" group-title="NASIONAL",Indosiar*
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -913,8 +924,8 @@ http://clive.malisresidences.com:1935/rhm_hdtv/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFF U19" tvg-logo="https://thumbor.prod.vidiocdn.com/ANVXGIvc8snNZ_U-uabNfjsBcqM=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/99910434/IconCategoryAFFU192022-4c4409b7498b2370.png" group-title="AFF U-19",Hang Meas HDTV
 http://clive.malisresidences.com:1935/hm_hdtv/smil:HMHDTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFF U19" tvg-logo="https://thumbor.prod.vidiocdn.com/ANVXGIvc8snNZ_U-uabNfjsBcqM=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/99910434/IconCategoryAFFU192022-4c4409b7498b2370.png" group-title="AFF U-19",TES
-http:\\iptvtree.net:8080\F14995\a84c0963\162141
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="AFF U-19",ID|SCTV
+http://iptvtree.net:8080/F18819/6eb39c7d/162141
 
 
 ###### PARIS 2024 ########
