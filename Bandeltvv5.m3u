@@ -3604,31 +3604,31 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="mycinemaeurope.id" tvg-logo="https://iptv.urfan.web.id/logo/mce.png" group-title="MOVIES PREMIUM",My Cinema Europe
+#EXTINF:-1 group-title="HIBURAN" tvg-id="mycinemaeurope.id" tvg-logo="https://iptv.urfan.web.id/logo/mce.png" group-title="MOVIES PREMIUM",My Cinema Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="myfamilychannel.id" tvg-logo="https://iptv.urfan.web.id/logo/mfc.png" group-title="MOVIES PREMIUM" ,My Family Channel
+#EXTINF:-1 group-title="HIBURAN" tvg-id="myfamilychannel.id" tvg-logo="https://iptv.urfan.web.id/logo/mfc.png" group-title="MOVIES PREMIUM" ,My Family Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="mychinemaasia.id" tvg-logo="https://iptv.urfan.web.id/logo/mca.png" group-title="MOVIES PREMIUM",My Cinema Asia
+#EXTINF:-1 group-title="HIBURAN" tvg-id="mychinemaasia.id" tvg-logo="https://iptv.urfan.web.id/logo/mca.png" group-title="MOVIES PREMIUM",My Cinema Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="nadoo.kr" tvg-logo="https://iptv.urfan.web.id/logo/nadoo.png" group-title="MOVIES PREMIUM",Nadoo Korean
+#EXTINF:-1 group-title="HIBURAN" tvg-id="nadoo.kr" tvg-logo="https://iptv.urfan.web.id/logo/nadoo.png" group-title="MOVIES PREMIUM",Nadoo Korean
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="kbsworld.kr" tvg-logo="https://iptv.urfan.web.id/logo/kbsworld.png" group-title="MOVIES PREMIUM",KBS World
+#EXTINF:-1 group-title="HIBURAN" tvg-id="kbsworld.kr" tvg-logo="https://iptv.urfan.web.id/logo/kbsworld.png" group-title="MOVIES PREMIUM",KBS World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="kplus.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8c/K_Plus_Asia_Logo.jpg" group-title="MOVIES PREMIUM",K+
+#EXTINF:-1 group-title="HIBURAN" tvg-id="kplus.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8c/K_Plus_Asia_Logo.jpg" group-title="MOVIES PREMIUM",K+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
@@ -4957,34 +4957,34 @@ https://r.mjh.nz/PlutoTV/5db0ae5af8797b00095c0794-alt.m3u8
 
 ################################ SINGAPORE ################################
 
-#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/cmWAYhj.png" group-title="SINGAPORE",Channel 5
+#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/cmWAYhj.png" group-title="MALAYSIA",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
-#EXTINF:-1 tvg-id="Ch 8" tvg-logo="https://i.imgur.com/7rrvBP9.png" group-title="SINGAPORE",Channel 8
+#EXTINF:-1 tvg-id="Ch 8" tvg-logo="https://i.imgur.com/7rrvBP9.png" group-title="MALAYSIA",Channel 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
-#EXTINF:-1 tvg-id="Ch U" tvg-logo="https://i.imgur.com/FHso0Mp.png" group-title="SINGAPORE",Channel U
+#EXTINF:-1 tvg-id="Ch U" tvg-logo="https://i.imgur.com/FHso0Mp.png" group-title="MALAYSIA",Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#EXTINF:-1 tvg-id="Suria" tvg-logo="https://i.imgur.com/33m1Xqh.png" group-title="SINGAPORE",Suria
+#EXTINF:-1 tvg-id="Suria" tvg-logo="https://i.imgur.com/33m1Xqh.png" group-title="MALAYSIA",Suria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png",Vasantham
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png",Vasantham
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
 
@@ -5094,15 +5094,13 @@ http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18916&extension=
 #EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Supersport",SuperSport Variety 4
 http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18917&extension=ts
 
-###### sports #####
+
+
+######SPORT PREMIUM 3#####
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="SPORT PREMIUM 3", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="SPORT PREMIUM 3",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -5127,9 +5125,6 @@ https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12516.m3u8|User-Age
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12113.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZIGGO 6" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HItWRNsxyHrvczQcox7DHtQhTBXnDkT2E0J4r6EdmyVuQ.png" group-title="SPORT PREMIUM 3",ZIGGO 6
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12515.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-
-
-###### sports 2 #######
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -5363,20 +5358,18 @@ https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12127.m3u8|User-Age
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12128.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
 
-########################## SPORT club ########################
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="FOOTBALL CLUB TV", MU TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SPORTS PREMIUM 3", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/1a/Galatasaray_TV.svg/2560px-Galatasaray_TV.svg.png" group-title="FOOTBALL CLUB TV", Galatasaray TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/1a/Galatasaray_TV.svg/2560px-Galatasaray_TV.svg.png" group-title="SPORTS PREMIUM 3", Galatasaray TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="FOOTBALL CLUB TV", Real Madrid TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="SPORTS PREMIUM 3", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="FOOTBALL CLUB TV", Real Madrid TV EN
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="SPORTS PREMIUM 3", Real Madrid TV EN
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
 
@@ -5612,7 +5605,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
 
-<======================== Malaysia 2==========================>
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="MALAYSIA",TV 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
@@ -5844,34 +5836,34 @@ http://iptvtree.net:8080/AmirBilali/76448035/157550
 
 ################### SINGAPORE ################################
 
-#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/cmWAYhj.png" group-title="SINGAPORE",Channel 5
+#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/cmWAYhj.png" group-title="MALAYSIA",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
-#EXTINF:-1 tvg-id="Ch 8" tvg-logo="https://i.imgur.com/7rrvBP9.png" group-title="SINGAPORE",Channel 8
+#EXTINF:-1 tvg-id="Ch 8" tvg-logo="https://i.imgur.com/7rrvBP9.png" group-title="MALAYSIA",Channel 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
-#EXTINF:-1 tvg-id="Ch U" tvg-logo="https://i.imgur.com/FHso0Mp.png" group-title="SINGAPORE",Channel U
+#EXTINF:-1 tvg-id="Ch U" tvg-logo="https://i.imgur.com/FHso0Mp.png" group-title="MALAYSIA",Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#EXTINF:-1 tvg-id="Suria" tvg-logo="https://i.imgur.com/33m1Xqh.png" group-title="SINGAPORE",Suria
+#EXTINF:-1 tvg-id="Suria" tvg-logo="https://i.imgur.com/33m1Xqh.png" group-title="MALAYSIA",Suria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png",Vasantham
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png",Vasantham
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
 
@@ -6133,39 +6125,39 @@ https://livegeoroueu.akamaized.net/28072023/smil:bbo1.smil/chunklist_b928000.m3u
 https://livegeoroueu.akamaized.net/120723/smil:bboclassic1.smil/chunklist_b896000.m3u8?hdntl=exp=1717180560~acl=!*/120723/smil:bboclassic1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=bfdc5fda4f40c3fdc385c6c635d394e264109619128b6a1f67ee9dcf67604510
 
 
-###### INDIA SPORT ########
+###### INDIA SPORT
 
-#EXTINF:-1 tvg-id="DD Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/774c4049df9ead1fff6c94e3c6f7a117.png" group-title="India Sports", DD Sports
+#EXTINF:-1 tvg-id="DD Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/774c4049df9ead1fff6c94e3c6f7a117.png" group-title="SPORT PREMIUM 3", DD Sports
 http://iptvtree.net:8080/AmirBilali/76448035/56153
 
-#EXTINF:-1 tvg-id="Sony Sports Ten 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="India Sports", Sony Sports Ten 1
+#EXTINF:-1 tvg-id="Sony Sports Ten 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="SPORT PREMIUM 3", Sony Sports Ten 1
 http://iptvtree.net:8080/AmirBilali/76448035/16622
 
-#EXTINF:-1 tvg-id="Sony Sports Ten 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="India Sports", Sony Sports Ten 2
+#EXTINF:-1 tvg-id="Sony Sports Ten 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="SPORT PREMIUM 3", Sony Sports Ten 2
 http://iptvtree.net:8080/AmirBilali/76448035/16621
 
-#EXTINF:-1 tvg-id="Sony Sports Ten 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" group-title="India Sports", Sony Sports Ten 3
+#EXTINF:-1 tvg-id="Sony Sports Ten 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" group-title="SPORT PREMIUM 3", Sony Sports Ten 3
 http://iptvtree.net:8080/AmirBilali/76448035/56191
 
-#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png" group-title="India Sports", Star Sports 1
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png" group-title="SPORT PREMIUM 3", Star Sports 1
 http://iptvtree.net:8080/AmirBilali/76448035/3630
 
-#EXTINF:-1 tvg-id="Star Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png" group-title="India Sports", Star Sports 2
+#EXTINF:-1 tvg-id="Star Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png" group-title="SPORT PREMIUM 3", Star Sports 2
 http://iptvtree.net:8080/AmirBilali/76448035/3631
 
-#EXTINF:-1 tvg-id="Star Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" group-title="India Sports", Star Sports 3
+#EXTINF:-1 tvg-id="Star Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" group-title="SPORT PREMIUM 3", Star Sports 3
 http://iptvtree.net:8080/AmirBilali/76448035/62584
 
-#EXTINF:-1 tvg-id="Star Sports Select 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2d7119865b2ca6df10a38de08a4d6644.png" group-title="India Sports", Star Sports Select 1
+#EXTINF:-1 tvg-id="Star Sports Select 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2d7119865b2ca6df10a38de08a4d6644.png" group-title="SPORT PREMIUM 3", Star Sports Select 1
 http://iptvtree.net:8080/AmirBilali/76448035/82628
 
-#EXTINF:-1 tvg-id="Star Sports Select 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c82b1ed84b02cbae99a2a741355dd041.png" group-title="India Sports", Star Sports Select 2
+#EXTINF:-1 tvg-id="Star Sports Select 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c82b1ed84b02cbae99a2a741355dd041.png" group-title="SPORT PREMIUM 3", Star Sports Select 2
 http://iptvtree.net:8080/AmirBilali/76448035/16619
 
-#EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/f89c11d0bc8b653f20ba4b37ba95d7c4.png" group-title="India Sports", Ten Cricket
+#EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/f89c11d0bc8b653f20ba4b37ba95d7c4.png" group-title="SPORT PREMIUM 3", Ten Cricket
 http://iptvtree.net:8080/AmirBilali/76448035/302356
 
-#EXTINF:-1 tvg-id="Willow" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b8b56a633aad6900e1565ed87811f342.png" group-title="India Sports", Willow
+#EXTINF:-1 tvg-id="Willow" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b8b56a633aad6900e1565ed87811f342.png" group-title="SPORT PREMIUM 3", Willow
 http://iptvtree.net:8080/AmirBilali/76448035/165776
 
 
@@ -6852,99 +6844,99 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 
 ======movie Networks=====
-#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK MOVIES:  SKY HITS" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES:  SKY HITS
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK MOVIES:  SKY HITS" tvg-logo="" group-title="MOVIES PREMIUM",UK MOVIES:  SKY HITS
 http://fortv.cc:8080/PerronFamily/Queensway/35255
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: SKY CINEMA ACTION FHD" tvg-logo="" group-title="MOVIE NETWORKS",UK: SKY CINEMA ACTION FHD
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: SKY CINEMA ACTION FHD" tvg-logo="" group-title="MOVIES PREMIUM",UK: SKY CINEMA ACTION FHD
 http://fortv.cc:8080/PerronFamily/Queensway/35254
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK MOVIES: SKY CINEMA DRAMA" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY CINEMA DRAMA
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK MOVIES: SKY CINEMA DRAMA" tvg-logo="" group-title="MOVIES PREMIUM",UK MOVIES: SKY CINEMA DRAMA
 http://fortv.cc:8080/PerronFamily/Queensway/35251
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK Sky Cinema Scifi & Horror FHD  " tvg-logo="" group-title="MOVIE NETWORKS",UK Sky Cinema Scifi & Horror FHD  
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK Sky Cinema Scifi & Horror FHD  " tvg-logo="" group-title="MOVIES PREMIUM",UK Sky Cinema Scifi & Horror FHD  
 http://fortv.cc:8080/PerronFamily/Queensway/35248
-#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK MOVIES: SKY COMEDY" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY COMEDY
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK MOVIES: SKY COMEDY" tvg-logo="" group-title="MOVIES PREMIUM",UK MOVIES: SKY COMEDY
 http://fortv.cc:8080/PerronFamily/Queensway/35253
-#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK MOVIES: SKY CRIME THRILLER" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY CRIME THRILLER
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK MOVIES: SKY CRIME THRILLER" tvg-logo="" group-title="MOVIES PREMIUM",UK MOVIES: SKY CRIME THRILLER
 http://fortv.cc:8080/PerronFamily/Queensway/35252
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK MOVIES: SKY GREATS" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY GREATS
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK MOVIES: SKY GREATS" tvg-logo="" group-title="MOVIES PREMIUM",UK MOVIES: SKY GREATS
 http://fortv.cc:8080/PerronFamily/Queensway/35249
 
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK-Sky Cinema Premier" tvg-logo="" group-title="MOVIE NETWORKS",UK-Sky Cinema Premier
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK-Sky Cinema Premier" tvg-logo="" group-title="MOVIES PREMIUM",UK-Sky Cinema Premier
 http://fortv.cc:8080/PerronFamily/Queensway/35256
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: SKY 1 HD" tvg-logo="" group-title="MOVIE NETWORKS",UK: SKY 1 HD
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: SKY 1 HD" tvg-logo="" group-title="MOVIES PREMIUM",UK: SKY 1 HD
 http://fortv.cc:8080/PerronFamily/Queensway/35246
 
-#EXTINF:-1 tvg-id="sony.us" tvg-name="US SONY Movies FHD " tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="MOVIE NETWORKS",US SONY Movies FHD 
+#EXTINF:-1 tvg-id="sony.us" tvg-name="US SONY Movies FHD " tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="MOVIES PREMIUM",US SONY Movies FHD 
 http://fortv.cc:8080/PerronFamily/Queensway/2214
-#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US Lifetime Movies " tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="MOVIE NETWORKS",US Lifetime Movies 
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US Lifetime Movies " tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="MOVIES PREMIUM",US Lifetime Movies 
 http://fortv.cc:8080/PerronFamily/Queensway/20863
-#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="US STARZ ENCORE Black" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US STARZ ENCORE Black
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="US STARZ ENCORE Black" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIES PREMIUM",US STARZ ENCORE Black
 http://fortv.cc:8080/PerronFamily/Queensway/16141
-#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="USA:  Showtime NEXT" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="MOVIE NETWORKS",USA:  Showtime NEXT
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="USA:  Showtime NEXT" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="MOVIES PREMIUM",USA:  Showtime NEXT
 http://fortv.cc:8080/PerronFamily/Queensway/9316
-#EXTINF:-1 tvg-id="starzedge.us" tvg-name="USA:  STARZ EDGE " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",USA:  STARZ EDGE 
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="USA:  STARZ EDGE " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIES PREMIUM",USA:  STARZ EDGE 
 http://fortv.cc:8080/PerronFamily/Queensway/16143
-#EXTINF:-1 tvg-id="5starmax.us" tvg-name="US 5 StarMax" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png" group-title="MOVIE NETWORKS",US 5 StarMax
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="US 5 StarMax" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png" group-title="MOVIES PREMIUM",US 5 StarMax
 http://fortv.cc:8080/PerronFamily/Queensway/13381
-#EXTINF:-1 tvg-id="actionmaxpacific.us" tvg-name="US ActionMAX (East) " tvg-logo="" group-title="MOVIE NETWORKS",US ActionMAX (East) 
+#EXTINF:-1 tvg-id="actionmaxpacific.us" tvg-name="US ActionMAX (East) " tvg-logo="" group-title="MOVIES PREMIUM",US ActionMAX (East) 
 http://fortv.cc:8080/PerronFamily/Queensway/21013
-#EXTINF:-1 tvg-id="cinemax.us" tvg-name="US Cinemax (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIE NETWORKS",US Cinemax (East) 
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="US Cinemax (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES PREMIUM",US Cinemax (East) 
 http://fortv.cc:8080/PerronFamily/Queensway/13380
-#EXTINF:-1 tvg-id="epix.us" tvg-name="US EPIX (East) " tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="MOVIE NETWORKS",US EPIX (East) 
+#EXTINF:-1 tvg-id="epix.us" tvg-name="US EPIX (East) " tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="MOVIES PREMIUM",US EPIX (East) 
 http://fortv.cc:8080/PerronFamily/Queensway/13214
-#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="US Epix Drive IN (S)" tvg-logo="https://logodix.com/logo/1104724.png" group-title="MOVIE NETWORKS",US Epix Drive IN (S)
+#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="US Epix Drive IN (S)" tvg-logo="https://logodix.com/logo/1104724.png" group-title="MOVIES PREMIUM",US Epix Drive IN (S)
 http://fortv.cc:8080/PerronFamily/Queensway/14193
-#EXTINF:-1 tvg-id="epixhits.us" tvg-name="USA: Epix Hits" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIXH.PNG" group-title="MOVIE NETWORKS",USA: Epix Hits
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="USA: Epix Hits" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIXH.PNG" group-title="MOVIES PREMIUM",USA: Epix Hits
 http://fortv.cc:8080/PerronFamily/Queensway/12744
-#EXTINF:-1 tvg-id="epix2.us" tvg-name="US EPIX2 (East)" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="MOVIE NETWORKS",US EPIX2 (East)
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="US EPIX2 (East)" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="MOVIES PREMIUM",US EPIX2 (East)
 http://fortv.cc:8080/PerronFamily/Queensway/12730
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="US HBO " tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="MOVIE NETWORKS",US HBO 
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US HBO " tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="MOVIES PREMIUM",US HBO 
 http://fortv.cc:8080/PerronFamily/Queensway/9264
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US HBO 2 (A)" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="MOVIE NETWORKS",US HBO 2 (A)
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US HBO 2 (A)" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="MOVIES PREMIUM",US HBO 2 (A)
 http://fortv.cc:8080/PerronFamily/Queensway/9816
-#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US HBO Comedy (East) " tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" group-title="MOVIE NETWORKS",US HBO Comedy (East) 
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US HBO Comedy (East) " tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" group-title="MOVIES PREMIUM",US HBO Comedy (East) 
 http://fortv.cc:8080/PerronFamily/Queensway/17773
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US HBO Family (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="MOVIE NETWORKS",US HBO Family (East) 
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US HBO Family (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="MOVIES PREMIUM",US HBO Family (East) 
 http://fortv.cc:8080/PerronFamily/Queensway/17772
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US HBO SIGNATURE (East) " tvg-logo="https://logodix.com/logo/1111252.png" group-title="MOVIE NETWORKS",US HBO SIGNATURE (East) 
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US HBO SIGNATURE (East) " tvg-logo="https://logodix.com/logo/1111252.png" group-title="MOVIES PREMIUM",US HBO SIGNATURE (East) 
 http://fortv.cc:8080/PerronFamily/Queensway/9266
-#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US HBO Zone (East) (H)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="MOVIE NETWORKS",US HBO Zone (East) (H)
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US HBO Zone (East) (H)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="MOVIES PREMIUM",US HBO Zone (East) (H)
 http://fortv.cc:8080/PerronFamily/Queensway/9265
-#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="US HDNET MOVIES " tvg-logo="https://www.pngjoy.com/pngm/146/2931790_brazzers-hdnet-movies-logo-png-download.png" group-title="MOVIE NETWORKS",US HDNET MOVIES 
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="US HDNET MOVIES " tvg-logo="https://www.pngjoy.com/pngm/146/2931790_brazzers-hdnet-movies-logo-png-download.png" group-title="MOVIES PREMIUM",US HDNET MOVIES 
 http://fortv.cc:8080/PerronFamily/Queensway/16265
-#EXTINF:-1 tvg-id="moremax.us" tvg-name="US More Max " tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="MOVIE NETWORKS",US More Max 
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="US More Max " tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="MOVIES PREMIUM",US More Max 
 http://fortv.cc:8080/PerronFamily/Queensway/17776
 #EXTINF:-1 tvg-id="motortrend.us" tvg-name="US MotorTrend (A)" tvg-logo="https://www.affaritaliani.it/static/upl2018_restyle/moto/motortrend-logo1.PNG" group-title="USA ",US MotorTrend (A)
 http://fortv.cc:8080/PerronFamily/Queensway/10399
-#EXTINF:-1 tvg-id="moviemax.us" tvg-name="US MovieMAX (East) (H)" tvg-logo="https://www.dishactivations.com/wp-content/uploads/2014/05/MoviePlex.png" group-title="MOVIE NETWORKS",US MovieMAX (East) (H)
+#EXTINF:-1 tvg-id="moviemax.us" tvg-name="US MovieMAX (East) (H)" tvg-logo="https://www.dishactivations.com/wp-content/uploads/2014/05/MoviePlex.png" group-title="MOVIES PREMIUM",US MovieMAX (East) (H)
 http://fortv.cc:8080/PerronFamily/Queensway/13480
-#EXTINF:-1 tvg-id="movieplex.us" tvg-name="US MoviePlex (East) (H)" tvg-logo="https://p.kindpng.com/picc/s/329-3296935_showtime-extreme-logo-hd-png-download.png" group-title="MOVIE NETWORKS",US MoviePlex (East) (H)
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="US MoviePlex (East) (H)" tvg-logo="https://p.kindpng.com/picc/s/329-3296935_showtime-extreme-logo-hd-png-download.png" group-title="MOVIES PREMIUM",US MoviePlex (East) (H)
 http://fortv.cc:8080/PerronFamily/Queensway/1829
-#EXTINF:-1 tvg-id="outermax.us" tvg-name="US Cinemax Outermax (X)" tvg-logo="" group-title="MOVIE NETWORKS",US Cinemax Outermax (X)
+#EXTINF:-1 tvg-id="outermax.us" tvg-name="US Cinemax Outermax (X)" tvg-logo="" group-title="MOVIES PREMIUM",US Cinemax Outermax (X)
 http://fortv.cc:8080/PerronFamily/Queensway/21012
-#EXTINF:-1 tvg-id="retroplex.us" tvg-name="US RetroPlex (East) (H)" tvg-logo="" group-title="MOVIE NETWORKS",US RetroPlex (East) (H)
+#EXTINF:-1 tvg-id="retroplex.us" tvg-name="US RetroPlex (East) (H)" tvg-logo="" group-title="MOVIES PREMIUM",US RetroPlex (East) (H)
 http://fortv.cc:8080/PerronFamily/Queensway/66379
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="US Showtime East " tvg-logo="" group-title="MOVIE NETWORKS",US Showtime East 
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="US Showtime East " tvg-logo="" group-title="MOVIES PREMIUM",US Showtime East 
 http://fortv.cc:8080/PerronFamily/Queensway/46214
-#EXTINF:-1 tvg-id="showtime2.us" tvg-name="US Showtime 2 (East) (H)" tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="MOVIE NETWORKS",US Showtime 2 (East) (H)
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="US Showtime 2 (East) (H)" tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="MOVIES PREMIUM",US Showtime 2 (East) (H)
 http://fortv.cc:8080/PerronFamily/Queensway/13219
-#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US Showtime Extreme (East) (SP)" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="MOVIE NETWORKS",US Showtime Extreme (East) (SP)
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US Showtime Extreme (East) (SP)" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="MOVIES PREMIUM",US Showtime Extreme (East) (SP)
 http://fortv.cc:8080/PerronFamily/Queensway/13220
-#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="US Showtime Family Zone (East) " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Showtime_family_zone.png/revision/latest/scale-to-width-down/340?cb=20121117045222" group-title="MOVIE NETWORKS",US Showtime Family Zone (East) 
+#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="US Showtime Family Zone (East) " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Showtime_family_zone.png/revision/latest/scale-to-width-down/340?cb=20121117045222" group-title="MOVIES PREMIUM",US Showtime Family Zone (East) 
 http://fortv.cc:8080/PerronFamily/Queensway/13481
-#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US Showtime Women (East) (H)" tvg-logo="https://www.vhv.rs/dpng/d/473-4738791_showtime-women-logo-hd-png-download.png" group-title="MOVIE NETWORKS",US Showtime Women (East) (H)
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US Showtime Women (East) (H)" tvg-logo="https://www.vhv.rs/dpng/d/473-4738791_showtime-women-logo-hd-png-download.png" group-title="MOVIES PREMIUM",US Showtime Women (East) (H)
 http://fortv.cc:8080/PerronFamily/Queensway/17778
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East) " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz Cinema (East) 
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East) " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIES PREMIUM",US Starz Cinema (East) 
 http://fortv.cc:8080/PerronFamily/Queensway/17775
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East) (H)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz Cinema (East) (H)
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East) (H)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIES PREMIUM",US Starz Cinema (East) (H)
 http://fortv.cc:8080/PerronFamily/Queensway/9301
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz East (S)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz East (S)
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz East (S)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIES PREMIUM",US Starz East (S)
 http://fortv.cc:8080/PerronFamily/Queensway/9299
-#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="US Starz Encore Westerns (East) " tvg-logo="https://p.kindpng.com/picc/s/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="MOVIE NETWORKS",US Starz Encore Westerns (East) 
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="US Starz Encore Westerns (East) " tvg-logo="https://p.kindpng.com/picc/s/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="MOVIES PREMIUM",US Starz Encore Westerns (East) 
 http://fortv.cc:8080/PerronFamily/Queensway/16263
-#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="US Starz in Black (East) (H)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz in Black (East) (H)
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="US Starz in Black (East) (H)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIES PREMIUM",US Starz in Black (East) (H)
 http://fortv.cc:8080/PerronFamily/Queensway/17779
-#EXTINF:-1 tvg-id="starzwest.us" tvg-name="US Starz West (S)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="US Starz West (S)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIES PREMIUM",US Starz West (S)
 http://fortv.cc:8080/PerronFamily/Queensway/21091
-#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="US ThrillerMax (East)" tvg-logo="https://archive.org/download/thrillermax/thrillermax.png" group-title="MOVIE NETWORKS",US ThrillerMax (East)
+#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="US ThrillerMax (East)" tvg-logo="https://archive.org/download/thrillermax/thrillermax.png" group-title="MOVIES PREMIUM",US ThrillerMax (East)
 http://fortv.cc:8080/PerronFamily/Queensway/17774
 
 ====USA=====
