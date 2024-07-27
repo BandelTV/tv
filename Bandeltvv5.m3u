@@ -796,10 +796,10 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/cDPccnZ/sctv.png" group-title="NASIONAL",SCTV_Gen
+#EXTINF:-1  tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="NASIONAL",SCTV_Gen
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zxwmac9.png" group-title="INDONESIA" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" group-title="NASIONAL", SCTV 🇮🇩
+#EXTINF:-1 tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="INDONESIA" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" group-title="NASIONAL", SCTV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
