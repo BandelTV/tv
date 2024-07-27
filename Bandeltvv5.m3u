@@ -364,33 +364,18 @@ http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12192.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Logo_piala_presiden.jpeg" group-title="Piala presiden",tes
-https://abang-jago.starlive.workers.dev/live/stream-9912096_lsd.m3u8
-https://abang-jago.starlive.workers.dev/live/stream-9912025_lsd.m3u8
-https://live.procdnlive.com/livecdn/channel27.m3u8?auth_key=3000001721896555-0-0-aad2d81e9b354ff32a49a9d6befea6d2
-https://live.procdnlive.com/livecdn/channel27.m3u8?auth_key=3000001721896555-0-0-aad2d81e9b354ff32a49a9d6befea6d2
-https://pull.niur.live/live/stream-9912075_lsd.m3u8?txSecret=d7832109fca257f39364e3342f193917&txTime=66a26a63
-https://pull.niur.live/live/stream-9912075_lsd.m3u8?txSecret=b0728223fc1f57b35b1ab9a14d72df1e&txTime=66a269af
-https://live.procdnlive.com/livecdn/channel27.m3u8?auth_key=3000001721896555-0-0-aad2d81e9b354ff32a49a9d6befea6d2
-https://vb90xltcvg-secure.nsnd.live/PUjOlvPJbxyOlCr0OmMjlg/e1488e365349e73571c3e6f642da7fba/1721915181/live/_definst_/stream_1_1bda7@cunSD/playlist.m3u8
+
 
 ====AFF U19====
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFF U19" tvg-logo="https://thumbor.prod.vidiocdn.com/ANVXGIvc8snNZ_U-uabNfjsBcqM=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/99910434/IconCategoryAFFU192022-4c4409b7498b2370.png" group-title="AFF U19",Hang Meas HDTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFF U19" tvg-logo="https://thumbor.prod.vidiocdn.com/ANVXGIvc8snNZ_U-uabNfjsBcqM=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/99910434/IconCategoryAFFU192022-4c4409b7498b2370.png" group-title="AFF U19",Reaksmey Hang Meas HDTV
 http://clive.malisresidences.com:1935/rhm_hdtv/smil:RHMHDTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFF U19" tvg-logo="https://thumbor.prod.vidiocdn.com/ANVXGIvc8snNZ_U-uabNfjsBcqM=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/99910434/IconCategoryAFFU192022-4c4409b7498b2370.png" group-title="AFF U19",Hang Meas HDTV
 http://clive.malisresidences.com:1935/hm_hdtv/smil:HMHDTV.smil/playlist.m3u8
 
 =====PARIS OPEN====
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="PARIS 2024",EUROSPORT 1
 https://bf.yunnankmln.com/live/sd-1-4153675_hd01.m3u8?txSecret=6905695b40d436d4a6991cf21f44fa62&txTime=66a463c6
 https://cx8kmyue2jf43as7bzdp6t.cdnessential.net:8443/hls/xacw31cgq.m3u8?s=BQAcxjRlHil1slcnEPiI7A&e=1722072639
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="PARIS 2024",EUROSPORT 2
-https://bf.qsj68.cn/live/322674_hd01.m3u8?txSecret=e34f5997cc2873f53c9c9ffab6bd6e9e&txTime=66a4642c
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="PARIS 2024",EUROSPORT 3
-https://bf.yunnankmln.com/live/sd-2-3791715_hd01.m3u8?txSecret=719c3908fb0f982ae876c98fdaefbc0c&txTime=66a4645b
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="PARIS 2024",EUROSPORT 4
-https://bf.qsj68.cn/live/322657_hd01.m3u8?txSecret=f12de603004ed8b363855025a01b93f8&txTime=66a4645b
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="PARIS 2024",EUROSPORT 5
-https://cx8kmyue2jf43as7bzdp6t.cdnessential.net:8443/hls/mhbq0m7am17nhai.m3u8?s=7oa6GaV_rADbEM9i4wyopg&e=1722071886
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="PARIS 2024", MY: Astro Arena
