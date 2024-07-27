@@ -972,10 +972,10 @@ http://clive.malisresidences.com:1935/rhm_hdtv/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFF U19" tvg-logo="https://thumbor.prod.vidiocdn.com/ANVXGIvc8snNZ_U-uabNfjsBcqM=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/99910434/IconCategoryAFFU192022-4c4409b7498b2370.png" group-title="AFF U-19",Hang Meas HDTV
 http://clive.malisresidences.com:1935/hm_hdtv/smil:HMHDTV.smil/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="AFF U-19",ID|SCTV
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw0CSVnJz-xfGQ-tRiORhda4vJzcBwAi1GLA&s" group-title="AFF U-19",ID|SCTV
 http://iptvtree.net:8080/F18819/6eb39c7d/162141
 
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="AFF U-19",SCTV
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw0CSVnJz-xfGQ-tRiORhda4vJzcBwAi1GLA&s" group-title="AFF U-19",SCTV
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 
 ###### PARIS 2024 ########
