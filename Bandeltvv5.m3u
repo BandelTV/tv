@@ -374,7 +374,7 @@ http://edge02.odtv.az/o7/eurosport/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 
-#EXTINF:-1 group-title="FEED LIVE EVENT" ,Discovery Channel
+#EXTINF:-1 group-title="FEED LIVE EVENT" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 3
 #EXTGRP: TEST Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -382,7 +382,7 @@ http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 #https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
 
-#EXTINF:-1 group-title="FEED LIVE EVENT" ,Discovery Asia
+#EXTINF:-1 group-title="FEED LIVE EVENT" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 4
 #EXTGRP: TEST Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -390,21 +390,21 @@ http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 #https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd 
 
 
-#EXTINF:-1 group-title="FEED LIVE EVENT" ,Asian Food Network
+#EXTINF:-1 group-title="FEED LIVE EVENT" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 5
 #EXTGRP: TEST Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WZg8WMGw2qHcw3D2l8yurQ", "kid":"Nn+b9NBoTxCddKnuto0yvg" } ], "type":"temporary" }
 #https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
-#EXTINF:-1 group-title="FEED LIVE EVENT" ,HGTV
+#EXTINF:-1 group-title="FEED LIVE EVENT" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 6
 #EXTGRP: TEST Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/3qJ8AimJmTl69ghGHKW0Q", "kid":"TT1wKYqPRC+d7nwRpHw+3w" } ], "type":"temporary" }
 #https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 
-#EXTINF:-1 group-title="FEED LIVE EVENT" ,DMAX
+#EXTINF:-1 group-title="FEED LIVE EVENT" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 7
 #EXTGRP: TEST Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -412,7 +412,7 @@ http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 #https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
 
-#EXTINF:-1 group-title="FEED LIVE EVENT",Citra Muslim
+#EXTINF:-1 group-title="FEED LIVE EVENT" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 8
 #EXTGRP: TEST Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -420,7 +420,7 @@ http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 #https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
 
 
-#EXTINF:-1,Citra Bioskop 
+#EXTINF:-1 group-title="FEED LIVE EVENT" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 9 
 #EXTGRP: TEST Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -428,12 +428,59 @@ http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 #https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
 
-#EXTINF:-1 group-title="FEED LIVE EVENT",Citra Entertainment
+#EXTINF:-1 group-title="FEED LIVE EVENT" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 10
 #EXTGRP: TEST Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2j4ZMR46PRR2B5caEByNww", "kid":"BctLvZHjTYWPaSHnGW93lQ" } ], "type":"temporary" }
 #https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="FEED LIVE EVENT",KBSN Sports_🇰🇷
+https://z02.ubtvfans.com/live/rx3/2353/80b526df9819b4212d76597de20d848b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="FEED LIVE EVENT",Spotv_🇰🇷
+https://z02.ubtvfans.com/live/rx3/266/8ae8a498bd520e74e5bbf3f8bfe8d284/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="FEED LIVE EVENT",Spotv2_🇰🇷
+https://z02.ubtvfans.com/live/rx3/267/3c043641f93dff1d2d11ad8e8b613056/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="FEED LIVE EVENT",SBS Sports_🇰🇷
+https://z02.ubtvfans.com/live/rx3/487/8cb994733ee12ff966d5c29941668a61/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="FEED LIVE EVENT",INDOSIAR_Gen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|Indosiar
+http://iptvtree.net:8080/F18819/6eb39c7d/162138
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0jqZrPN/rcti.png" group-title="FEED LIVE EVENT",RCTI_Gen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|RCTI
+http://iptvtree.net:8080/F18819/6eb39c7d/157591
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cDPccnZ/sctv.png" group-title="FEED LIVE EVENT",SCTV_Gen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|SCTV
+http://iptvtree.net:8080/F18819/6eb39c7d/162141
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|INews
+http://iptvtree.net:8080/F18819/6eb39c7d/157579
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|MNC TV
+http://iptvtree.net:8080/F18819/6eb39c7d/165054
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|Moji
+http://iptvtree.net:8080/F18819/6eb39c7d/298550
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|SpoTV
+http://iptvtree.net:8080/F18819/6eb39c7d/298570
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|SpoTV 2
+http://iptvtree.net:8080/F18819/6eb39c7d/298571
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|TVRI Sport
+http://iptvtree.net:8080/F18819/6eb39c7d/166686
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|SeeSport 
+http://iptvtree.net:8080/F18819/6eb39c7d/298577
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|Sportstar
+http://iptvtree.net:8080/F18819/6eb39c7d/157589
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|Sportstar 2
+http://iptvtree.net:8080/F18819/6eb39c7d/298548
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="FEED LIVE EVENT",ID|Sportstar 3
+
+
+
+
+
 
 
 =====NASIONAL====
@@ -856,7 +903,7 @@ https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12192.m3u8|User-Age
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Logo_piala_presiden.jpeg" group-title="PIALA PRESIDEN",tes
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="FEED LIVE EVENT",INDOSIAR V
 #http://extraott.com/live/7921751389/6097373662/45098.ts
-#EXT-X-VERSION:6 
+
 
 ###### AFF U-19 ########
 
