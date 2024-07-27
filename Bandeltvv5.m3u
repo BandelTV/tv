@@ -426,11 +426,10 @@ http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683099&extensi
 
 
 =======KOMPAS MEDIA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="2909" tvg-logo="https://static.mncnow.id/images/channel/970dea5d/5eea.png" group-title="NASIONAL", Kompas TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/MR6fmDw/kompastv.png" group-title="NASIONAL", KOMPAS TV 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
 #EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/9/95/CNN_Indonesia_Vertical.png/revision/latest?cb=20140912015719" group-title="NASIONAL",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
