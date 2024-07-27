@@ -1910,40 +1910,108 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
 
-###### MOTO GP ########
+###### F1 & MOTO GP ########
 
-#EXTINF:-1 tvg-name="ssc2" tvg-logo="https://www.logolynx.com/images/logolynx/72/72cf97b10916cac1d0862e6104023c72.png" group-title="MOTO GP",SSC 2
+#EXTINF:-1 tvg-name="ssc2" tvg-logo="https://www.logolynx.com/images/logolynx/72/72cf97b10916cac1d0862e6104023c72.png" group-title="F1 & MOTO GP",SSC 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
 https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
-#EXTINF:-1  tvg-logo="https://www.logolynx.com/images/logolynx/72/72cf97b10916cac1d0862e6104023c72.png" group-title="MOTO GP",TNT 2
+#EXTINF:-1  tvg-logo="https://www.logolynx.com/images/logolynx/72/72cf97b10916cac1d0862e6104023c72.png" group-title="F1 & MOTO GP",TNT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-#EXTINF:-1 tvg-name="ssc2" tvg-logo="https://www.logolynx.com/images/logolynx/72/72cf97b10916cac1d0862e6104023c72.png" group-title="MOTO GP",SKY SPORT
+#EXTINF:-1 tvg-name="ssc2" tvg-logo="https://www.logolynx.com/images/logolynx/72/72cf97b10916cac1d0862e6104023c72.png" group-title="F1 & MOTO GP",SKY SPORT
 http://iptvtree.net:8080/F14995/a84c0963/2542
 
-###### F1 ########
+#EXTINF:0 group-title="F1 & MOTO GP" tvg-logo="https://cdn-icons-png.flaticon.com/512/630/630617.png",MOTO GP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
-#EXTINF:-1 tvg-name="ssc2" tvg-logo="https://wallpaperaccess.com/full/6122723.png" group-title="F1",FI
+
+#EXTINF:0 group-title="F1 & MOTO GP" tvg-logo="https://cdn-icons-png.flaticon.com/512/630/630617.png",MOTO GP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://mobilasikmotor.nontonx.com/mgpplayer1
+
+
+#EXTINF:0 group-title="F1 & MOTO GP" tvg-logo="https://revtv.ca/images/2022/05/05/Rookies_600.png",REDBULL ROOKIES CUP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:0 group-title="F1 & MOTO GP" tvg-logo="https://cdn-icons-png.flaticon.com/512/630/630617.png",MOTO GP (SSC 2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+
+
+#EXTINF:0 group-title="F1 & MOTO GP" tvg-logo="https://cdn-icons-png.flaticon.com/512/630/630617.png",MOTO GP (SKY ITALIA)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
+https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
+
+#EXTINF:0 group-title="F1 & MOTO GP" tvg-logo="https://cdn-icons-png.flaticon.com/512/630/630617.png",MOTO GP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
+https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
+
+
+#EXTINF:0 group-title="F1 & MOTO GP" tvg-logo="https://cdn-icons-png.flaticon.com/512/630/630617.png",MOTO GP REPLAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://motomundo.net/2024/06/motogp-2024-round-8-dutchgp-assen-watch-online-free-2/
+https://eeswjkjkhroe.sw-cdnstreamwish.com/hls2/01/04255/0bdgm7mcyh61_h/index-v1-a1.m3u8?t=dxoxdyLnb2miT-jJvykiZAL5bIcHvni4EpDukhvFBHE&s=1719759841&e=129600&f=21278782&srv=07s7cile1o9s&i=0.4&sp=500&p1=07s7cile1o9s&p2=07s7cile1o9s&asn=7713
+
+
+#EXTINF:0 group-title="F1 & MOTO GP" tvg-logo="https://cdn-icons-png.flaticon.com/512/630/630617.png",MOTO GP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:0 group-title="F1 & MOTO GP" tvg-logo="https://cdn-icons-png.flaticon.com/512/630/630617.png",MOTO GP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:0 group-title="F1 & MOTO GP" tvg-logo="https://cdn-icons-png.flaticon.com/512/630/630617.png",MOTO GP (TNT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+
+#EXTINF:-1 tvg-name="ssc2" tvg-logo="https://wallpaperaccess.com/full/6122723.png" group-title="F1 & MOTO GP",FI
 http://iptvtree.net:8080/F14995/a84c0963/2542
 https:\\m1.livestreamf1.com\aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4Ny9obHMvc3RyZWFtLm0zdTg=.m3u8
 https:\\livestreamf1.com\aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4OC9obHMvc3RyZWFtLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: DAZN FORMULA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="F1",DAZN FORMULA 1 SD
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: DAZN FORMULA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="F1 & MOTO GP",DAZN FORMULA 1 SD
 http://832168107696165257.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/165257.ts
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: DAZN FORMULA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="F1",DAZN FORMULA 1 FHD
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: DAZN FORMULA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="F1 & MOTO GP",DAZN FORMULA 1 FHD
 http://832168107696165418.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/165418.ts
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: DAZN FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="F1",DAZN FORMULA 1 HD
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: DAZN FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="F1 & MOTO GP",DAZN FORMULA 1 HD
 http://832168107696165419.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/165419.ts
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: DAZN FORMULA 1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="F1",DAZN FORMULA 1 HEVC
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: DAZN FORMULA 1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="F1 & MOTO GP",DAZN FORMULA 1 HEVC
 http://832168107696318564.ofd0628.xyz:80/live/xi510025/HuWYaDFUUf/318564.ts
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F ONE - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJdpJ_LN7lbfBTyq-T1qZDA.png" group-title="F1",F ONE - 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F ONE - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJdpJ_LN7lbfBTyq-T1qZDA.png" group-title="F1 & MOTO GP",F ONE - 1
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9798.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F ONE - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJdpJ_LN7lbfBTyq-T1qZDA.png" group-title="F1",F ONE - 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F ONE - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJdpJ_LN7lbfBTyq-T1qZDA.png" group-title="F1 & MOTO GP",F ONE - 2
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12169.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
+#EXTINF:0 group-title="F1 & MOTO GP" tvg-logo="https://www.logotipo.pt/wp-content/uploads/2018/03/artigo-F1-novo-2.jpg",F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://roketmotor.nontonx.com/mgpplayer1
+https://m1.livestreamf1.com/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4Ny9obHMvc3RyZWFtLm0zdTg=.m3u8
+
+#EXTINF:0 group-title="F1 & MOTO GP" tvg-logo="https://www.logotipo.pt/wp-content/uploads/2018/03/artigo-F1-novo-2.jpg",F1 (ALTERNATIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://latifistreams.com/motorsport/spanish-gp
+https://13.jdx3.org/wiki/wiki30/index.m3u8
+
+
+#EXTINF:0 group-title="F1 & MOTO GP" tvg-logo="https://www.logotipo.pt/wp-content/uploads/2018/03/artigo-F1-novo-2.jpg",F1 (ALTERNATIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://latifistreams.com/motorsport/spanish-gp
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+
 
 
 
