@@ -964,6 +964,8 @@ https://lebo.huminbird.cn/live/ballbar_38400.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Logo_piala_presiden.jpeg" group-title="PIALA PRESIDEN", LIVE EVENT
 https://lebo.huminbird.cn/live/ballbar_33240.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Logo_piala_presiden.jpeg" group-title="PIALA PRESIDEN", LIVE EVENT
+https://lebo.huminbird.cn/live/ballbar_39820.m3u8
 
 
 ###### AFF U-19 ########
