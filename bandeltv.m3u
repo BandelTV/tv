@@ -11,7 +11,49 @@ Bandel TV
 https://ia800305.us.archive.org/25/items/saweriabandeltv/saweriabandeltv.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZONQpDMVDKZJKw_sz1U4JOFwxzCiHGZOpKPleejZhpwSnxor8jrNX0XgMcYj7ZJBwbcaqNjWtLOvjna_44PsFvoe0EIpzqV73i6k42jmzyS-N4tEvGm4q-FI2zkIeOpP4F0A23vu5gBTNzIUrbCB4e-j1gO693yrIwgetcECER77JfUPj0FY5ogCp4wA/s1600/WhatsApp%20Image%202024-07-22%20at%2020.18.59.jpeg", group-title="Info Bandel TV",Kontax FM
 https://stream.zeno.fm/74a8bovxdohtv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/41/ac/0c/41ac0c8d635678dafbda4416ce5ec9c4.png", group-title="Info Bandel TV",WA
+https://archive.org/download/wa_20240729/wa.mp4
 
+
+
+###### PIALA PRESIDEN ########
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Logo_piala_presiden.jpeg" group-title="PIALA PRESIDEN",INDOSIAR
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Logo_piala_presiden.jpeg" group-title="PIALA PRESIDEN",INDOSIAR2
+http://play.fastkobar.my.id:8080/play/ka63JCH68gnqCQArYAVsBagUTu5U2nxNhtYnHh21_CA
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Logo_piala_presiden.jpeg" group-title="PIALA PRESIDEN", LIVE EVENT
+https://lebo.huminbird.cn/live/ballbar_40560.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Logo_piala_presiden.jpeg" group-title="PIALA PRESIDEN", LIVE EVENT
+https://lebo.huminbird.cn/live/ballbar_38400.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Logo_piala_presiden.jpeg" group-title="PIALA PRESIDEN", LIVE EVENT
+https://lebo.huminbird.cn/live/ballbar_33240.m3u8
+
+
+
+###### AFF U-19 ########
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFF U19" tvg-logo="https://thumbor.prod.vidiocdn.com/ANVXGIvc8snNZ_U-uabNfjsBcqM=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/99910434/IconCategoryAFFU192022-4c4409b7498b2370.png" group-title="AFF U-19",Reaksmey Hang Meas HDTV
+http://clive.malisresidences.com:1935/rhm_hdtv/smil:RHMHDTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFF U19" tvg-logo="https://thumbor.prod.vidiocdn.com/ANVXGIvc8snNZ_U-uabNfjsBcqM=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/99910434/IconCategoryAFFU192022-4c4409b7498b2370.png" group-title="AFF U-19",Hang Meas HDTV
+http://clive.malisresidences.com:1935/hm_hdtv/smil:HMHDTV.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="AFF U-19",ID|SCTV
+http://iptvtree.net:8080/F18819/6eb39c7d/162141
+
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="AFF U-19",SCTV
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
+
+#EXTINF:-1  tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="AFF U-19",SCTV_Gen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
+
+#EXTINF:-1  tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="AFF U-19",SCTV_DAMN
+http://id.ikitv.site:9981/stream/channelid/2075096037?profile=pass
 
 
 =====NASIONAL====
