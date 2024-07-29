@@ -970,7 +970,7 @@ https://lebo.huminbird.cn/live/ballbar_39820.m3u8
 
 ###### AFF U-19 ########
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFF U19" tvg-logo="https://thumbor.prod.vidiocdn.com/ANVXGIvc8snNZ_U-uabNfjsBcqM=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/99910434/IconCategoryAFFU192022-4c4409b7498b2370.png" group-title="AFF U-19",Reaksmey Hang Meas HDTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFF U-19" tvg-logo="https://thumbor.prod.vidiocdn.com/ANVXGIvc8snNZ_U-uabNfjsBcqM=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/99910434/IconCategoryAFFU192022-4c4409b7498b2370.png" group-title="AFF U-19",Reaksmey Hang Meas HDTV
 http://clive.malisresidences.com:1935/rhm_hdtv/smil:RHMHDTV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFF U19" tvg-logo="https://thumbor.prod.vidiocdn.com/ANVXGIvc8snNZ_U-uabNfjsBcqM=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/99910434/IconCategoryAFFU192022-4c4409b7498b2370.png" group-title="AFF U-19",Hang Meas HDTV
@@ -990,6 +990,20 @@ http://id.ikitv.site:9981/stream/channelid/2075096037?profile=pass
 
 #EXTINF:-1  tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="AFF U-19",SCTV_WAKANDA
 http://filex.tv:8080/28b/11223344/302301
+
+#EXTINF:0 tvg-id="17609" tvg-name="INFO" tvg-logo="https://thumbor.prod.vidiocdn.com/qi0gqFL1TIz208a4h9NJ-ScbXbU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3616795/5cc79b.jpg" group-title="LIVE TIMNAS",AFF U19
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdntl=exp=1722267927~acl=%2f*~id=161049633~data=hdntl~hmac=44fa6ec6cba46cdbb7b144e64cbb12f996c778002d0b544b47efe59c1ab3b844
+
+#EXTINF:0 tvg-id="17599" tvg-name="INFO" tvg-logo="https://thumbor.prod.vidiocdn.com/RSW5fUJ4vIno1UYORbG1D_177mQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3618849/b75700.jpg" group-title="LIVE TIMNAS",AVC U20
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a70c6e3eb4f65285eb10e326ac66c092:57222b1bd2662c0f293ac42477809f57
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17599_stream.mpd?hdntl=exp=1722267927~acl=%2f*~id=161049633~data=hdntl~hmac=44fa6ec6cba46cdbb7b144e64cbb12f996c778002d0b544b47efe59c1ab3b844
 
 #EXTINF:-1  tvg-logo="https://cdn.rri.co.id/berita/Kediri/o/1722133120698-WhatsApp_Image_2024-07-28_at_09.14.26/mb01qn4piyndydb.jpeg" group-title="AFF U-19",antah brantah
 https://cors-hk.v-dk.com/pull.niues.live/live/stream-9912097_lhd.m3u8
