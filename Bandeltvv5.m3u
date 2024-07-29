@@ -963,11 +963,17 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 ###### PIALA PRESIDEN ########
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Logo_piala_presiden.jpeg" group-title="PIALA PRESIDEN",INDOSIAR
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12192.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Logo_piala_presiden.jpeg" group-title="PIALA PRESIDEN",tes
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="FEED LIVE EVENT",INDOSIAR V
-#http://extraott.com/live/7921751389/6097373662/45098.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Logo_piala_presiden.jpeg" group-title="PIALA PRESIDEN", LIVE EVENT
+https://lebo.huminbird.cn/live/ballbar_40560.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Logo_piala_presiden.jpeg" group-title="PIALA PRESIDEN", LIVE EVENT
+https://lebo.huminbird.cn/live/ballbar_38400.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Logo_piala_presiden.jpeg" group-title="PIALA PRESIDEN", LIVE EVENT
+https://lebo.huminbird.cn/live/ballbar_33240.m3u8
+
 
 
 ###### AFF U-19 ########
@@ -983,6 +989,11 @@ http://iptvtree.net:8080/F18819/6eb39c7d/162141
 
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="AFF U-19",SCTV
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
+
+#EXTINF:-1  tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="NASIONAL",SCTV_Gen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
+
+
 
 ###### PARIS 2024 ########
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-1.png" group-title="PARIS 2024", RTM CH1
