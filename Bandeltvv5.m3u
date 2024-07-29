@@ -1032,6 +1032,65 @@ http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082121
 #EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", EUROSPORT 5
 http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082124
 
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 ASTRO OLYMPIC 1 (OTT)
+http://play.fastkobar.my.id:8080/play/ka63JCH68gnqCQArYAVsBXf6qU5IKslYsB_NmOAWGOg
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 ASTRO OLYMPIC 2 (OTT)
+http://play.fastkobar.my.id:8080/play/ka63JCH68gnqCQArYAVsBbnRQmnMD-2WpCXwXcNa0UQ
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 ASTRO OLYMPIC 3 (OTT)
+http://play.fastkobar.my.id:8080/play/ka63JCH68gnqCQArYAVsBQpt7mOm4C8Wbq8t33CygcU
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 ASTRO OLYMPIC 4 (OTT)
+http://play.fastkobar.my.id:8080/play/ka63JCH68gnqCQArYAVsBSl_pdHWCspiTn6bYJ3QCLo
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 ASTRO OLYMPIC 5 (OTT)
+http://play.fastkobar.my.id:8080/play/ka63JCH68gnqCQArYAVsBUacMA0FnPLVk8C-G5ToZC0
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 SERVER 016
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
+https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 SERVER 017
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
+https://mwmpos03.akamaized.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd
+
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 SERVER 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
+https://do2ibj89ih8kz.cloudfront.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 SERVER 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
+https://mwmpos01.akamaized.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 SERVER 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
+https://d2q3zea8ff7bj4.cloudfront.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 SERVER 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9c25c77ec994a979453d826b0eda5be:d54c0d2c9873abcf9197bb82fd3e8a4a
+https://mwmpos01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 SERVER 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9c25c77ec994a979453d826b0eda5be:d54c0d2c9873abcf9197bb82fd3e8a4a
+https://d2q3zea8ff7bj4.cloudfront.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 SERVER 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
+
+
+
+
 #EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", CH 1
 http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191792
 
