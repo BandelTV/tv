@@ -988,7 +988,10 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
 #EXTINF:-1  tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="AFF U-19",SCTV_DAMN
 http://id.ikitv.site:9981/stream/channelid/2075096037?profile=pass
 
-#EXTINF:-1  tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="AFF U-19",antah brantah
+#EXTINF:-1  tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="AFF U-19",SCTV_WAKANDA
+http://filex.tv:8080/28b/11223344/302301
+
+#EXTINF:-1  tvg-logo="https://cdn.rri.co.id/berita/Kediri/o/1722133120698-WhatsApp_Image_2024-07-28_at_09.14.26/mb01qn4piyndydb.jpeg" group-title="AFF U-19",antah brantah
 https://cors-hk.v-dk.com/pull.niues.live/live/stream-9912097_lhd.m3u8
 https://cors-hk.v-dk.com/pull.niues.live/live/stream-477560_lhd.m3u8
 https://cors-hk.v-dk.com/pull.niues.live/live/stream-9912077_lhd.m3u8
@@ -1030,6 +1033,15 @@ http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082121
 
 #EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", EUROSPORT 5
 http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082124
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" tvg-id="134917" tvg-name="UK: Eurosport 6" ,Eurosport 6
+http://hdtt3.online:3050/rmp5101@aol.com/ctBavdQ4N7/649793
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" tvg-id="723173" tvg-name="UK: Eurosport 7" ,Eurosport 7
+http://hdtt3.online:3050/rmp5101@aol.com/ctBavdQ4N7/649794
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" tvg-id="251473" tvg-name="UK: Eurosport 8" ,Eurosport 8
+http://hdtt3.online:3050/rmp5101@aol.com/ctBavdQ4N7/649795
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" tvg-id="404885" tvg-name="UK: Eurosport 9" ,Eurosport 9
+
 
 #EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 ASTRO OLYMPIC 1 (OTT)
 http://play.fastkobar.my.id:8080/play/ka63JCH68gnqCQArYAVsBXf6qU5IKslYsB_NmOAWGOg
