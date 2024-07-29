@@ -999,66 +999,64 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-1.png" group-title="PARIS 2024", RTM CH1
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Frtmklik.rtm.gov.my%2F&psig=AOvVaw2_bvmKGKtDPLO9k6cRp0pD&ust=1722326877146000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCl9dzly4cDFQAAAAAdAAAAABAX" group-title="PARIS 2024", RTM CH2
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-2.png" group-title="PARIS 2024", RTM CH2
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Frtmklik.rtm.gov.my%2F&psig=AOvVaw2_bvmKGKtDPLO9k6cRp0pD&ust=1722326877146000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCl9dzly4cDFQAAAAAdAAAAABAX" group-title="PARIS 2024", RTM CH2 HD
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/chunklist_b2596000_slENG.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Frtmklik.rtm.gov.my%2F&psig=AOvVaw2_bvmKGKtDPLO9k6cRp0pD&ust=1722326877146000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCl9dzly4cDFQAAAAAdAAAAABAf" group-title="PARIS 2024", RTM CH3
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-3.png" group-title="PARIS 2024", RTM CH3
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Frtmklik.rtm.gov.my%2F&psig=AOvVaw2_bvmKGKtDPLO9k6cRp0pD&ust=1722326877146000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCl9dzly4cDFQAAAAAdAAAAABAu" group-title="PARIS 2024", RTM CH4 HD
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-4.png" group-title="PARIS 2024", RTM CH4 HD
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/chunklist_b1096000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Frtmklik.rtm.gov.my%2Flive%2Fsalambaitullah&psig=AOvVaw2_bvmKGKtDPLO9k6cRp0pD&ust=1722326877146000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCl9dzly4cDFQAAAAAdAAAAABAn" group-title="PARIS 2024", RTM CH5
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-5.png" group-title="PARIS 2024", RTM CH5
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="PARIS 2024" , CH 1
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", EUROSPORT 1
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082112
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", EUROSPORT 2
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082115
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", EUROSPORT 3
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082118
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", EUROSPORT 4
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082121
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", EUROSPORT 5
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082124
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", CH 1
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191792
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", CH 2
+http://defaultgen.com:3050/live/mbrodie4.mb@gmail.com/mhtvGxWwhi/558758.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="PARIS 2024" , CH 3
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="PARIS 2024" , CH 2
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="PARIS 2024" , CH 4
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
        
 
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="PARIS 2024" , CH 3
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="PARIS 2024" , CH 5
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380133.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="PARIS 2024" , CH 4
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="PARIS 2024" , CH 6
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380134.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="PARIS 2024" , CH 5
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380135.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="PARIS 2024" , CH 6
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380135.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="PARIS 2024" , CH 7
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380136.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380135.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="PARIS 2024" , CH 8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380135.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="PARIS 2024" , CH 9
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380136.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="PARIS 2024" , CH 10
 http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191792
-
-#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 1
-http://defaultgen.com:3050/live/mbrodie4.mb@gmail.com/mhtvGxWwhi/558758.ts
-
-#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 2
-http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191792
-
-#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 3
-http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082112
-
-#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 4
-http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082115
-
-#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 5
-http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082118
-
-#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 6
-http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082121
-
-#EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 7
-http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082124
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="PARIS 2024", MY: Astro Arena
 http://iptvtree.net:8080/AmirBilali/76448035/157485
