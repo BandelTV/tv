@@ -247,6 +247,9 @@ https://archive.org/download/MurotalMR/114.mp3
 
 =====FEED LIVE EVENT====
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="PARIS 2024",LIVE EVENT
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
 
 
 #EXTINF:-1 group-title="FEED LIVE EVENT" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE B
@@ -1003,62 +1006,6 @@ https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/chunklist_b1096000_slENG.m3
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbV8hQVg2MowvHrQqUn36IRM2_tmlxFotQ&usqp=CAU" group-title="PARIS 2024", RTM CH5
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="PARIS 2024", MY: Astro Arena
-http://iptvtree.net:8080/AmirBilali/76448035/157485
-
-#EXTINF:-1 tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/491e097/2147483647/strip/false/crop/5461x3641+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb1%2F38%2F7451aceb45d89773a612a18e960f%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1177449924.jpg" group-title="PARIS 2024",SPORTV2
-#EXTVLCOPT:http-user-agent=AipiTV/35.5(Android 8.1.0)
-http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/113518.ts
-
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="PARIS 2024",Astro Arena
-http://iptvtree.net:8080/F14995/a84c0963/157485
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="PARIS 2024",LIVE EVENT
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="425.stations.xmltv.tvmedia.ca" tvg-name="RPC (PA)(R)" tvg-logo="https://seeklogo.com/images/R/rpc-television-panama-logo-80CBBDFD41-seeklogo.com.png" group-title="PARIS 2024",RPC 
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
-
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhPoybscXHQQGc7TxdwIKdrMMvazJ_yMxLbREqNSe04qg.png" group-title="PARIS 2024",SCTV bandel
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png" group-title="PARIS 2024",PRO LIGA
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/117.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-
-#EXTINF:-1 tvg-id="NBT 2 HD.th" group-title="PARIS 2024" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
-
-#EXTINF:-1 tvg-id="MCOT HD.th" group-title="PARIS 2024" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/MCOT_new.png",MCOT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
-
-#EXTINF:-1 tvg-id="PPTV HD.th" group-title="PARIS 2024" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0022.png",PPTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
-
-#EXTINF:-1 tvg-chno="413" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/491e097/2147483647/strip/false/crop/5461x3641+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb1%2F38%2F7451aceb45d89773a612a18e960f%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1177449924.jpg" group-title="PARIS 2024",L'Ã‰QUIPE LIVE FOOT
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive5.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="PARIS 2024", CCTV5 HD
-https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="PARIS 2024", CCTV5plus HD
-https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="PARIS 2024", CCTV16 HD
-https://node3.olelive.com:6443/live/CCTV16HD/hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPL - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIEi9nkEZagk5SqI2Tf1VCwQ.png" group-title="PARIS 2024",EPL - 2
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/97.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-
-#EXTINF:-1 tvg-id="Sukan RTM" group-title="PARIS 2024" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SUKAN_RTM.jpg", World Cup 26™ CH9
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
-#EXTINF:-1 tvg-id="Okey.my" group-title="PARIS 2024" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_XtwI72-x2n65IgUYFyWsf5pREW-Q7BmgZQ&s", World Cup 26™ CH10
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd 
-
-#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 1 HD
-http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
-#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 2 HD
-http://103.120.172.74:5500
 
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="PARIS 2024" , CH 1
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
@@ -1106,9 +1053,63 @@ http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082121
 #EXTINF:-1 group-title="PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 7
 http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082124
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="PARIS 2024", MY: Astro Arena
+http://iptvtree.net:8080/AmirBilali/76448035/157485
 
+#EXTINF:-1 tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/491e097/2147483647/strip/false/crop/5461x3641+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb1%2F38%2F7451aceb45d89773a612a18e960f%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1177449924.jpg" group-title="PARIS 2024",SPORTV2
+#EXTVLCOPT:http-user-agent=AipiTV/35.5(Android 8.1.0)
+http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/113518.ts
 
-###### TV 4K ########
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="PARIS 2024",Astro Arena
+http://iptvtree.net:8080/F14995/a84c0963/157485
+
+#EXTINF:-1 tvg-id="425.stations.xmltv.tvmedia.ca" tvg-name="RPC (PA)(R)" tvg-logo="https://seeklogo.com/images/R/rpc-television-panama-logo-80CBBDFD41-seeklogo.com.png" group-title="PARIS 2024",RPC 
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
+
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhPoybscXHQQGc7TxdwIKdrMMvazJ_yMxLbREqNSe04qg.png" group-title="PARIS 2024",SCTV bandel
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png" group-title="PARIS 2024",PRO LIGA
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/117.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
+#EXTINF:-1 tvg-id="NBT 2 HD.th" group-title="PARIS 2024" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
+
+#EXTINF:-1 tvg-id="MCOT HD.th" group-title="PARIS 2024" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/MCOT_new.png",MCOT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
+
+#EXTINF:-1 tvg-id="PPTV HD.th" group-title="PARIS 2024" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0022.png",PPTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
+
+#EXTINF:-1 tvg-chno="413" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/491e097/2147483647/strip/false/crop/5461x3641+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb1%2F38%2F7451aceb45d89773a612a18e960f%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1177449924.jpg" group-title="PARIS 2024",L'Ã‰QUIPE LIVE FOOT
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive5.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="PARIS 2024", CCTV5 HD
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="PARIS 2024", CCTV5plus HD
+https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="PARIS 2024", CCTV16 HD
+https://node3.olelive.com:6443/live/CCTV16HD/hls.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPL - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIEi9nkEZagk5SqI2Tf1VCwQ.png" group-title="PARIS 2024",EPL - 2
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/97.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
+#EXTINF:-1 tvg-id="Sukan RTM" group-title="PARIS 2024" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SUKAN_RTM.jpg", World Cup 26™ CH9
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-id="Okey.my" group-title="PARIS 2024" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_XtwI72-x2n65IgUYFyWsf5pREW-Q7BmgZQ&s", World Cup 26™ CH10
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd 
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 1 HD
+http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
+
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 2 HD
+http://103.120.172.74:5500
 
 
 
