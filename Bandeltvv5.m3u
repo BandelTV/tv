@@ -267,8 +267,6 @@ https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17477_st
 https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17478_stream.mpd?hdnts=exp=1721847364~acl=/drm/dash/*~id=164396008~hmac=7b40488e191c4528811806cb699138653a14b522a5a5f89d640966704bcdd93e
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9DL-b-GZ7gJ7VhRzfZUD2Nb_LXOiocWyiRJwljanfDP95by4XEMkhIINBWc7YSmFXLPMcpvxwkrUGXP6T3O31NYeRbNQEB-9gw253HdOoScqyI8O5_7POGnomnIP68xamho06-ZbuQm3jkvcGUdZFiqOk0rvtOzZrH76A4gJ6CxX7BeKxabMLKmYLS4g/s320/logo7_14_115937.png" group-title="FEED LIVE EVENT",PSJ TV Live
-https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="FEED LIVE EVENT",T SPORTS
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/52500.ts
 
@@ -279,6 +277,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/52500.ts
 #EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0". 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https:%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc9%2FMoji_blue.svg%2F1500px-Moji_blue.svg.png&w=2048&q=50", group-title="FEED LIVE EVENT",MOJI
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
+
 http://rr3.dens.tv/s/s41/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https:%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc9%2FMoji_blue.svg%2F1500px-Moji_blue.svg.png&w=2048&q=50" group-title="FEED LIVE EVENT",Moji A
@@ -856,6 +855,9 @@ http://iptvtree.net:8080/F18819/6eb39c7d/162141
 =======MOJI
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="NASIONAL",ID|Moji
 http://iptvtree.net:8080/F18819/6eb39c7d/298550
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="NASIONAL",ID|Moji
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="NASIONAL",MOJI 1
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
