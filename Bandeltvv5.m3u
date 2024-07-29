@@ -247,7 +247,7 @@ https://archive.org/download/MurotalMR/114.mp3
 
 =====FEED LIVE EVENT====
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="PARIS 2024",LIVE EVENT
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="FEED LIVE EVENT",LIVE EVENT ONLY
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
 
@@ -985,26 +985,22 @@ http://iptvtree.net:8080/F18819/6eb39c7d/162141
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 
 ###### PARIS 2024 ########
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbV8hQVg2MowvHrQqUn36IRM2_tmlxFotQ&usqp=CAU" group-title="PARIS 2024", RTM CH1
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-1.png" group-title="PARIS 2024", RTM CH1
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbV8hQVg2MowvHrQqUn36IRM2_tmlxFotQ&usqp=CAU" group-title="PARIS 2024", RTM 1 A
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/chunklist_b346000_slENG.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbV8hQVg2MowvHrQqUn36IRM2_tmlxFotQ&usqp=CAU" group-title="PARIS 2024", RTM CH2
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Frtmklik.rtm.gov.my%2F&psig=AOvVaw2_bvmKGKtDPLO9k6cRp0pD&ust=1722326877146000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCl9dzly4cDFQAAAAAdAAAAABAX" group-title="PARIS 2024", RTM CH2
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbV8hQVg2MowvHrQqUn36IRM2_tmlxFotQ&usqp=CAU" group-title="PARIS 2024", RTM CH2 HD
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Frtmklik.rtm.gov.my%2F&psig=AOvVaw2_bvmKGKtDPLO9k6cRp0pD&ust=1722326877146000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCl9dzly4cDFQAAAAAdAAAAABAX" group-title="PARIS 2024", RTM CH2 HD
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbV8hQVg2MowvHrQqUn36IRM2_tmlxFotQ&usqp=CAU" group-title="PARIS 2024", RTM CH3
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Frtmklik.rtm.gov.my%2F&psig=AOvVaw2_bvmKGKtDPLO9k6cRp0pD&ust=1722326877146000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCl9dzly4cDFQAAAAAdAAAAABAf" group-title="PARIS 2024", RTM CH3
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbV8hQVg2MowvHrQqUn36IRM2_tmlxFotQ&usqp=CAU" group-title="PARIS 2024", RTM CH4 HD
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Frtmklik.rtm.gov.my%2F&psig=AOvVaw2_bvmKGKtDPLO9k6cRp0pD&ust=1722326877146000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCl9dzly4cDFQAAAAAdAAAAABAu" group-title="PARIS 2024", RTM CH4 HD
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/chunklist_b1096000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbV8hQVg2MowvHrQqUn36IRM2_tmlxFotQ&usqp=CAU" group-title="PARIS 2024", RTM CH5
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Frtmklik.rtm.gov.my%2Flive%2Fsalambaitullah&psig=AOvVaw2_bvmKGKtDPLO9k6cRp0pD&ust=1722326877146000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCl9dzly4cDFQAAAAAdAAAAABAn" group-title="PARIS 2024", RTM CH5
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="PARIS 2024" , CH 1
