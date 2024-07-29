@@ -563,6 +563,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e8258
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="NASIONAL",ID|RCTI
 http://iptvtree.net:8080/F18819/6eb39c7d/157591
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="NASIONAL",RCTI
+http://xtv.ooo:8080/321166661/52816191/351023
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/0jqZrPN/rcti.png" group-title="NASIONAL",RCTI_Gen
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 
@@ -1002,6 +1005,10 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 
 #EXTINF:-1  tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="AFF U-19",SCTV_Gen
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
+
+#EXTINF:-1  tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="AFF U-19",SCTV_DAMN
+http://id.ikitv.site:9981/stream/channelid/2075096037?profile=pass
+
 
 
 
