@@ -15,6 +15,10 @@ https://ia800305.us.archive.org/25/items/saweriabandeltv/saweriabandeltv.mp4
 https://stream.zeno.fm/74a8bovxdohtv
 #EXTINF:-1 tvg-id=""  " tvg-logo="https://i.pinimg.com/originals/41/ac/0c/41ac0c8d635678dafbda4416ce5ec9c4.png", group-title="Info Bandel TV",085246103288
 https://archive.org/download/wa_20240729/wa.mp4
+
+#EXTINF:-1 tvg-id=""  " tvg-logo=" https://thumbor.prod.vidiocdn.com/mC4JCF1Rofs-ZetUHxjniyYS6YY=/filters:quality(70)/vidio-web-prod-film/uploads/film/image_portrait/6622/riko-the-series-murottal-al-quran-anak-c23fb0.jpg", group-title="Info Bandel TV", Murotal Anak Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722363633/ei/kdqoZrzIGqDtg8UPk-eqqQQ/ip/180.253.135.127/id/RLOmWNVCstM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/NO7bAePZ11P-usssdjhFb_6K1GSoQA1jwB_O9iKgbd-obY-w71X8LM0riHT55wF0_5xuL6lGTBjw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKs79ZMopQXtiH206hX5zYk_ZEw7Wo864r3hKjaFMCOCAiBmU-vZDuDf15DW9weLxMUmHtvCGRrfqGaMLAKfULfieQ%3D%3D/file/index.m3u8","
+
 =====AL QURAN====
 #EXTINF:-1 group-title="AL QURAN" tvg-logo="https://mvslim.com/wp-content/uploads/2021/03/quran-1.jpeg",001. Alfatihah (Pembukaan)
 https://archive.org/download/MurotalMR/001.mp3
@@ -266,20 +270,20 @@ https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17477_st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17478_stream.mpd?hdnts=exp=1721847364~acl=/drm/dash/*~id=164396008~hmac=7b40488e191c4528811806cb699138653a14b522a5a5f89d640966704bcdd93e
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg" group-title="FEED LIVE EVENT", FEED ????
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg" group-title="FEED LIVE EVENT", FEED 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg" group-title="FEED LIVE EVENT", FEED 2 ????
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg" group-title="FEED LIVE EVENT", FEED 2 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg" group-title="FEED LIVE EVENT", FEED 3 ????
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg" group-title="FEED LIVE EVENT", FEED 3 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://6d42a49f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9GSUZBUGx1c19ITFM/playlist.m3u8
 
@@ -397,13 +401,13 @@ http://edge02.odtv.az/o7/eurosport/playlist.m3u8
 http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkstb-SV42XlWyl3SvVjsM9m4g3nKJFRHOoa-AcRUJ42zPoP0hDSW1cdUiBXxrqGfO4nITwtLm4fNtdb2JIhHYJJlhm-uSNHW5u5Vl4MW221nSerKc5ya8PDR6k8mKx3UXij_jBZZo5puMV4cozR696HHYSidoNKU06ituOwVCBofHWyiQmPLB46o5h4I/s320/btv%20longer.png" group-title="FEED LIVE EVENT",KBSN Sports_????
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkstb-SV42XlWyl3SvVjsM9m4g3nKJFRHOoa-AcRUJ42zPoP0hDSW1cdUiBXxrqGfO4nITwtLm4fNtdb2JIhHYJJlhm-uSNHW5u5Vl4MW221nSerKc5ya8PDR6k8mKx3UXij_jBZZo5puMV4cozR696HHYSidoNKU06ituOwVCBofHWyiQmPLB46o5h4I/s320/btv%20longer.png" group-title="FEED LIVE EVENT",KBSN Sports_🇰🇷
 https://z02.ubtvfans.com/live/rx3/2353/80b526df9819b4212d76597de20d848b/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkstb-SV42XlWyl3SvVjsM9m4g3nKJFRHOoa-AcRUJ42zPoP0hDSW1cdUiBXxrqGfO4nITwtLm4fNtdb2JIhHYJJlhm-uSNHW5u5Vl4MW221nSerKc5ya8PDR6k8mKx3UXij_jBZZo5puMV4cozR696HHYSidoNKU06ituOwVCBofHWyiQmPLB46o5h4I/s320/btv%20longer.png" group-title="FEED LIVE EVENT",Spotv_????
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkstb-SV42XlWyl3SvVjsM9m4g3nKJFRHOoa-AcRUJ42zPoP0hDSW1cdUiBXxrqGfO4nITwtLm4fNtdb2JIhHYJJlhm-uSNHW5u5Vl4MW221nSerKc5ya8PDR6k8mKx3UXij_jBZZo5puMV4cozR696HHYSidoNKU06ituOwVCBofHWyiQmPLB46o5h4I/s320/btv%20longer.png" group-title="FEED LIVE EVENT",Spotv_🇰🇷
 https://z02.ubtvfans.com/live/rx3/266/8ae8a498bd520e74e5bbf3f8bfe8d284/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkstb-SV42XlWyl3SvVjsM9m4g3nKJFRHOoa-AcRUJ42zPoP0hDSW1cdUiBXxrqGfO4nITwtLm4fNtdb2JIhHYJJlhm-uSNHW5u5Vl4MW221nSerKc5ya8PDR6k8mKx3UXij_jBZZo5puMV4cozR696HHYSidoNKU06ituOwVCBofHWyiQmPLB46o5h4I/s320/btv%20longer.png" group-title="FEED LIVE EVENT",Spotv2_????
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkstb-SV42XlWyl3SvVjsM9m4g3nKJFRHOoa-AcRUJ42zPoP0hDSW1cdUiBXxrqGfO4nITwtLm4fNtdb2JIhHYJJlhm-uSNHW5u5Vl4MW221nSerKc5ya8PDR6k8mKx3UXij_jBZZo5puMV4cozR696HHYSidoNKU06ituOwVCBofHWyiQmPLB46o5h4I/s320/btv%20longer.png" group-title="FEED LIVE EVENT",Spotv2_🇰🇷
 https://z02.ubtvfans.com/live/rx3/267/3c043641f93dff1d2d11ad8e8b613056/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkstb-SV42XlWyl3SvVjsM9m4g3nKJFRHOoa-AcRUJ42zPoP0hDSW1cdUiBXxrqGfO4nITwtLm4fNtdb2JIhHYJJlhm-uSNHW5u5Vl4MW221nSerKc5ya8PDR6k8mKx3UXij_jBZZo5puMV4cozR696HHYSidoNKU06ituOwVCBofHWyiQmPLB46o5h4I/s320/btv%20longer.png" group-title="FEED LIVE EVENT",SBS Sports_????
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkstb-SV42XlWyl3SvVjsM9m4g3nKJFRHOoa-AcRUJ42zPoP0hDSW1cdUiBXxrqGfO4nITwtLm4fNtdb2JIhHYJJlhm-uSNHW5u5Vl4MW221nSerKc5ya8PDR6k8mKx3UXij_jBZZo5puMV4cozR696HHYSidoNKU06ituOwVCBofHWyiQmPLB46o5h4I/s320/btv%20longer.png" group-title="FEED LIVE EVENT",SBS Sports_🇰🇷
 https://z02.ubtvfans.com/live/rx3/487/8cb994733ee12ff966d5c29941668a61/index.m3u8
 
 
@@ -517,7 +521,7 @@ http://iptvtree.net:8080/F18819/6eb39c7d/157579
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id;iNews HD - [Channel 433].id"  iNews" tvg-logo="https://i.ibb.co/d6sfBLj/inews.png" group-title="NASIONAL", INEWS ????
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id;iNews HD - [Channel 433].id"  iNews" tvg-logo="https://i.ibb.co/d6sfBLj/inews.png" group-title="NASIONAL", INEWS 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
@@ -573,7 +577,7 @@ http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683099&extensi
 
 
 =======KOMPAS MEDIA
-#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id"  Kompas TV" tvg-logo="https://i.ibb.co/MR6fmDw/kompastv.png" group-title="NASIONAL", KOMPAS TV ????
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id"  Kompas TV" tvg-logo="https://i.ibb.co/MR6fmDw/kompastv.png" group-title="NASIONAL", KOMPAS TV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
@@ -599,7 +603,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1  CNBC INDONESIA" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?v=1.8.3?w=650" group-title="NASIONAL",CNBC INDONESIA 2
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id"  Metro TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgTyeFc737pkvko53SvSYUaq-KxYdcoO_eI_zv6Wl-5Ta_Qc26DO2TZKQr8oEhkL5Y.png" group-title="NASIONAL", METRO TV HD ????
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id"  Metro TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgTyeFc737pkvko53SvSYUaq-KxYdcoO_eI_zv6Wl-5Ta_Qc26DO2TZKQr8oEhkL5Y.png" group-title="NASIONAL", METRO TV HD 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
@@ -784,14 +788,14 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e6475
 #EXTINF:-1  tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="NASIONAL",SCTV_Gen
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
 
-#EXTINF:-1 tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="INDONESIA" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" group-title="NASIONAL", SCTV ????
+#EXTINF:-1 tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="INDONESIA" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" group-title="NASIONAL", SCTV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id"  SCTV" tvg-logo="https://i.ibb.co/JcdKRXb/sctv.png" group-title="NASIONAL", SCTV 
 http://iptvtree.net:8080/F18819/6eb39c7d/162141
 
-#EXTINF:-1 tvg-id="SCTV - [Channel 89].id"  SCTV" tvg-logo="https://i.ibb.co/JcdKRXb/sctv.png" group-title="NASIONAL", SCTV ????
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id"  SCTV" tvg-logo="https://i.ibb.co/JcdKRXb/sctv.png" group-title="NASIONAL", SCTV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
@@ -1180,43 +1184,43 @@ http://mag.premiumplus.tv:80/live/917de5ce89/43b9b22906/1598647.ts
 http://mag.premiumplus.tv:80/live/917de5ce89/43b9b22906/1598646.ts
 
 
-#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , ?? SERVER 1
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 SERVER 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
 https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
 
-#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , ?? SERVER 2
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 SERVER 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
 https://mwmpos03.akamaized.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd
 
 
-#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , ?? SERVER 3
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 SERVER 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
 https://do2ibj89ih8kz.cloudfront.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd
 
-#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , ?? SERVER 4
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 SERVER 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
 https://mwmpos01.akamaized.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd
 
-#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , ?? SERVER 5
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 SERVER 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
 https://d2q3zea8ff7bj4.cloudfront.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd
 
-#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , ?? SERVER 6
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 SERVER 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f9c25c77ec994a979453d826b0eda5be:d54c0d2c9873abcf9197bb82fd3e8a4a
 https://mwmpos01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
 
-#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , ?? SERVER 5
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 SERVER 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f9c25c77ec994a979453d826b0eda5be:d54c0d2c9873abcf9197bb82fd3e8a4a
 https://d2q3zea8ff7bj4.cloudfront.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
 
-#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , ?? SERVER 7
+#EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://i.imgur.com/lypV3WU.png" , 🟢 SERVER 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
@@ -2045,7 +2049,7 @@ http://vipatdom.top:8080/VIP01419171637423780/3bc4e6d0d633/627
 #EXTINF:-1 group-title="SPORT PREMIUM 1" tvg-id="Golf Channel"  FR: GOLF Channel" ,FR: GOLF Channel
 http://vipatdom.top:8080/VIP01419171637423780/3bc4e6d0d633/121252
 
-#EXTINF:-1 group-title="SPORT PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/germany/countrypic.png"  DE: ???SPORT???" ,DE: ???SPORT???
+#EXTINF:-1 group-title="SPORT PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/germany/countrypic.png"  DE: ✦●✦SPORT✦●✦" ,DE: ✦●✦SPORT✦●✦
 http://vipatdom.top:8080/VIP01419171637423780/3bc4e6d0d633/39712
 #EXTINF:-1 group-title="SPORT PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/germany/sky-sport-f1-de.png" tvg-id="SKY Sport F1"  DE: SKY SPORT F1" ,DE: SKY SPORT F1
 http://vipatdom.top:8080/VIP01419171637423780/3bc4e6d0d633/1382
@@ -7878,7 +7882,7 @@ http://vipatdom.top:8080/VIP01419171637423780/3bc4e6d0d633/34552
 http://vipatdom.top:8080/VIP01419171637423780/3bc4e6d0d633/34553
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://docdog.top/logo/countries/malaysia/ASTROXIAOTAIYANG.jpeg"  MY: ASTRO XIAO TAI YANG" ,MY: ASTRO XIAO TAI YANG
 http://vipatdom.top:8080/VIP01419171637423780/3bc4e6d0d633/34554
-#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://docdog.top/logo/countries/malaysia/tvbclassic.png"  MY: TVB ???" ,MY: TVB ???
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://docdog.top/logo/countries/malaysia/tvbclassic.png"  MY: TVB 经典台" ,MY: TVB 经典台
 http://vipatdom.top:8080/VIP01419171637423780/3bc4e6d0d633/34555
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://docdog.top/logo/countries/malaysia/ASTROAEC.png"  MY: ASTRO AEC" ,MY: ASTRO AEC
 http://vipatdom.top:8080/VIP01419171637423780/3bc4e6d0d633/34556
@@ -7888,7 +7892,7 @@ http://vipatdom.top:8080/VIP01419171637423780/3bc4e6d0d633/34557
 http://vipatdom.top:8080/VIP01419171637423780/3bc4e6d0d633/34558
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://docdog.top/logo/countries/malaysia/ASTROCTIASIA.png"  MY: ASTRO CTI ASIA" ,MY: ASTRO CTI ASIA
 http://vipatdom.top:8080/VIP01419171637423780/3bc4e6d0d633/34559
-#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://docdog.top/logo/countries/malaysia/tvb??.jpeg"  MY: TVB ??" ,MY: TVB ??
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://docdog.top/logo/countries/malaysia/tvb星河.jpeg"  MY: TVB 星河" ,MY: TVB 星河
 http://vipatdom.top:8080/VIP01419171637423780/3bc4e6d0d633/34560
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://docdog.top/logo/countries/malaysia/tvbsasia.png"  MY: TVBS ASIA" ,MY: TVBS ASIA
 http://vipatdom.top:8080/VIP01419171637423780/3bc4e6d0d633/34561
