@@ -15,6 +15,10 @@ https://ia800305.us.archive.org/25/items/saweriabandeltv/saweriabandeltv.mp4
 https://stream.zeno.fm/74a8bovxdohtv
 #EXTINF:-1 tvg-id=""  " tvg-logo="https://i.pinimg.com/originals/41/ac/0c/41ac0c8d635678dafbda4416ce5ec9c4.png", group-title="Info Bandel TV",085246103288
 https://archive.org/download/wa_20240729/wa.mp4
+
+#EXTINF:-1 tvg-id=""  " tvg-logo=" https://thumbor.prod.vidiocdn.com/mC4JCF1Rofs-ZetUHxjniyYS6YY=/filters:quality(70)/vidio-web-prod-film/uploads/film/image_portrait/6622/riko-the-series-murottal-al-quran-anak-c23fb0.jpg", group-title="Info Bandel TV", Murotal Anak Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722363633/ei/kdqoZrzIGqDtg8UPk-eqqQQ/ip/180.253.135.127/id/RLOmWNVCstM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/NO7bAePZ11P-usssdjhFb_6K1GSoQA1jwB_O9iKgbd-obY-w71X8LM0riHT55wF0_5xuL6lGTBjw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKs79ZMopQXtiH206hX5zYk_ZEw7Wo864r3hKjaFMCOCAiBmU-vZDuDf15DW9weLxMUmHtvCGRrfqGaMLAKfULfieQ%3D%3D/file/index.m3u8","
+
 =====AL QURAN====
 #EXTINF:-1 group-title="AL QURAN" tvg-logo="https://mvslim.com/wp-content/uploads/2021/03/quran-1.jpeg",001. Alfatihah (Pembukaan)
 https://archive.org/download/MurotalMR/001.mp3
