@@ -247,6 +247,8 @@ https://archive.org/download/MurotalMR/113.mp3
 https://archive.org/download/MurotalMR/114.mp3
 
 =====FEED LIVE EVENT====
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" tvg-name="Trans 7" group-title="FEED LIVE EVENT",Trans 7 (Live GP)
+https://v.af/visionples-trans7
 
 #EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://i.ibb.co.com/sggNDR7/a1.png" group-title="FEED LIVE EVENT", ARENA SPORT 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
