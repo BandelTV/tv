@@ -250,6 +250,13 @@ https://archive.org/download/MurotalMR/113.mp3
 https://archive.org/download/MurotalMR/114.mp3
 
 =====FEED LIVE EVENT====
+
+#EXTINF:-1 group-title="FEED LIVE EVENT" tvg-name="Live Event" tvg-country="" tvg-logo="", VOLY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a19bc5f83cec35b4c3503db41d08e4e:e1f3bb13fc1dc7f5a3a5753d35bff8ea
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17481_stream.mpd?hdnts=exp=1722433756~acl=/drm/dash/*~id=164396008~hmac=b39cc7bb73e153266919fc2eadfae90b82b6d99777139e1d9d7b7ad1b36e49ce
 #EXTINF:-1 tvg-id=""  ID: Indosiar" tvg-logo="https://img.freepik.com/premium-vector/live-streaming-icon-video-broadcasting-online-broadcast-stream_212474-715.jpg" group-title="FEED LIVE EVENT",LIVE EVENT ONLY x
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722440260/ei/5AWqZofvFsqEjuMP6ZSU8Q4/ip/180.245.131.26/id/uTMc48XmjrA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/id/siu/1/spc/NO7bAeXcNA6zI77EAPgJw1KQS1lYujzs-TrPjiGSVtSJsCtvJYWV2s9eJsSaadTQvaFipeFwifvj/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgENcVcatrEpXJSf_nHTP6XpeyfU3yuWpZFVWRNZ48FeUCIQDw8ixXCxDRgRRn-E4hMUDBTfNxz-qOhrztRlTzB_mgvA%3D%3D/file/index.m3u8
 
