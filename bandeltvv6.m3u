@@ -1916,6 +1916,33 @@ https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
 https://bozztv.com/gusa/gusa-tvstravel/index.m3u8
 
 
+=====BWF CHANNEL===
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="BWF CHANNEL",BWF 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="BWF CHANNEL",BWF 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="BWF CHANNEL",BWF 3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="BWF CHANNEL",BWF 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+
+
 
 =====EURO 2024===
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/115px-UEFA_Euro_2024_Logo.svg.png" group-title="EURO 2024", CA TSN 4 HD
@@ -1991,7 +2018,20 @@ http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88866.ts
 
 
 ==========SPORT PREMIUM 1========
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/PSN.jpg" group-title="SPORT PREMIUM 1",Premier Sports 1 
+http://202.21.104.6:88/sps-prime/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/PSN.jpg" group-title="SPORT PREMIUM 1",Premier Sports 2 
+http://202.21.104.6:88/sps-play/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/PSN.jpg" group-title="SPORT PREMIUM 1",Premier Sports 3 
+http://202.21.104.6:88/sps-world/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/PSN.jpg" group-title="SPORT PREMIUM 1",Premier Sports 4 
+http://202.21.104.6:88/sps-action/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/PSN.jpg" group-title="SPORT PREMIUM 1",Premier Sports 5 
+http://202.21.104.6:88/sps-plus/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkstb-SV42XlWyl3SvVjsM9m4g3nKJFRHOoa-AcRUJ42zPoP0hDSW1cdUiBXxrqGfO4nITwtLm4fNtdb2JIhHYJJlhm-uSNHW5u5Vl4MW221nSerKc5ya8PDR6k8mKx3UXij_jBZZo5puMV4cozR696HHYSidoNKU06ituOwVCBofHWyiQmPLB46o5h4I/s320/btv%20longer.png" group-title="SPORT PREMIUM 1",LFC TV.(server.1)
 http://iptvtree.net:8080/paulthom01/fb97ea32/4721
