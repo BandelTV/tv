@@ -246,6 +246,12 @@ https://archive.org/download/MurotalMR/113.mp3
 #EXTINF:-1 group-title="AL QURAN" tvg-logo="https://mvslim.com/wp-content/uploads/2021/03/quran-1.jpeg",114. An-Naas (Manusia)
 https://archive.org/download/MurotalMR/114.mp3
 
+#EXTINF:-1 group-title="Live Event" tvg-name="Live Event" tvg-country="" tvg-logo="https://archive.org/download/live-event_202103/live-event.jpg", Event 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=084cd1aa5dd05cf4c0f3a880b3ff95b1:135b870c19388b66083c985b85fa0a4b
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17476_stream.mpd?hdnts=exp=1722525287~acl=/drm/dash/*~id=164396008~hmac=0229cfb14a677f896508e74fee707a28f11398cfcf43deb225f5173546c99ea4
 =====FEED LIVE EVENT====
 
 #EXTINF:-1 group-title="FEED LIVE EVENT" tvg-name="Live Event" tvg-country="" tvg-logo="", VOLY
