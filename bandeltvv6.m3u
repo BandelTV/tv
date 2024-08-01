@@ -245,13 +245,89 @@ https://archive.org/download/MurotalMR/112.mp3
 https://archive.org/download/MurotalMR/113.mp3
 #EXTINF:-1 group-title="AL QURAN" tvg-logo="https://mvslim.com/wp-content/uploads/2021/03/quran-1.jpeg",114. An-Naas (Manusia)
 https://archive.org/download/MurotalMR/114.mp3
-
+======live event
 #EXTINF:-1 group-title="Live Event" tvg-name="Live Event" tvg-country="" tvg-logo="https://archive.org/download/live-event_202103/live-event.jpg", Event 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=084cd1aa5dd05cf4c0f3a880b3ff95b1:135b870c19388b66083c985b85fa0a4b
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17476_stream.mpd?hdnts=exp=1722525287~acl=/drm/dash/*~id=164396008~hmac=0229cfb14a677f896508e74fee707a28f11398cfcf43deb225f5173546c99ea4
+#EXTINF:-1 group-title="Europa Conference League" tvg-name="Live Event" tvg-country="" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", | FC Astana vs FC Milsami
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/127.0.0.0 Safari/537.36
+https://apisportvb90xltcbk-secure.nsnd.live/efNx6hYK520kQaYl5_5dyA/Fv2lucGIbhPi2caWYvF5Lg/1722548498059/live/sd-6MsGPwddR8PmeP5hsy/playlist.m3u8
+
+#EXTINF:-1 group-title="BÃ³ng chuyá»n ná»¯ Olympic" tvg-name="Live Event" tvg-country="" tvg-logo="https://img.thesports.com/volleyball/competition/e594031127a0c09f63284809b44a46ea.png", | Italy Women vs Netherlands Women
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/127.0.0.0 Safari/537.36
+https://vb90xltcvg-secure.nsnd.live/zTINHoyAnErqlPbgBxnDaQ/2270a8f479503a8ecc2c2860b5f42ece/1722548692/live/_definst_/stream_1_1bda7@phoSD/playlist.m3u8
+
+#EXTINF:-1 group-title="BÃ³ng chuyá»n ná»¯ Olympic" tvg-name="Live Event" tvg-country="" tvg-logo="https://img.thesports.com/volleyball/competition/e594031127a0c09f63284809b44a46ea.png", | Italy Women vs Netherlands Women
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/127.0.0.0 Safari/537.36
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjI1NDg2OTIsInVyaSI6Ii9waG9TRCIsImlhdCI6MTcyMjUyNzA5Mn0.zpzihVTyUuZ4ZrGE59h47XNns6uHtqw8eV9vO-IUzQ8-/phoSD/playlist.m3u8
+
+#EXTINF:-1 group-title="BÃ³ng chuyá»n ná»¯ Olympic" tvg-name="Live Event" tvg-country="" tvg-logo="https://img.thesports.com/volleyball/competition/e594031127a0c09f63284809b44a46ea.png", | Italy Women vs Netherlands Women
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/127.0.0.0 Safari/537.36
+https://live-eu-pzybaks9eeliv.thapcam.link/f00a5179d50182a7e5f9b27b7f968734/1722548692776/live/phoHD/playlist.m3u8
+
+#EXTINF:-1 group-title="BÃ³ng chuyá»n ná»¯ Olympic" tvg-name="Live Event" tvg-country="" tvg-logo="https://img.thesports.com/volleyball/competition/e594031127a0c09f63284809b44a46ea.png", | Italy Women vs Netherlands Women
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/127.0.0.0 Safari/537.36
+https://obevcimanyd179569584.thapcam.link/LPlP3kum_I86nlPixUv4KA/Fv2lucGIbhPi2caWYvF5Lg/1722548692776/live/phoFHD/playlist.m3u8
+
+#EXTINF:-1 group-title="BÃ³ng chuyá»n ná»¯ Olympic" tvg-name="Live Event" tvg-country="" tvg-logo="https://img.thesports.com/volleyball/competition/e594031127a0c09f63284809b44a46ea.png", | Italy Women vs Netherlands Women
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/127.0.0.0 Safari/537.36
+https://obevcimanyd179591709.thapcam.link/gg7Yw7cVh4LXna9-34DuNA/Fv2lucGIbhPi2caWYvF5Lg/1722548692776/live/may6/playlist.m3u8
+
+#EXTINF:-1 group-title="Europa Conference League" tvg-name="Live Event" tvg-country="" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", | Ordabasy vs Red Boys Differdange
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/127.0.0.0 Safari/537.36
+https://apisportvb90xltcbk-secure.nsnd.live/X28eWf2itEy9FUaX0_5Peg/Fv2lucGIbhPi2caWYvF5Lg/1722548498225/live/sd-6MsGPwdd5JsTTU1Qf5/playlist.m3u8
+
+#EXTINF:-1 group-title="Europa Conference League" tvg-name="Live Event" tvg-country="" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", | FC Avan Academy vs Zimbru Chisinau
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/127.0.0.0 Safari/537.36
+https://apisportvb90xltcbk-secure.nsnd.live/YQVHDKSDM3KRQd5qWnOCzw/Fv2lucGIbhPi2caWYvF5Lg/1722548692927/live/sd-6MsGPwddQkQxwapYM1/playlist.m3u8
+
+#EXTINF:-1 group-title="Europa Conference League" tvg-name="Live Event" tvg-country="" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", | Urartu vs Banik Ostrava
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/127.0.0.0 Safari/537.36
+https://apisportvb90xltcbk-secure.nsnd.live/nP5y6f9Qs9G9bi5Ww9Pk6g/Fv2lucGIbhPi2caWYvF5Lg/1722548498402/live/sd-6MsGPwdcampd6CvL9y/playlist.m3u8
+
+#EXTINF:-1 group-title="Europa Conference League" tvg-name="Live Event" tvg-country="" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", | ASK Bravo Publikum vs HSK Zrinjski Mostar
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/127.0.0.0 Safari/537.36
+https://apisportvb90xltcbk-secure.nsnd.live/Aoj7qjbdJCps4pqIFbErAw/Fv2lucGIbhPi2caWYvF5Lg/1722548498466/live/sd-6MsGPwdcvBAehquYh1/playlist.m3u8
+
+#EXTINF:-1 group-title="BÃ³ng rá»• ná»¯ Olympic" tvg-name="Live Event" tvg-country="" tvg-logo="https://img.thesports.com/basketball/competition/a3e61bea388295010dc818643a3a4511.png", | France Women vs Nigeria Women
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/127.0.0.0 Safari/537.36
+https://vb90xltcvg-secure.nsnd.live/7bvmioAWkx_ZPzvCXjJb7w/40ab8ad8f0effd5b1e65e13131aa5e18/1722548498/live/_definst_/stream_1_1bda7@caoSD/playlist.m3u8
+
+#EXTINF:-1 group-title="BÃ³ng rá»• ná»¯ Olympic" tvg-name="Live Event" tvg-country="" tvg-logo="https://img.thesports.com/basketball/competition/a3e61bea388295010dc818643a3a4511.png", | France Women vs Nigeria Women
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/127.0.0.0 Safari/537.36
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjI1NDg0OTgsInVyaSI6Ii9jYW9TRCIsImlhdCI6MTcyMjUyNjg5OH0.Vtd1V5lmIAZUjtoWOwOaF6Cisl38YcmvygGkHCxHitY-/caoSD/playlist.m3u8
+
+#EXTINF:-1 group-title="BÃ³ng rá»• ná»¯ Olympic" tvg-name="Live Event" tvg-country="" tvg-logo="https://img.thesports.com/basketball/competition/a3e61bea388295010dc818643a3a4511.png", | France Women vs Nigeria Women
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/127.0.0.0 Safari/537.36
+https://live-eu-pzybaks9eeliv.thapcam.link/ca1c1497819eeaf2733902d129a57a03/1722548498645/live/caoHD/playlist.m3u8
+
+#EXTINF:-1 group-title="BÃ³ng rá»• ná»¯ Olympic" tvg-name="Live Event" tvg-country="" tvg-logo="https://img.thesports.com/basketball/competition/a3e61bea388295010dc818643a3a4511.png", | France Women vs Nigeria Women
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/127.0.0.0 Safari/537.36
+https://obevcimanyd179569584.thapcam.link/r9qQeOxBHrbgtg827AROIA/Fv2lucGIbhPi2caWYvF5Lg/1722548498645/live/caoFHD/playlist.m3u8
+
+#EXTINF:-1 group-title="BÃ³ng rá»• ná»¯ Olympic" tvg-name="Live Event" tvg-country="" tvg-logo="https://img.thesports.com/basketball/competition/a3e61bea388295010dc818643a3a4511.png", | France Women vs Nigeria Women
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/127.0.0.0 Safari/537.36
+https://live-eu-pzybaks9eeliv.thapcam.link/bac3c3bfe76bb7800ade99534ddcb10d/1722548498645/live/may25/playlist.m3u8
+
+
 =====FEED LIVE EVENT====
 
 #EXTINF:-1 group-title="FEED LIVE EVENT" tvg-name="Live Event" tvg-country="" tvg-logo="", VOLY
