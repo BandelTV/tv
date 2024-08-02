@@ -2,3 +2,10 @@
 #EXTINF:-1 group-title="Esports World Cup 2024" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/zoht57ze-Dy5JJPBJEAd4-J0il4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3626642/80f21c.jpg", | Honor of Kings - Group Stage Day 2 (Stream A) - Esports World Cup 2024 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17529/master.m3u8?hdnts=exp=1722604259~acl=/live/17529/*~id=164396008~hmac=05dc4695b1a677c3e9a9fce67be2c2dc6f8245b6a3d5df8661db0dde39a1bcf2
+
+#EXTINF:-1 group-title="Live Event" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/8adMQbBx9fHZ8hGQAInAqStG3aI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3627049/327312.jpg", | Event 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1389742081ccb586096d4f83f79282a:c7e8f55c4ac0721a0c656d52089ca7e6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17615_stream.mpd?hdnts=exp=1722619699~acl=/drm/dash/*~id=161571691~hmac=c7ed4d74e10130db323b5a4cbe5cdef476c92eabd404dfd8f2a47dfeb6413efa
