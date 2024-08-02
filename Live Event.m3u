@@ -10,7 +10,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17529/master.m3u8?hdnt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17615_stream.mpd?hdnts=exp=1722619699~acl=/drm/dash/*~id=161571691~hmac=c7ed4d74e10130db323b5a4cbe5cdef476c92eabd404dfd8f2a47dfeb6413efa
 
-#EXTINF:-1 group-title=""Live Event wal" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/kF-UoOa4_e9qj4_XXjnNLT85eoI=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3628896/5e5950.jpg", | Event 
+#EXTINF:-1 group-title="Live Event wal" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/kF-UoOa4_e9qj4_XXjnNLT85eoI=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3628896/5e5950.jpg", | Event 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=084cd1aa5dd05cf4c0f3a880b3ff95b1:135b870c19388b66083c985b85fa0a4b
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
