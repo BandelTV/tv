@@ -8,7 +8,30 @@ https://flv.intechmedia.net/live/ch098.m3u8
 http://ikitv.serv00.net/siarindo1.m3u8
 
 
+#EXTINF:0 tvg-logo="https://hometv.pw/logo/movies/hbo.png" group-title="Cubmu" tvg-id="001" tvg-name="016-LABURATV",HBO (CUB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+https://cdnjkt4.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
+#EXTINF:0 tvg-logo="https://hometv.pw/logo/movies/hbo_hits.png" group-title="Cubmu" tvg-id="001" tvg-name="016-LABURATV",HBO HITS (CUB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTINF:0 tvg-logo="https://hometv.pw/logo/movies/hbo_family.png" group-title="Cubmu" tvg-id="001" tvg-name="016-LABURATV",HBO FAMILY (CUB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTINF:0 tvg-logo="https://hometv.pw/logo/movies/hbo_sign.png" group-title="Cubmu" tvg-id="001" tvg-name="016-LABURATV",HBO SIGNATURE (CUB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+https://cdnjkt4.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF:-1 group-title="Cubmu" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be26e4325724/20200924032733.png",Bioskop Indonesia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 
 
