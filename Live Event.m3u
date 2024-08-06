@@ -2,14 +2,15 @@
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkstb-SV42XlWyl3SvVjsM9m4g3nKJFRHOoa-AcRUJ42zPoP0hDSW1cdUiBXxrqGfO4nITwtLm4fNtdb2JIhHYJJlhm-uSNHW5u5Vl4MW221nSerKc5ya8PDR6k8mKx3UXij_jBZZo5puMV4cozR696HHYSidoNKU06ituOwVCBofHWyiQmPLB46o5h4I/s320/btv%20longer.png" group-title="NASIONAL",tes
 #EXTVLCOPT:http-user-agent=NASIONAL/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://mcdn.rctiplus.id/mnctv-sdi.m3u8?auth_key=1722937205-374cbcde142a9187064bd41acebbc942-v4p2NpVqboCsBWcibhNVx5vlq9bS0xAZDyaiBdsT-249846b0a842cc866121a573ffed7e9c
+https://canal86.my.id/canal86.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkstb-SV42XlWyl3SvVjsM9m4g3nKJFRHOoa-AcRUJ42zPoP0hDSW1cdUiBXxrqGfO4nITwtLm4fNtdb2JIhHYJJlhm-uSNHW5u5Vl4MW221nSerKc5ya8PDR6k8mKx3UXij_jBZZo5puMV4cozR696HHYSidoNKU06ituOwVCBofHWyiQmPLB46o5h4I/s320/btv%20longer.png" group-title="NASIONAL",tes2
 #EXTVLCOPT:http-user-agent=NASIONAL/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://rcdn.rctiplus.id/rcti-sdi.m3u8?auth_key=1722937027-03519cf64dc924c70d2475ad3979d4b9-wG0k0ZT1gymvZzWRq17lUXKMKEOnvN3yhv7cZhG4-33c5368ae0222aec04c4dcf4681a8e95
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkstb-SV42XlWyl3SvVjsM9m4g3nKJFRHOoa-AcRUJ42zPoP0hDSW1cdUiBXxrqGfO4nITwtLm4fNtdb2JIhHYJJlhm-uSNHW5u5Vl4MW221nSerKc5ya8PDR6k8mKx3UXij_jBZZo5puMV4cozR696HHYSidoNKU06ituOwVCBofHWyiQmPLB46o5h4I/s320/btv%20longer.png" group-title="NASIONAL",tes3
 #EXTVLCOPT:http-user-agent=NASIONAL/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawWP5a6lzyDPJ57LXeuC05Cs44sM6v4Pb96oLcepTGODErcymHBIhx5oJP4jv2fPK0%3D%3A20230206101724%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101724%2Curn:Huawei:liveTV:XTV100000161%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YehIVXIKRKVahE6Laa2NcmihODHZD695A2bGfmjM4coeljr1B2dV7Zqsu1LeoS2EhRk611tu2MFYYlujVBSabhfT-5JpgF-z7tfkTGMy6l4EKydrk7eLh12dzHjqLK39iJ4qPXpEyy_IHE4Vwkh7kPE__y-D1Hv04YtauaqDZltc0KKQuZs3lJW6Th1bAL0i6MV0Qyn8H9AcrCJ2JX6AGOGoykprv3_9wxmpfNEzpVq7L0AAAA&tenantId=6001%27
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:0 tvg-logo="https://hometv.pw/logo/movies/hbo.png" group-title="Cubmu" tvg-id="001" tvg-name="016-LABURATV",HBO (CUB)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
