@@ -15,8 +15,12 @@ https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkstb-SV42XlWyl3SvVjsM9m4g3nKJFRHOoa-AcRUJ42zPoP0hDSW1cdUiBXxrqGfO4nITwtLm4fNtdb2JIhHYJJlhm-uSNHW5u5Vl4MW221nSerKc5ya8PDR6k8mKx3UXij_jBZZo5puMV4cozR696HHYSidoNKU06ituOwVCBofHWyiQmPLB46o5h4I/s320/btv%20longer.png" group-title="NASIONAL",tes4
 #EXTVLCOPT:http-user-agent=NASIONAL/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+====tes
 
 
+
+
+===cubmu
 #EXTINF:0 tvg-logo="https://hometv.pw/logo/movies/hbo.png" group-title="Cubmu" tvg-id="001" tvg-name="016-LABURATV",HBO (CUB)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
