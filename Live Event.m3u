@@ -1,4 +1,17 @@
 #EXTM3U
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-MEDIA-SEQUENCE:1722928566
+#EXT-X-TARGETDURATION:4
+#EXTINF:4,
+ballbar_9440-1722928566.ts?txspiseq=10913615038416374851
+#EXTINF:4,
+ballbar_9440-1722928567.ts?txspiseq=10913615038416374851
+#EXTINF:4,
+ballbar_9440-1722928568.ts?txspiseq=10913615038416374851
 
+#EXTINF:0 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="my" tvg-id="001" tvg-name="016-LABURATV", tes
+https://lebo.huminbird.cn/live/ballbar_9440.m3u8
 
