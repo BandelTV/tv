@@ -103,9 +103,5 @@ https://camera.jtd.co.id/camera/share/tios/2/20/index.m3u8
 https://camera.jtd.co.id/camera/share/tios/2/25/index.m3u8
 
 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
-#EXTINF:-1 tvg-id="JAMBEETV" tvg-logo="https://media.tenor.com/DZWkUd1dlygAAAAj/peepo-polska-pepo-polska.gif" group-title="UNCATEGORIES",XXX  
-https://raw.githubusercontent.com/forumberbagi/forumberbagi/main/jumpsc.mp4?raw=true
-
 
 
