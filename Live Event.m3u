@@ -63,70 +63,49 @@ http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/574493
 
 
 ====new
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
-#EXTINF:-1 tvg-id="JAMBEETV" tvg-logo="https://i.imgur.com/zqKnjOm.png" group-title=".NEW MOVIE 2024",Kingdom Planet the Apes (2024)
-https://stream.hownetwork.xyz/xxx/kingdom-of-the-planet-of-the-apes-2024-webdl_X_b2f3fa82/22/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dy9beMd.png" group-title="CCTV LIVE INDO",Medan Masjid Raya
+https://atcsdishub.pemkomedan.go.id/camera/KATAMSOMASJIDRAYA.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dy9beMd.png" group-title="CCTV LIVE INDO",Medan Simpang Thamrin
+https://atcsdishub.pemkomedan.go.id/camera/THAMRINYAMIN.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dy9beMd.png" group-title="CCTV LIVE INDO",Medan Sudirman
+https://atcsdishub.pemkomedan.go.id/camera/SUDIRMANDIPONEGORO.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dy9beMd.png" group-title="CCTV LIVE INDO",Bandung Terminal Cicaheum
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/terminalcicaheum.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dy9beMd.png" group-title="CCTV LIVE INDO",Bandung Simpang Dago
+https://pelindung.bandung.go.id:3443/video/DAHUA/DAG.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dy9beMd.png" group-title="CCTV LIVE INDO",Bandung Cimindi
+https://pelindung.bandung.go.id:3443/video/DAHUA/CIMI.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dy9beMd.png" group-title="CCTV LIVE INDO",Bandung Asia Afrika 
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/asiaafrika.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dy9beMd.png" group-title="CCTV LIVE INDO",Jogja Malioboro 1
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_11_Terang_Bulan.stream/chunklist_w1875455047.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dy9beMd.png" group-title="CCTV LIVE INDO",Jogja Malioboro 2
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_25_Utara_Mall.stream/chunklist_w1889234809.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dy9beMd.png" group-title="CCTV LIVE INDO",Jogja Simpang Ruswo
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Ibu_Ruswo.stream/chunklist_w223677436.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dy9beMd.png" group-title="CCTV LIVE INDO",Jogja Simpang Mirota
+https://cctvjss.jogjakota.go.id/atcs/ATCS_mirota.stream/chunklist_w952862770.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dy9beMd.png" group-title="CCTV LIVE INDO",Jakarta Tol Pulo Gebang
+https://camera.jtd.co.id/camera/share/tios/2/20/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dy9beMd.png" group-title="CCTV LIVE INDO",Jakarta Tol Kelapa Gading
+https://camera.jtd.co.id/camera/share/tios/2/25/index.m3u8
+
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
-#EXTINF:-1 tvg-id="JAMBEETV" tvg-logo="https://www.glenbrookcinema.com.au/imagesDB/movies/TheGarfieldMovieSlideG.jpg" group-title=".NEW MOVIE 2024",The Garfield Movie (2024)
-https://stream.hownetwork.xyz/xxx/the-garfield-movie-2024-webdl_X_74da3cf7/22/480.m3u8
-
-#EXTINF:-1 group-title=".NEW MOVIE 2024" tvg-logo="https://assets-prd.ignimgs.com/2024/04/03/the-last-stop-in-yuma-county-button-1712168731263.jpg" ,The Last Stop in Yuma (2024)
-https://stream.hownetwork.xyz/xxx/the-last-stop-in-yuma-county-2024-bluray_X_539c0589/22/480.m3u8
-
-#EXTINF:-1 group-title=".NEW MOVIE 2024" tvg-logo="https://i.ytimg.com/vi/t-EXk4iQhXw/maxresdefault.jpg" ,The Inheritance (2024)
-https://stream.hownetwork.xyz/xxx/the-inheritance-2024-webdl_X_0eda98e6/22/480.m3u8
-
-#EXTINF:-1 group-title=".NEW MOVIE 2024" tvg-logo="https://i.ytimg.com/vi/PI4Z7t3AZ5E/maxresdefault.jpg" ,The Convert (2024)
-https://stream.hownetwork.xyz/xxx/the-convert-2024-webdl_X_6756270a/22/480.m3u8
-
-#EXTINF:-1 group-title=".NEW MOVIE 2024" tvg-logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/06/beverly-hills-cop-4-axel-f.jpg" ,Beverly Hills Cop (2024)
-https://stream.hownetwork.xyz/xxx/beverly-hills-cop-axel-f-2024-webdl_X_f2bcfc06/22/480.m3u8
-
-#EXTINF:-1 group-title=".NEW MOVIE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzUxMmFhOGItNzA0Ni00MWMzLThhNWQtZThjZmUxYzIzMjUzXkEyXkFqcGc@._V1_.jpg" ,I Am: Celine Dion (2024)
-https://stream.hownetwork.xyz/xxx/i-am-celine-dion-2024-webdl_X_615e223c/22/480.m3u8
-
-#EXTINF:-1 group-title=".NEW MOVIE 2024" tvg-logo="https://cms.disway.id/uploads/d418b083b2d8e86456ec6889c16e46cc.jpeg" ,Furiosa A Mad Max Saga (2024)
-https://stream.hownetwork.xyz/xxx/furiosa-a-mad-max-saga-2024-webdl_X_610b86ef/22/480.m3u8
-
-#EXTINF:-1 group-title=".NEW MOVIE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BODM0ZTRmZjktZWMyNC00NjExLThmZjgtYjZmYzgzNTI4ZTBjXkEyXkFqcGc@._V1_.jpg" ,Ship of the Damned (2024)
-https://stream.hownetwork.xyz/xxx/ship-of-the-damned-2024-webdl_X_ff121934/22/480.m3u8
-
-#EXTINF:-1 group-title=".NEW MOVIE 2024" tvg-logo="https://i.ytimg.com/vi/NJDl4a25ktA/maxresdefault.jpg" ,Ghostbusters Frozen Empire (2024)
-https://stream.hownetwork.xyz/xxx/ghostbusters-frozen-empire-2024-bluray_X_8dd415a8/22/480.m3u8
-
-#EXTINF:-1 group-title=".NEW MOVIE 2024" tvg-logo="https://i.imgur.com/KFiteG4.png",Space Sharks (2024)
-https://stream.hownetwork.xyz/xxx/space-sharks-2024-webdl_X_642d5957/22/480.m3u8
-
-#EXTINF:-1 group-title=".NEW MOVIE 2024" tvg-logo="https://i.imgur.com/iyQplie.png",The Fall Guy (2024)
-https://stream.hownetwork.xyz/xxx/the-fall-guy-2024-bluray_X_f06148a6/22/480.m3u8
-
-#EXTINF:-1 group-title=".NEW MOVIE 2024" tvg-logo="https://i.imgur.com/UudePtd.png",The Dead Donâ€™t Hurt (2024)
-https://stream.hownetwork.xyz/xxx/the-dead-dont-hurt-2024-webdl_X_a6e98b9c/22/480.m3u8
-
-#EXTINF:-1 group-title=".NEW MOVIE 2024" tvg-logo="https://i.imgur.com/eAzir79.png",Murder Company (2024)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/05/Murder.Company.2024.mp4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title=".NEW MOVIE 2024" tvg-logo="https://i.imgur.com/WsnajIv.png",A Sacrifice (2024)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/07/A.Sacrifice.2024.mp4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title=".NEW MOVIE 2024" tvg-logo="https://i.imgur.com/u7rG5rl.png",Latency (2024)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/02/Latency.2024.mp4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title=".NEW MOVIE 2024" tvg-logo="https://i.imgur.com/O3U5gUm.png",Despicable Me 4 (2024)cam 
-https://stream.hownetwork.xyz/xxx/despicable-me-4-2024-cam_X_0626cb0e/22/480.m3u8
-
-#EXTINF:-1 group-title=".NEW MOVIE 2024" tvg-logo="https://i.imgur.com/BXiFYk8.png",Dragonkeeper (2024)
-https://stream.hownetwork.xyz/xxx/dragonkeeper-2024-webdl_X_93edaa53/22/480.m3u8
-
-#EXTINF:-1 group-title=".NEW MOVIE 2024" tvg-logo="https://i.imgur.com/FJcdPEQ.png",Tarot (2024)
-https://stream.hownetwork.xyz/xxx/tarot-2024-bluray_X_ab45590f/22/480.m3u8
-
-#EXTINF:-1 group-title=".NEW MOVIE 2024" tvg-logo="https://i.imgur.com/0f8GPFm.png",Winnie-the-Pooh: Blood and Honey 2 (2024)
-https://stream.hownetwork.xyz/xxx/winnie-the-pooh-blood-and-honey-2-2024-webdl_X_3dbda99e/22/480.m3u8
-
-#EXTINF:0 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="my" tvg-id="001" tvg-name="016-LABURATV", tes
-https://lebo.huminbird.cn/live/ballbar_9440.m3u8
+#EXTINF:-1 tvg-id="JAMBEETV" tvg-logo="https://media.tenor.com/DZWkUd1dlygAAAAj/peepo-polska-pepo-polska.gif" group-title="UNCATEGORIES",XXX  
+https://raw.githubusercontent.com/forumberbagi/forumberbagi/main/jumpsc.mp4?raw=true
 
 
 
