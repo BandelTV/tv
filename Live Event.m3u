@@ -101,3 +101,10 @@ https://camera.jtd.co.id/camera/share/tios/2/20/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dy9beMd.png" group-title="CCTV LIVE INDO",Jakarta Tol Kelapa Gading
 https://camera.jtd.co.id/camera/share/tios/2/25/index.m3u8
+
+
+
+====new
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/80sZvKZ/20240729-095555.png" group-title="SPORTS CHANNEL", T SPORTS HD
+https://bdix.proximitybd.xyz/join-@live_cricket_24.php?id=live-01
