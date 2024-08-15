@@ -1,5 +1,209 @@
 #EXTM3U
 
+===BEIN==VIDEO FOR EVENT
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="IPTV",bein1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://indahtv.net/vidio/index.php?id=6299&type=drm
+https://indahtv.net/vidio/dash.mpd?id=6299
+
+====tes
+
+
+====
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://i.ibb.co.com/XJ1Gbkc/youtube.webp" group-title="REMIX NDUT",hanya km yg bisa 
+https://m.vidio.com/videos/2058978/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif" group-title="REMIX NDUT",mungkinkah 
+https://m.vidio.com/videos/2058977/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif" group-title="REMIX NDUT",rindu 
+https://m.vidio.com/videos/2058975/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif" group-title="REMIX NDUT",hanyut dalam kecewa 
+https://m.vidio.com/videos/7203451/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif" group-title="REMIX NDUT",jgn marah 
+https://m.vidio.com/videos/7209990/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif" group-title="REMIX NDUT",kgn dangdut 
+https://m.vidio.com/videos/7197500/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif" group-title="REMIX NDUT",cnt tak memilih 
+https://m.vidio.com/videos/1193276/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif" group-title="REMIX NDUT",kau tercipta 
+https://m.vidio.com/videos/7200508/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT",cucak rowo 
+https://m.vidio.com/videos/2239073/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 group-title=" REMIX NDUT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT" ,Trio macan1 
+https://m.vidio.com/videos/1993675/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 group-title=" Music DJ" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT" ,Trio macan2 
+https://m.vidio.com/videos/2638797/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 group-title=" Music DJ" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT" ,Trio macan3 
+https://m.vidio.com/videos/2276819/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 group-title=" Music DJ" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT" ,Trio macan4 
+https://m.vidio.com/videos/7619412/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 group-title=" Music DJ" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT" ,mukamu manis 
+https://m.vidio.com/videos/7167514/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 group-title=" Music DJ" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT" ,gaun merah 
+https://m.vidio.com/videos/2236421/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 group-title=" Music DJ" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT" ,kau bkn dirimu 
+https://m.vidio.com/videos/7044516/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 group-title=" Music DJ" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT" ,gengsi dong 
+https://m.vidio.com/videos/7183997/common_tokenized_playlist.m3u8
+
+
+===tes2
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="NDUT", INDOSIAR 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+
+#EXTINF:-1 tvg-logo="" group-title="NDUT" ,INDOSIAR
+http://108.181.132.217:8070/AmirBilali/76448035/162138
+
+#EXTINF:-1 tvg-logo="" group-title="NDUT" ,INDOSIAR 2 
+http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NDUT" ,INDOSIAR3 
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NInUu12.gif" group-title="NDUT",Indosiar Event 1
+http://iptvtree.net:8080/one-day-test-89fc/54CbToqS2c/162138
+#EXTINF:-1 tvg-id="" group-title="NDUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+
+#EXTINF:-1 tvg-id="" group-title="NDUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR 1
+http://xtv.ooo:8080/321166661/52816191/350972
+#EXTINF:-1 tvg-id="" group-title="NDUT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR 1
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NDUT" ,MOJI
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
+
+#EXTINF:-1 tvg-logo="" group-title="NDUT" ,TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2090299990_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NDUT" ,ANTV
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NDUT" ,TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1989690183_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NDUT" ,RCTV
+https://v5.siar.us:443/rctv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NDUT" ,MNC TV
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/165054.ts
+
+
+TES3
+#EXTINF:-1 tvg-logo="" group-title="NDUT" ,TES
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://raw.githubusercontent.com/AqFad2811/video/main/staytuned/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NDUT" ,TES1
+
+#EXTINF:-1 tvg-logo="" group-title="NDUT" ,Al-Taawoun vs Al Nassr FC
+https://dutk.fun/e2736
+#EXTINF:-1 tvg-logo="" group-title="NDUT" ,Real Madrid vs Atalanta
+https://dutk.fun/e2740
+
+#EXTINF:-1 tvg-logo="" group-title="NDUT" ,Real Madrid vs Atalanta
+https://dutk.fun/e2770
+
+#EXTINF:-1 tvg-logo="" group-title="NDUT" ,RCTV
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/48
+
+#EXTINF:-1 tvg-logo="" group-title="NDUT" ,RCTV
+
+
+#EXTINF:-1 tvg-logo="" group-title="NDUT" ,RCTV
+
+
+tes4
+
+====HBO MAXSTREAM===
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="http://x1.cdn.broiptv.com/img/hbo.png" group-title="HBO MAXSTREAM",HBO (Maxstream)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_family.png" group-title="HBO MAXSTREAM",HBO Family (Maxstream)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_hits.png" group-title="HBO MAXSTREAM",HBO Hits (Maxstream)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_signature.png" group-title="HBO MAXSTREAM",HBO Signature (Maxstream)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
+#EXTINF:-1 tvg-id="CINEMAX" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="http://x1.cdn.broiptv.com/img/cinemax.png" group-title="HBO MAXSTREAM",CINEMAX (Maxstream)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
+
+
+===
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjYxOTY6NzU2OjRjYTQ6YzA3YiIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiaGJvIiwic2lnbmF0dXJlS2V5IjoiOTU3NzIxNTBmMTljMzYyZmIwNDY5OTBiY2ZmMDg1MjEiLCJwcm92aWRlciI6Im1heHN0cmVhbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzIzNzk3NzA5fQ
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://iptvsystem.my.id/img/hbo.png" group-title="HBO Group",HBO (MAX)
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjYxOTY6NzU2OjRjYTQ6YzA3YiIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiaGJvaGl0cyIsInNpZ25hdHVyZUtleSI6Ijk5ZTU1ZjIwNThhZjcyN2NiZGEyODgyZWUzMWM4YTg0IiwicHJvdmlkZXIiOiJtYXhzdHJlYW0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyMzc5NzcwOX0
+#EXTINF:-1 tvg-name="HBO HITS" tvg-logo="https://iptvsystem.my.id/img/hbohits.png" group-title="HBO Group",HBO HITS (MAX)
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjYxOTY6NzU2OjRjYTQ6YzA3YiIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiaGJvc2lnIiwic2lnbmF0dXJlS2V5IjoiM2U2MmE0OTY4Y2M1NGQ1ZWNkMTY1ZDVjN2FhYjU5MzkiLCJwcm92aWRlciI6Im1heHN0cmVhbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzIzNzk3NzA5fQ
+#EXTINF:-1 tvg-name="HBO SIGN" tvg-logo="https://iptvsystem.my.id/img/hbosig.png" group-title="HBO Group",HBO SIGN (MAX)
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjYxOTY6NzU2OjRjYTQ6YzA3YiIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiaGJvZmFtIiwic2lnbmF0dXJlS2V5IjoiOWU3NjlmOGZkMWYxMDExMzVhODYzMWNjYjZhZmMxNmUiLCJwcm92aWRlciI6Im1heHN0cmVhbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzIzNzk3NzA5fQ
+#EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png" group-title="HBO Group",HBO FAMILY (MAX)
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjYxOTY6NzU2OjRjYTQ6YzA3YiIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiY2luZW1heCIsInNpZ25hdHVyZUtleSI6IjYyMzJmNzIxOWQ4ZDBkNjVhMzZjMjhkOTVkY2E1NjY0IiwicHJvdmlkZXIiOiJtYXhzdHJlYW0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyMzc5NzcwOX0
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://iptvsystem.my.id/img/cinemax.png" group-title="HBO Group",CINEMAX (MAX)
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
 
 
