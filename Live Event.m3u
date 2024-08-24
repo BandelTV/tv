@@ -19,7 +19,13 @@
   <!-- Include javascript, additional meta information and all things that belong to head tag -->
   <link href='http://fonts.googleapis.com/css?family=Droid+Sans'
   rel='stylesheet' type='text/css'><noscript>======== Bandel TV
-  
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",INDOSIAR (HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://indahtv.net/vidio/hls.m3u8?id=205
+
+
 
 ====== MotoGP 1 ======
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
