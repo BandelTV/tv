@@ -6,6 +6,258 @@
 
 
 
+====== MotoGP 1 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/motogp.png" group-title="ðŸ‡¦ðŸ‡¹ MotoGP", Stream 1
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+====== MotoGP 2 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/motogp.png" group-title="ðŸ‡¦ðŸ‡¹ MotoGP", Stream 2
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+
+====== MotoGP 3 ======
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/get.php?keyID=TNTSports2
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/motogp.png" group-title="ðŸ‡¦ðŸ‡¹ MotoGP", Stream 3
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+
+====== MotoGP 4 ======
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdnjs.mobie.in/drm/clearkey/dazn/1es.js
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/motogp.png" group-title="ðŸ‡¦ðŸ‡¹ MotoGP", Stream 4
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+
+====== MotoGP 5 ======
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-origin=https://claplivehdplay.ru
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/motogp.png" group-title="ðŸ‡¦ðŸ‡¹ MotoGP", Stream 5
+https://webhdrus.onlinehdhls.ru/lb/premium289/index.m3u8
+
+
+======== Coffee TV ========
+==----->> EPL <<-----==
+
+
+====== EPL 1 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/epl.png" group-title="ðŸ‡¬ðŸ‡§ LIGA INGGRIS", Stream 1
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+====== EPL 2 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/epl.png" group-title="ðŸ‡¬ðŸ‡§ LIGA INGGRIS", Stream 2
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+
+====== EPL 3 ======
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/get.php?keyID=TNTSports2
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/epl.png" group-title="ðŸ‡¬ðŸ‡§ LIGA INGGRIS", Stream 3
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+
+====== EPL 4 ======
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdnjs.mobie.in/drm/clearkey/dazn/1es.js
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/epl.png" group-title="ðŸ‡¬ðŸ‡§ LIGA INGGRIS", Stream 4
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+
+====== EPL 5 ======
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-origin=https://claplivehdplay.ru
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/epl.png" group-title="ðŸ‡¬ðŸ‡§ LIGA INGGRIS", Stream 5
+https://webhdrus.onlinehdhls.ru/lb/premium289/index.m3u8
+
+
+======== Coffee TV ========
+==----->> LALIGA <<-----==
+
+
+
+====== LALIGA 1 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/laliga.png" group-title="ðŸ‡ªðŸ‡¸ LIGA SPAIN", Stream 1
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+====== LALIGA 2 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/laliga.png" group-title="ðŸ‡ªðŸ‡¸ LIGA SPAIN", Stream 2
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+
+====== LALIGA 3 ======
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/get.php?keyID=TNTSports2
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/laliga.png" group-title="ðŸ‡ªðŸ‡¸ LIGA SPAIN", Stream 3
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+
+====== LALIGA 4 ======
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdnjs.mobie.in/drm/clearkey/dazn/1es.js
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/laliga.png" group-title="ðŸ‡ªðŸ‡¸ LIGA SPAIN", Stream 4
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+
+====== LALIGA 5 ======
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-origin=https://claplivehdplay.ru
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/laliga.png" group-title="ðŸ‡ªðŸ‡¸ LIGA SPAIN", Stream 5
+https://webhdrus.onlinehdhls.ru/lb/premium289/index.m3u8
+
+
+======== Coffee TV ========
+==----->> SERIE A <<-----==
+
+
+
+====== SERIE A 1 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/seriea.png" group-title="ðŸ‡®ðŸ‡¹ LIGA ITALIA", Stream 1
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+====== SERIE A 2 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/seriea.png" group-title="ðŸ‡®ðŸ‡¹ LIGA ITALIA", Stream 2
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+====== SERIE A 3 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/seriea.png" group-title="ðŸ‡®ðŸ‡¹ LIGA ITALIA", Stream 3
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+
+====== SERIE A 4 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/seriea.png" group-title="ðŸ‡®ðŸ‡¹ LIGA ITALIA", Stream 4
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+====== SERIE A 5 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/seriea.png" group-title="ðŸ‡®ðŸ‡¹ LIGA ITALIA", Stream 5
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+
+
+======== Coffee TV ========
+==----->> LIGUE 1 <<-----==
+
+
+
+====== LIGUE 1 1 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/ligue1.png" group-title="ðŸ‡«ðŸ‡· LIGA FRANCE", Stream 1
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+
+====== LIGUE 1 2 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/ligue1.png" group-title="ðŸ‡«ðŸ‡· LIGA FRANCE", Stream 2
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+
+====== LIGUE 1 3 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/ligue1.png" group-title="ðŸ‡«ðŸ‡· LIGA FRANCE", Stream 3
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+
+====== LIGUE 1 4 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/ligue1.png" group-title="ðŸ‡«ðŸ‡· LIGA FRANCE", Stream 4
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+
+====== LIGUE 1 5 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/ligue1.png" group-title="ðŸ‡«ðŸ‡· LIGA FRANCE", Stream 5
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+
+
+======== Coffee TV ========
+==---->> BUNDESLIGA <<----==
+
+
+
+====== BUNDESLIGA 1 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/bundesliga.png" group-title="ðŸ‡©ðŸ‡ª LIGA JERMAN", Stream 1
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+
+====== BUNDESLIGA 2 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/bundesliga.png" group-title="ðŸ‡©ðŸ‡ª LIGA JERMAN", Stream 2
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+
+====== BUNDESLIGA 3 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/bundesliga.png" group-title="ðŸ‡©ðŸ‡ª LIGA JERMAN", Stream 3
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+
+====== BUNDESLIGA 4 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/bundesliga.png" group-title="ðŸ‡©ðŸ‡ª LIGA JERMAN", Stream 4
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+
+====== BUNDESLIGA 5 ======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="http://coffeetv.mobie.in/icon/event/bundesliga.png" group-title="ðŸ‡©ðŸ‡ª LIGA JERMAN", Stream 5
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 
 
